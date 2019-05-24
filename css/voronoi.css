@@ -1,0 +1,42 @@
+#sbwrap {
+  position: absolute;
+  margin: 4.5em;
+  z-index: +10;
+  opacity: 1;
+  padding: 1em;
+  width: 24em;
+}
+
+  body.is-menu-visible #sbwrap {
+    opacity: 0.15;
+  }
+
+  @media screen and (max-width: 1680px) {
+    #sbwrap {
+      padding: 3em;
+    }
+  }
+
+  @media screen and (max-width: 1280px) {
+    #sbwrap {
+      display: block;
+    }
+  }
+
+  @media screen and (max-width: 736px) {
+    #sbwrap {
+      padding: 1.5em;
+    }
+  }
+
+path{
+  stroke-width: 0.5px;
+}
+
+.title {
+font-family: Raleway;
+font-weight: 900;
+font-size: 4em;
+letter-spacing: .5em;
+text-transform: uppercase;
+}

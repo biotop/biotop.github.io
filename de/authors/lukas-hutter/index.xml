@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lukas Hutter on Biotop</title>
+    <link>http://biotop.co/de/authors/lukas-hutter/</link>
+    <description>Recent content in Lukas Hutter on Biotop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>biotop</copyright>
+    <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/de/authors/lukas-hutter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neue Website</title>
+      <link>http://biotop.co/de/blog/new-website/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/new-website/</guid>
+      <description>Wir freuen uns dich auf unserer neuen Website willkommen zu heißen. Vorerst ist sie mit Englisch und Deutsch zweisprachig, aber wir hoffen unsere Inhalte in Zukunft auch in Slowenischer und Italienischer Sprache zur Verfügung stellen zu können.</description>
+    </item>
+    
+    <item>
+      <title>Über BIOTOP*</title>
+      <link>http://biotop.co/de/blog/about-biotop/</link>
+      <pubDate>Wed, 11 May 2016 14:10:09 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/about-biotop/</guid>
+      <description>Biotop ist ein offenes Wissenschaftskollektiv, das sich der neugiergetriebenen, disziplinenübergreifenden und kollaborativen Erforschung, Umsetzung und Vermittlung wissenschaftlicher Ideen verschreibt. Es ist der Versuch, im Sinne eines Experimentes, die Art und Weise wie wir Wissenschaft betreiben neu zu erfinden.
+Warum? Wissenschaft und Forschung sind Unterfangen, die vor Idealismus und Innovationsgeist strotzen sollten. Dennoch begegnen junge WissenschafterInnen einer Karriere in der Wissenschaft zunehmend mit Ernüchterung. Die dieser Entwicklung zugrunde liegenden Probleme sind systemisch:</description>
+    </item>
+    
+  </channel>
+</rss>

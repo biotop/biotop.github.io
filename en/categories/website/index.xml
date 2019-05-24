@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Biotop</title>
+    <link>http://biotop.co/en/categories/website/</link>
+    <description>Recent content in Website on Biotop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>biotop</copyright>
+    <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/en/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Website</title>
+      <link>http://biotop.co/en/blog/new-website/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/en/blog/new-website/</guid>
+      <description>We&amp;rsquo;re happy to welcome you to our new website! At the moment it is available in English and German, but we hope soon to be able to publish content in Slovenian and Italian as well.</description>
+    </item>
+    
+  </channel>
+</rss>

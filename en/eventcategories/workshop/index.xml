@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshop on Biotop</title>
+    <link>http://biotop.co/en/eventcategories/workshop/</link>
+    <description>Recent content in Workshop on Biotop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>biotop</copyright>
+    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/en/eventcategories/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Microscopy using Foldscopes</title>
+      <link>http://biotop.co/en/event/foldscope-workshop_19-02-23/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/en/event/foldscope-workshop_19-02-23/</guid>
+      <description>Foldscope Workshop | 23.02.2019, 15:00 - 17:30 | Biotop Pop-Up Office, Gerbergasse 3, A-9500 Villach More spaces due to popular demand!!! Dive into an invisible world and experience the fascination of magnification. Together we are going to build microscopes out of paper and examine different samples from plants, animals and other tissues.
+ Children and adults are equally welcome! Bring a smartphone and your foldscope (if you already have one).</description>
+    </item>
+    
+    <item>
+      <title>Microscopy using Foldscopes</title>
+      <link>http://biotop.co/en/event/foldscope-workshop_19-02-02/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/en/event/foldscope-workshop_19-02-02/</guid>
+      <description>Foldscope Workshop | 02.02.2019, 15:00 - 17:30 | Biotop Pop-Up Office, Gerbergasse 3, A-9500 Villach Dive into an invisible world and experience the fascination of magnification. Together we are going to build microscopes out of paper and examine different samples from plants, animals and other tissues.
+ Children and adults are equally welcome! Bring a smartphone and your foldscope (if you already have one). Fee: 15 Euro including a foldscope to take home with you.</description>
+    </item>
+    
+  </channel>
+</rss>
