@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Biotop Science Collective</title>
+    <link>http://biotop.co/projects/</link>
+    <description>Recent content in Projects on Biotop Science Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2019 09:22:55 +0200</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Exhibitions</title>
+      <link>http://biotop.co/projects/exhibitions/</link>
+      <pubDate>Tue, 13 Aug 2019 09:23:31 +0200</pubDate>
+      
+      <guid>http://biotop.co/projects/exhibitions/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>http://biotop.co/projects/workshops/</link>
+      <pubDate>Tue, 13 Aug 2019 09:23:10 +0200</pubDate>
+      
+      <guid>http://biotop.co/projects/workshops/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+    </item>
+    
+    <item>
+      <title>Our Services</title>
+      <link>http://biotop.co/projects/our-services/</link>
+      <pubDate>Tue, 13 Aug 2019 09:22:55 +0200</pubDate>
+      
+      <guid>http://biotop.co/projects/our-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containerlab</title>
+      <link>http://biotop.co/projects/containerlab/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/projects/containerlab/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+    </item>
+    
+    <item>
+      <title>DNA Barcoding</title>
+      <link>http://biotop.co/projects/barcoding/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/projects/barcoding/</guid>
+      <description>What is DNA-barcoding?  DNA-barcoding is a method that is uses a small section of the DNA to specify an organism. The chosen section has to be unique for every species. It is called barcode because it can be assigned distinctively like a supermarket barcode to a product.
+DNA stores genetic information like computercode only instead of the numbers 0 and 1 DNA uses four bases as &amp;lsquo;letters&amp;rsquo;: adenine, thymine, cytosine and guanine.</description>
+    </item>
+    
+    <item>
+      <title>Science Comic</title>
+      <link>http://biotop.co/projects/sciencecomic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/projects/sciencecomic/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+    </item>
+    
+  </channel>
+</rss>

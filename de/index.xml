@@ -1,50 +1,404 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biotop</title>
+    <title>Startseite on Biotop Wissenschaftskollektiv</title>
     <link>http://biotop.co/de/</link>
-    <description>Recent content on Biotop</description>
+    <description>Recent content in Startseite on Biotop Wissenschaftskollektiv</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>biotop</copyright>
-    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2019 17:07:36 +0200</lastBuildDate>
     
 	<atom:link href="http://biotop.co/de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Mikroskopieren mit dem Foldscope</title>
-      <link>http://biotop.co/de/event/foldscope-workshop_19-02-23/</link>
-      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Lukas Hutter</title>
+      <link>http://biotop.co/de/people/lukas-hutter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://biotop.co/de/event/foldscope-workshop_19-02-23/</guid>
-      <description>Foldscope Workshop | 23.02.2019, 15:00 - 17:30 | Biotop Pop-Up Office, Gerbergasse 3, A-9500 Villach Weiterer Termin wegen großer Nachfrage!!! Tauche ein in eine unsichtbare Welt und erlebe die Faszination der Vergrößerung. Falte mit uns gemeinsam dein eigenes Mikroskop aus Papier und untersuch damit verschiedene Proben von Pflanzen, Tieren und anderen Zellarten.
- Erwachsene und Kinder sind gleichermaßen willkommen! Mitbringen: Smartphone und falls ihr bereits eines habt, euer Foldscope. Kostenbeitrag: 15 Euro inklusive Foldscope zum mit nach Hause nehmen.</description>
+      <guid>http://biotop.co/de/people/lukas-hutter/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mikroskopieren mit dem Foldscope</title>
-      <link>http://biotop.co/de/event/foldscope-workshop_19-02-02/</link>
-      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Leitbild</title>
+      <link>http://biotop.co/de/mission-statement/</link>
+      <pubDate>Tue, 13 Aug 2019 09:17:28 +0200</pubDate>
       
-      <guid>http://biotop.co/de/event/foldscope-workshop_19-02-02/</guid>
-      <description>Foldscope Workshop | 02.02.2019, 15:00 - 17:30 | Biotop Pop-Up Office, Gerbergasse 3, A-9500 Villach Tauche ein in eine unsichtbare Welt und erlebe die Faszination der Vergrößerung. Falte mit uns gemeinsam dein eigenes Mikroskop aus Papier und untersuch damit verschiedene Proben von Pflanzen, Tieren und anderen Zellarten.
- Erwachsene und Kinder sind gleichermaßen willkommen! Mitbringen: Smartphone und falls ihr bereits eines habt, euer Foldscope. Umkostenbeitrag: 15 Euro inklusive Foldscope zum mit nach Hause nehmen.</description>
+      <guid>http://biotop.co/de/mission-statement/</guid>
+      <description>Was? Biotop ist ein offenes Wissenschaftskollektiv, das sich der neugiergetriebenen, disziplinenübergreifenden und kollaborativen Erforschung, Umsetzung und Vermittlung wissenschaftlicher Ideen verschreibt. Es ist der Versuch, im Sinne eines Experimentes, die Art und Weise wie wir Wissenschaft betreiben neu zu erfinden.
+Was bietet mir biotop? Wie kann ich mitmachen? Warum? Wissenschaft und Forschung sind Unterfangen, die vor Idealismus und Innovationsgeist strotzen sollten. Dennoch begegnen junge WissenschafterInnen einer Karriere in der Wissenschaft zunehmend mit Ernüchterung.</description>
     </item>
     
     <item>
-      <title>Meet Biotop</title>
-      <link>http://biotop.co/de/event/meet_biotop/</link>
-      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Anna Köferle</title>
+      <link>http://biotop.co/de/people/anna-koeferle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://biotop.co/de/event/meet_biotop/</guid>
-      <description>2018 war für Biotop ein sehr ereignisreiches und erfolgreiches Jahr. Um 2018 feierlich abzuschließen und einen kleinen Vorgeschmack auf das kommende Jahr zu geben, laden wir dich heute, Donnerstag (20.12.), herzlich in unser Büro in die Gerbergasse 3 ein!
-Ab 18:00 erwartet dich ein kurzer Jahresrückblick, sowie ein Rahmenprogramm aus Science Slams, fuer das Neurowissenschafterin, Strömungsingeniuer und Molekularbiologen extra anreisen. Für das leibliche Wohl wird gesorgt sein.</description>
+      <guid>http://biotop.co/de/people/anna-koeferle/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Biotop Adventkalender 2018</title>
-      <link>http://biotop.co/de/blog/xmascal2018/</link>
+      <title>Ralf Bliem</title>
+      <link>http://biotop.co/de/people/ralf-bliem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/people/ralf-bliem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitmachen &amp; Unterstützen</title>
+      <link>http://biotop.co/de/support/</link>
+      <pubDate>Tue, 13 Aug 2019 09:17:28 +0200</pubDate>
+      
+      <guid>http://biotop.co/de/support/</guid>
+      <description>Wie kann ich mitmachen? Vor Ort Laufendes Programm Über unser laufendes Programm, das unter anderem Vorträge, Abendveranstaltungen und Meet-and-Greets umfasst, kannst Du Dich im Bereich Veranstaltungen informieren.
+Workshops Nie zuvor war es ein derart Leichtes sich spielerisch forschend zu betätigen. Gleichsam ist Wissenschaft in erster Linie ein Prozess, der sich einem wohl am Besten erschließt, wenn man wissenschaftlich arbeitet. Um diese Arbeitsweise zu vermitteln, wollen wir regelmäßig Workshops anbieten, die sich an eine Reihe von Zielgruppen wie beispielsweise Schulklassen oder interessierte Laien wenden, und einen niederschwelligen, spielerischen Zugang zu komplexen und relevanten wissenschaftlichen Fragestellungen gewähren.</description>
+    </item>
+    
+    <item>
+      <title>Anna Ritscher</title>
+      <link>http://biotop.co/de/people/anna-ritscher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/people/anna-ritscher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>http://biotop.co/de/imprint/</link>
+      <pubDate>Tue, 13 Aug 2019 09:17:28 +0200</pubDate>
+      
+      <guid>http://biotop.co/de/imprint/</guid>
+      <description>Biotop Wissenschaftskollektiv  ZVR: 1849241330 Eisenhammer Weg 2 / 58  A-9500 Villach  AUSTRIA
+ +43 664 455 60 76  info@biotop.co</description>
+    </item>
+    
+    <item>
+      <title>Anna Wächter-Mittersteiner</title>
+      <link>http://biotop.co/de/people/anna-waechter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/people/anna-waechter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Fera</title>
+      <link>http://biotop.co/de/people/martin-fera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/people/martin-fera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolfgang Schütz</title>
+      <link>http://biotop.co/de/people/wolfi-schuetz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/people/wolfi-schuetz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariangela Panniello</title>
+      <link>http://biotop.co/de/people/mariangela-panniello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/people/mariangela-panniello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Maffulli</title>
+      <link>http://biotop.co/de/people/roberto-maffulli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/people/roberto-maffulli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Nature</title>
+      <link>http://biotop.co/de/blog/human-nature/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/human-nature/</guid>
+      <description>Wann: 19.12.2019 20:15
+Wo: Stadtkinocenter Villach
+&amp;ldquo;Human Nature&amp;rdquo;: Die CRISPR Revolution beleuchtet die Entwicklung und Anwendungsgebiete der Genschere CRISPR-CAS9. Diese neue Technologie ermöglicht die präzise Veränderung des Erbguts von Organismen; vom Eingriff in die Biosphäre bis hin zur Manipulation des menschlichen Genoms scheint alles möglich. CRISPR stellt so die Heilung vieler genetischer Krankheiten in Aussicht. Doch wie weit darf die Forschung gehen? Wo liegt die Grenze zwischen einem medizinisch gerechtfertigten Eingriff und ethisch bedenklicher Selbstoptimierung?</description>
+    </item>
+    
+    <item>
+      <title>Vortex</title>
+      <link>http://biotop.co/de/blog/vortex/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/vortex/</guid>
+      <description>Wann: 07.12.2019 - 25.01.2020, Do, Fr, Sa, 17-20 Uhr sowie nach Vereinbarung
+Wo: In den Räumlichkeiten des ehemaligen Rollin’ Skate Shops am Oberen Kirchenplatz in Villach
+Unter dem Titel “VORTEX” präsentiert das Biotop-Wissenschaftskollektiv vom 7. Dezember 2019 bis zum 25. Jänner 2020 eine Ausstellung zum Thema “Komplexe Systeme verstehen”.
+Komplexität ist ein geflügeltes Wort. Wir sind von komplexen Systemen umgeben, nehmen an ihnen Teil und kämpfen mit ihren Folgen. Das Finanz- und Klimasystem sind zwei Beispiele für komplexe Systeme die unser aller Leben unweigerlich beeinflussen, und uns durch ihre scheinbare Undurchdringlichkeit verunsichern.</description>
+    </item>
+    
+    <item>
+      <title>Grabung - Grabelsdorf</title>
+      <link>http://biotop.co/de/blog/grabelsdorf/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/grabelsdorf/</guid>
+      <description>Biotop-Mitglied Martin ist in Grabelsdorf (Kärnten) aufgewachsen, einem Ort mit einer langen Geschichte. Im Dorf sind die Straßen nach Kelten und Etruskern benannt, es wurden dort bereits ein ganzes Gräberfeld ausgehoben, Teile einer eisenzeitlichen Siedlung (9.-6. Jh v. Chr.) wurden auch gefunden.
+Als Martin kürzlich daheim auf der Gracarca spazierenging, bemerkte er, dass der Wanderweg, der an der Kirche St. Daniel (bereits 1050 n.Chr. urkundlich erwähnt), vorbeiführt verbreitert wurde. Dabei kamen einige menschliche Knochen zum Vorschein, unter anderem ein Schädelknochen, der am Wegesrand aus der Erde ragte.</description>
+    </item>
+    
+    <item>
+      <title>Ausstellung</title>
+      <link>http://biotop.co/de/projects/exhibitions/</link>
+      <pubDate>Tue, 13 Aug 2019 09:23:31 +0200</pubDate>
+      
+      <guid>http://biotop.co/de/projects/exhibitions/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>http://biotop.co/de/projects/workshops/</link>
+      <pubDate>Tue, 13 Aug 2019 09:23:10 +0200</pubDate>
+      
+      <guid>http://biotop.co/de/projects/workshops/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+    </item>
+    
+    <item>
+      <title>Die Suche nach den Farben</title>
+      <link>http://biotop.co/de/blog/color-quest/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/color-quest/</guid>
+      <description>Fertig! Und gerade noch geschafft. Spät am Freitag (15. Februar 2019), haben wir unseren Beitrag für den Wettbewerb &amp;ldquo;Wissenschaftscomics für Kids&amp;rdquo; der Österreichischen Akademie der Wissenschaften (ÖAW) eingereicht.
+Unsere Geschichte dreht sich um ein kleines Mädchen, das es liebt zu malen. Eines Tages verschwinden durch einen dummen Unfall alle ihre Farben - ihre Umwelt erscheint nur noch in Graustufen. Also macht sie sich auf den Weg die Farben zurückzuholen und lernt dabei so manches über die Natur der Farben.</description>
+    </item>
+    
+    <item>
+      <title>Über die Geschichte des Rentiers</title>
+      <link>http://biotop.co/de/blog/xmascal/10/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/10/</guid>
+      <description>&lt;p&gt;Rudolf, Dasher, Comet, Dancer, Cupid, Prancer, Donner, Blitzen und Vixen. Das sind die Namen der Rentiere, die - zumindest im englischen Sprachraum - Santas Schlitten durch die Lüfte ziehen.
+Rentiere (Rangifer tarandus) gehören zu der Familie der Hirsche und sind die einzigen der über 40 Mitglieder dieser Familie, die auch in der Arktis heimisch sind. Ob es wohl an ihrer Verbreitung nahe an  seinem Heimatort lag, dass Santa Claus sich ausgerechnet die Rentiere als Gehilfen nahm? Rentiere lieben es auf Wanderschaft zu gehen, sie legen im Jahr bis zu 5,000 km zurück (ein Rekord unter den am Land lebenden Säugetieren).&lt;/p&gt;
+
+&lt;p&gt;Zusätzlich können sie auch gut mit Kälte umgehen, angefangen von den Sohlen ihrer Hufe bis zu ihren Nasenspitzen sind sie fast komplett mit Fell überzogen, das dabei hilft, ihre Körper vor der Kälte zu isolieren.&lt;/p&gt;
+
+&lt;p&gt;Ihre Nasen sind auch sehr sonderbar, nicht nur weil die von Rudolf angeblich rot leuchtet. Sie haben sehr verwinkelte Nasen, und die daraus resultierende höhere Oberfläche hilft dabei die eintretende kalte Luft schneller aufzuwärmen. Die Innenseite ihrer Nüstern ist auch mit feinen Härchen überzogen, an denen Wasser aus der Luft kondensiert und dann von dort in den Rachen eingeatmet werden kann. um ihren Flüssigkeitsbedarf abzudecken fressen Rentiere zusätzlich Schnee.&lt;/p&gt;
+
+&lt;p&gt;Alle Arten von Hirschtieren gehören zur Ordnung &lt;em&gt;Artiodactyla&lt;/em&gt;, auch Paarhufer genannt. Sie sind also verwandt mit Schweinen, Kühen, Ziegen, Schafen, Giraffen und Flusspferden. Die ersten Hirschtiere bewohnten schon vor 20 Million Jahren unseren Planeten, die ältesten Rentierfossile sind circa 400,000 Jahre alt, stammen also aus der Zeit der letzten Eiszeit. So gibt es Rentiere also schon eine lange Zeit und Santa Claus war sicher nicht der erste/einzige, der sie für den Transport von Gütern einsetzte. Archäologische Funde legen nahe dass sibirische Stämme schon vor 2,000 Jahren Rentiere als Reittiere sowie zum Ziehen von Schlitten einsetzten.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Weihnachten vor 1000 Jahren</title>
+      <link>http://biotop.co/de/blog/xmascal/09/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/09/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Wurde Weihnachten auch vor 1000 Jahren gefeiert?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Weihnachten als Feier der Geburt Jesu stellt einen der wichtigsten Feiertage christlicher Gemeinschaften dar. Während es im 4. Jahrhundert n. Chr. in Rom bereits gefeiert wurde, trat es im Frühmittelalter zugunsten der Feier der Erscheinung des Herrn in den Hintergrund. Mit der Krönung Karls des Großen zum Kaiser zu Weihnachten des Jahres 800 erlangte es wieder an Popularität.&lt;/p&gt;
+
+&lt;p&gt;Aber wie war die Situation im heutigen Kärnten vor 1000 Jahren? Wie waren die weltlichen und kirchlichen Verhältnisse und was wissen wir über die Sprache in der etwaige christliche Liturgie stattfand?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bild 1:&lt;/strong&gt; Seit dem neunten Jahrhundert ist ein Ort namens Uillach, an der Brücke über die Drau gelegen, in der Mark Karantanien bekannt. Er gehörte 1007 zum Bistum Bamberg und bildete im Herzogtum Kärnten einen Teil des Ostfränkischen Reiches.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bild 2:&lt;/strong&gt; Der christliche Glaube wurde unter den karantanischen Slawen u.a. von Abraham von Freising (940-&lt;sup&gt;993&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; AD) verbreitet. Im Zuge der Missionierung entstanden zwischen 972 und 1039 auch die Freisinger Denkmäler, religiöse Texte in karantanischer/slowenischer Sprache. Die Klöster St. Georgen (kurz nach 1000) und Ossiach (1028) wurden in dieser Zeit gebaut.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bild 3:&lt;/strong&gt; Soweit wir wissen wurden die Weihnachtsfeiertage auch vor 1000 Jahren zelebriert. Doch Geschenke wurden bis ins 16. Jahrhundert eher am Tag des Nikolaus von Myra dargebracht. Auch Christbäume (ab dem 16. Jahrhundert), Adventkränze (ab 1839) und Adventkalender (ab etwa 1851) wurden später hinzugefügt.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;über-die-autoren&#34;&gt;Über die Autoren&lt;/h3&gt;
+
+&lt;p&gt;Als Archäologe hat &lt;strong&gt;&lt;a href=&#34;http://biotop.co/de/person/martin-fera/&#34;&gt;Martin Fera&lt;/a&gt;&lt;/strong&gt; bereits Pharaonengräber im Sudan, bronzezeitliche Salzminen in Hallstatt und Wikingergräber in Norwegen untersucht. Derzeit befasst er sich damit, Daten von Landschaftsscans zu nutzen um eisenzeitliche Siedlungen in Europa besser zu verstehen.&lt;/p&gt;
+
+&lt;p&gt;Als Architekt hat sich &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/ralf-bliem/&#34;&gt;Ralf Bliem&lt;/a&gt;&lt;/strong&gt; auf generatives Entwerfen und modulares Design spezialisiert. Er hat and der TU Wien und TU Berlin Architektur studiert und in Berlin sowie in Wien in renommierten Architekturbüros gearbeitet. Ralf ist Mitbegründer von Biotop und arbeitet zur Zeit mit Biotop an modularen Laboren und einigen weiteren interessanten Aufgaben.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Last Christmas I gave you my heart, but the very next day you gave it away...</title>
+      <link>http://biotop.co/de/blog/xmascal/08/</link>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/08/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Abbildung 1: Treffer bei der Suche nach “Christmas” (Weihnachten, rot) und “Divorce” (Scheidung, blau)  in der Google Books &lt;a href=&#34;https://books.google.com/ngrams/graph?content=christmas%2Cdivorce&amp;amp;case_insensitive=on&amp;amp;year_start=1800&amp;amp;year_end=1950&amp;amp;corpus=15&amp;amp;smoothing=3&amp;amp;share=&amp;amp;direct_url=t4%3B%2Cchristmas%3B%2Cc0%3B%2Cs0%3B%3BChristmas%3B%2Cc0%3B%3BCHRISTMAS%3B%2Cc0%3B.t4%3B%2Cdivorce%3B%2Cc0%3B%2Cs0%3B%3Bdivorce%3B%2Cc0%3B%3BDivorce%3B%2Cc0%3B%3BDIVORCE%3B%2Cc0&#34;&gt;Ngram Datenbank&lt;/a&gt;  englischer Texte aus der Zeit zwischen 1850 und 1950. Die zwei Datensätze korrelieren stark (&lt;a href=&#34;https://en.wikipedia.org/wiki/Pearson_correlation_coefficient&#34;&gt;Pearson Korrelationskoeffizient&lt;/a&gt; R=0.93)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Der obenstehende Graph zeigt, dass die Worte “Weihnachten” und “Scheidung” in Texten, die zwischen 1850 und 1950 veröffentlicht würden, stark korrelieren - d.h. immer ähnlich oft vorkommen. Bedeutet das etwa, dass ein direkter Zusammenhang zwischen dem Weihnachtsfest und Scheidungen besteht? Fassen Paare in der Weihnachtszeit eher den Entschluss sich scheiden zu lassen?&lt;/p&gt;
+
+&lt;p&gt;Die Interpretation solcher Korrelationen ist schwierig und lässt leicht voreilige Schlüsse zu. Es ist wichtig zu betonen, dass Korrelation - also das gemeinsame Auftreten von zwei Ereignissen -  nicht unbedingt auf eine direkte Verbindung, oder gar einen kausalen Zusammenhang (ein Ereignis bedingt das andere) &lt;a href=&#34;https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation&#34;&gt;schließen lässt&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Es gibt viele Beispiele für “falsche” Korrelationen, die oft auch “Scheinkorrelationen” genannt werden. Oft genügt der Hausverstand um sie zu überführen, in manchen Fällen ist das Erkennen solcher zufälliger Zusammenhänge aber schwerer (&lt;a href=&#34;https://www.wilson-nesbitt.com/news-updates/Divorce/7282/Why-do-divorce-rates-double-over-Christmas&#34;&gt;hier in diesem Artikel&lt;/a&gt; zum Beispiel, wird die These vertreten, dass die Weihnachtsstimmung schon an einem Anstieg in der Scheidungsrate schuld sein könnte). Oft sind weitere Nachforschungen und zusätzliche Daten notwendig, um kausale (also “echte”) Zusammenhänge von zufälligen zu unterscheiden.&lt;/p&gt;
+
+&lt;p&gt;Einige besonders amüsante Beispiele von Scheinkorrelationen sind &lt;a href=&#34;http://www.tylervigen.com/spurious-correlations&#34;&gt;hier gesammelt&lt;/a&gt;.
+Hier findet sich zum Beispiel die unheimlich gute Korrelation zwischen Scheidungsraten und Margarineverzehl im US Bundesstaat Maine. Die Datensätze sehen fast identisch aus, aber es besteht logischerweise kein direkter Zusammenhang zwischen den beiden.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://biotop.co/xmascal/img/08/DivorceRateMaineMargarine.png&#34;/&gt; 
+&lt;/figure&gt;
+
+
+&lt;p&gt;Wir halten also fest: Man muss schon besonders vorsichtig sein, Korrelation nicht mit Kausalität zu verwechseln. Sie zu vermischen heißt, falsche Schlüsse zu ziehen, die zwar möglicherweise auf soliden Daten basieren, aber trotzdem fehlgeleitet sind. Es bedeutet für uns Wissenschaftler Vorsicht bei der Interpretation von Daten an den Tag zu legen.&lt;/p&gt;
+
+&lt;p&gt;In Amerika korreliert die Weihnachtszeit sehr stark mit dem Verzehr von Eggnog (einem Eierpunsch). Nun stellt sich die Frage: ist diese Korrelation echt oder “fake”?&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://biotop.co/xmascal/img/08/eggnogg.png&#34;/&gt; 
+&lt;/figure&gt;
+
+
+&lt;p&gt;Was denkt ihr?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pinus Sylvestris</title>
+      <link>http://biotop.co/de/blog/xmascal/07/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/07/</guid>
+      <description>Pinus sylvestris ist eine in Europa und Asien heimische Kiefernart. Du kennst vielleicht ihre schuppigen Kiefernzapfen (die weiblichen), aber tatsächlich haben alle Kieferbäume auch männliche Zapfen. Diese sind normalerweise kleiner und weniger auffällig als ihre weiblichen Kollegen. Die männlichen Zapfen produzieren Pollen, die durch den Wind zu den weiblichen Zapfen transportiert werden, wo sie das Ei befruchtet und Samen gebildet werden.
+Alle Kiefern sind Gymnospermen, was auf griechisch „nacktes Saatgut“ bedeutet.</description>
+    </item>
+    
+    <item>
+      <title>Die Wunderbare Physik der Schneeflocke</title>
+      <link>http://biotop.co/de/blog/xmascal/06/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/06/</guid>
+      <description>&lt;p&gt;Diese Geschichte handelt von einem Stoff, der widersprüchlicher kaum sein könnte. Allgegenwärtig, ja fast banal, und gleichsam von ungemeiner Bedeutung und symbolischer Strahlkraft. Er bildet die Grundlage allen Lebens auf diesem Planeten, und vermag es ebenso Zerstörungskräfte zu entfesseln, die ihres Gleichen suchen.&lt;/p&gt;
+
+&lt;p&gt;Obwohl es aus zwei der drei im Universum häufigsten Elemente besteht, ist reines, flüssiges Wasser doch ein ungemein kostbares Gut und Wasser hinsichtlich seiner physikalischen Eigenschaften geradezu ein Exot! Wasser ist ein kleines Molekül, das auf der Erde in festem, flüssigem und gasförmigem Zustand auftritt. Das ist bemerkenswert, da ähnlich kleine Moleküle unter erdähnlichen Bedingungen ausschließlich gasförmig in Erscheinung treten. Entscheidend darüber, ob ein Stoff als Gas, Flüssigkeit oder Feststoff auftritt sind vor allem Temperatur und Druck. Sinken die Temperaturen bei erdtypischem Druck unter 0°C, so ändern sich die Regeln des Zusammenspiels von Wasserteilchen dramatisch: Lässt sich der flüssige Zustand als wildes Umhertanzen der Moleküle verbildlichen, bei denen zusammenhängende Gruppen nur von kurzer Dauer sind, so muss der feste Zustand als Verharren in strammer Formation beschrieben werden.&lt;/p&gt;
+
+&lt;p&gt;Betrachten wir Schneeflocken etwas genauer, so fällt uns zunächst auf, dass sie allesamt von einer gewissen &lt;em&gt;&amp;ldquo;Sechsfachheit&amp;rdquo;&lt;/em&gt; geprägt sind. Zu sagen sie wären sechseckig täte ihnen aber Unrecht, haben sie doch viel viel mehr Ecken. Um diese &lt;em&gt;“Sechsfachheit”&lt;/em&gt; zu beschreiben, verwenden wir den Begriff &lt;em&gt;Symmetrie&lt;/em&gt;, und meinen damit im Falle einer sechsfachen (Rotations-)Symmetrie der Schneeflocke, dass sie nach einer sechstel Drehung wieder gleich aussieht wie in ihrer Ausgangsposition. Diese Symmetrie einer ganzen Schneeflocke ist mit freiem Auge sichtbar, und dennoch manifestiert sich in ihr das Zusammenspiel einzelner Wassermoleküle, die gerade einmal ein fünftel eines Milliardstel Meters messen.&lt;/p&gt;
+
+&lt;p&gt;Diese sechsfache Symmetrie gibt das Muster vor, nach dem sich Schneeflocken theoretisch in nahezu unendlicher Formenvielfalt entfalten können. Je nach Druck und Temperatur finden Wassermoleküle in unterschiedlichen Formationen zusammen. Tatsächlich gibt es mehr als fünfzehn verschiedene Arten Eis, und sie alle unterscheiden sich durch ihre Molekülformationen. Die meisten dieser Eisarten werden allerdings nur unter besonderen Druckbedingungen oder bei besonderen Temperaturen gebildet. Schnee, und nahezu jede andere Form von Eis auf der Erde bestehen aus dem sogenannten &lt;em&gt;Eis I&lt;sub&gt;h&lt;/h&gt;&lt;/em&gt;, bei dem sich Wassermoleküle in sechseckigen Formationen zusammenfinden und so ein Kristallgitter bilden.&lt;/p&gt;
+
+&lt;p&gt;Anders als beim flüssigen Wasser, bei dem der Winkel zwischen den beiden Wasserstoffatomen 105° beträgt, wird die Struktur des Wassermoleküls im Kristallgitter des Eises um besser in die Formation zu passen etwas gestreckt, und der Winkel wird 109.5°. Darum brauchen Wassermoleküle im Eis auch mehr Platz als im flüssigen Zustand, und deshalb hat Eis auch eine höhere Dichte als flüssiges Wasser. Das Ausdehnen beim Abkühlen ist eine Eigenschaft, die man nur bei wenigen Stoffen findet, und wir verdanken ihr, dass Leben auf der Erde überhaupt möglich ist. Besäße Eis - wie üblich - eine geringere Dichte als Wasser im flüssigen Zustand, so würde es nicht schwimmen, und Gewässer würden von unten nach oben Zufrieren. Da Eis aber schwimmt, bildet Eis eine gute Isolationsschicht, und Wasserlebewesen können Kaltzeiten, sogar in der Antarktis, unter einer Eisschicht in flüssigem Wasser verbringen.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Krampus</title>
+      <link>http://biotop.co/de/blog/xmascal/05/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/05/</guid>
+      <description>&lt;h1 id=&#34;was-kann-eine-beängstigend-pelzige-teufelsfigur-wie-der-krampus-mit-romantik-zu-tun-haben&#34;&gt;Was kann eine beängstigend pelzige Teufelsfigur wie der Krampus mit Romantik zu tun haben?&lt;/h1&gt;
+
+&lt;p&gt;Zwischen dem 16. und 19. Jahrhundert erschienen Nikolo und Krampus als ungleiches Paar beim Einkehrbrauch am Vorabend des Nikolausfestes am 6. Dezember. Während der eine Geschenke bringt, bedroht der andere die Kinder mit Kette, Rute und Butte. In der Barockzeit entwickelten sich die Nikolausspiele in der Nähe von Klöstern zu Umzugspielen, die in Höfen und Gasthäusern aufgeführt wurden, und katechetische Szenen zwischen Gut und Böse zum Inhalt hatten, oft Engel und Teufel, die um die Seele eines sterbenden Menschen kämpften.
+Seit dem 18. Jahrhundert wurden solche Spiele von kirchlichen und weltlichen Autoritäten verboten, sie galten als veraltet und wurden als &amp;ldquo;heidnisch und eines wahren Christen unwürdig&amp;rdquo; bezeichnet. Doch gerade diese &amp;ldquo;heidnische&amp;rdquo; Natur war für die nationalen Romantiker ein Jahrhundert später von besonderem Interesse, die die Figuren mit germanischen Mythen in Verbindung brachten und ihre alten Ursprünge finden wollten. Dabei übersahen sie die Tatsache, dass die Texte der traditionellen Nikolausspiele, in denen die teuflischen Armeen auftreten, theologische Wurzeln haben.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;über-die-autoren&#34;&gt;Über die Autoren&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.stulowitz.at&#34;&gt;Wolfgang Schütz&lt;/a&gt;&lt;/strong&gt;, ist ein Villacher Illustrator und Spieleentwickler, und lebt seit 2008 in Salzburg wo er an der FH Salzburg Multimediaart studierte. Unter dem Synonym &lt;strong&gt;&lt;a href=&#34;http://www.stulowitz.at&#34;&gt;Stulowitz&lt;/a&gt;&lt;/strong&gt; ist er seit dem Jahr 2018 Freelancer.&lt;/p&gt;
+
+&lt;p&gt;Als Archäologe hat &lt;strong&gt;&lt;a href=&#34;http://biotop.co/de/person/martin-fera/&#34;&gt;Martin Fera&lt;/a&gt;&lt;/strong&gt; bereits Pharaonengräber im Sudan, bronzezeitliche Salzminen in Hallstatt und Wikingergräber in Norwegen untersucht. Derzeit befasst er sich damit, Daten von Landschaftsscans zu nutzen um eisenzeitliche Siedlungen in Europa besser zu verstehen.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Erinnerst du dich noch an diesen Geschmack?</title>
+      <link>http://biotop.co/de/blog/xmascal/04/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/04/</guid>
+      <description>&lt;p&gt;Es ist Weihnachten! Die Stadt ist voller blinkender Lichter, eine Schneedecke überzieht die Straßen und es kitzelt dich in deinen Geschmacksknospen wenn du nur an Weihnachtsgebäck denkst. Aber warte&amp;hellip; Wie kannst du dich so gut daran erinnern?
+Gerüche und Geschmäcker sind mächtige Zeitmaschinen und können uns, viel besser als Bilder und Geräusche  in die Vergangenheit zu katapultieren. Neurowissenschaftler sind natürlich fasziniert von diesem Phänomen und  versuchen mehr darüber herauszufinden&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;Wenn du in ein Stück Gebäck beißt, dann wandert sein Geruch in die sogenannten &lt;em&gt;Glomeruli&lt;/em&gt; in der Nasenhöhle, und sein süßer Geschmack erreicht die Geschmacksknospen auf der Zunge. Beide Strukture beinhalten hunderttausende von mikroskopischen Nevenenden, die, wenn sie von Geschmäckern oder Gerüchen aktiviert werden, Botschaften direkt ins Gehirn schicken. Diese Signale sind viel schneller als ein Auto. Mit einer Geschwindigkeit von 50m/s (180 km/h) schießen sie durch zwei Verteilerzentren im zentralen Nervenszstem: die &lt;em&gt;Medulla&lt;/em&gt; und den &lt;em&gt;Thalamus&lt;/em&gt;, bevor sie ihr Ziel, den &lt;em&gt;gustatorischen Kortex&lt;/em&gt; erreichen. Hier stehen Millionen von Neuronen bereit, um Botschaften zu empfangen, die Signale von der Zunge zu verarbeiten, und ihnen eine Identität zuzuordnen. Sobald das Signal diesen Bereich erreicht hat, stellst du fest, dass dein Weihnachtsgebäck süß schmeckt, nicht zu stark nach Ingwer schmeckt und eine angenehme Zimtnote hat!&lt;/p&gt;
+
+&lt;p&gt;Neurowissenschaftler von der Columbia University in New York konnten zeigen, dass die Wahrnehmung von verschiedenen Geschmäckern durch verschiedene Bereiche des gustatorischen Kortex vermittelt wird. Dazu bedienten sie sich einer Methode namens &amp;ldquo;Optogenetik&amp;rdquo;, und konnten so künstlich jene Bereiche des gustatorischen Kortex von Labormäusen ein- oder ausschalten, die für das Schmecken von &amp;ldquo;süß&amp;rdquo;&amp;rdquo; und &amp;ldquo;bitter&amp;rdquo; zuständig sind. Sie trainierten die Mäuse um aus einer Wasserflasche zu trinken während ihr gustatorischer Kortex künstlich aktiviert wurde. Mäuse, deren &amp;ldquo;bittere Bereiche&amp;rdquo; aktiviert wurden tranken immer weniger, wogegen Mäuse deren &amp;ldquo;süßer Bereich&amp;rdquo; aktiviert wurde mehr zu trinken begannen [1].&lt;/p&gt;
+
+&lt;p&gt;Aber das hat doch rein gar nichts damit zu tun, dass du dich an den vertrauten Geschmack von Omas Vanillekipferl erinnern kannst, oder? Korrekt! Das Signal im gustatorischen Kortex reist nämlich weiter durch unser Nervensystem und erreicht schließlich das sogennante Limbische System, einen der ältesten Teile unseres Gehirns, dem eine große Rolle im Verarbeiten von Gefühlen und Erinnerungen zugeschrieben wird. Insbesondere der sogennante &lt;em&gt;Hippocampus&lt;/em&gt; (nach dem Lateinischen Wort für Seepferdchen, weil er ähnlich aussieht) empfängt viele Signale vom gustatorischen Kortex und gleicht sie mit Signalen ab, die schon einmal durch unser Gehirn gereist sind, und für die eine Erinnerung angelegt wurde. So hütet dein Gehirn sicher das Geheimnis von Omas Vanillekipferl. Du kannst dir sicher sein - du wirst es nie vergessen!&lt;/p&gt;
+
+&lt;p&gt;[1] Peng, Y. et al. Sweet and bitter taste in the brain of awake behaving animals. Nature 527, 512–515 (2015)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;über-die-autoren&#34;&gt;Über die Autoren&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/de/person/mariangela-panniello/&#34;&gt;Mariangela Panniello&lt;/a&gt;&lt;/strong&gt; (Text) ist Neurowissenschaftlerin an der University of Oxford, wo sie sich mit der neuronalen Grundlage von Sinneswahrnehmung befasst. Sie liebt es Wissenschaft zugänglich zu machen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/andrea-ferrari-trecate-ba1a42b1/?originalSubdomain=it&#34;&gt;Andrea Ferrari Trecate&lt;/a&gt;&lt;/strong&gt; (Illustration) ist Umweltjournalist in La Spezia (Italien) und ein toller Amateurillustrator&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ein (ur)alter Keks</title>
+      <link>http://biotop.co/de/blog/xmascal/03/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/03/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Der Süßbäcker: Tausend süße Figuren von Gegenständen baut dir diese Hand auf. Für ihn allein arbeitet die sparende Biene. (M.V. Martialis, XIV, 222)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Was wäre Weihnachten heutzutage ohne Kekse? Das klein portionierte Gebäck versüßt uns den Alltag besonders zur Adventzeit. Längst geht es nicht mehr nur um Nahrungsaufnahme sondern um den kleinen Genuss, den wir manchmal nach den Feiertagen auch wieder bereuen. Anders war es als vor etwa 7000 Jahren die ersten Bauern in Mesopotamien ihre Siedlungen errichteten und damit den entscheidenden Schritt auf dem Weg zu unserer Welt von heute beschritten. Der Anbau und die Verarbeitung von Getreide war eine Grundvoraussetzung für die Sesshaftwerdung, und es war ein hart erarbeitetes Brot, im wahrsten Sinne des Wortes, bis aus dem geernteten Getreide Nahrung hergestellt werden konnte. Unsere Vorfahren litten unter Mangelernährung, unter Abnützungserscheinungen vom monotonen Mahlvorgang des Getreides zu Mehl, der Hauptzutat von Backwaren.&lt;/p&gt;
+
+&lt;p&gt;Und doch finden wir bei den frühen Hochkulturen wie bei den Sumerern oder Ägyptern Rezepte von Gebäck, das mit Gewürzen, Früchten und Honig gesüßt wurde, auch wenn dieses wohl nur wenigen aus der Oberschicht vorbehalten war. Die Römer kannten bereits den Beruf des Süßbäckers, des Pistor Dulcarius, der Honigbäckerei für Festtafeln der Reichen und für Opfergaben herstellte.&lt;/p&gt;
+
+&lt;p&gt;Seit im 19. Jahrhundert süßes Kleingebäck in immer mehr Haushalten Einzug hielt ist eine Vielzahl von Rezepten bekannt, aber was ist eigentlich das „älteste Keksrezept“ das wir kennen? Ein würdiger Kandidat ist wohl ein aus Verwaltungstexten ableitbares Rezept aus Sumer aus der 3.Dynastie von Ur (um 4000 vor heute), die auf Keilschrifttafeln notiert sind (siehe Grafik).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;über-den-autor&#34;&gt;Über den Autor&lt;/h3&gt;
+
+&lt;p&gt;Als Archäologe hat &lt;strong&gt;&lt;a href=&#34;http://biotop.co/de/person/martin-fera/&#34;&gt;Martin Fera&lt;/a&gt;&lt;/strong&gt; bereits Pharaonengräber im Sudan, bronzezeitliche Salzminen in Hallstatt und Wikingergräber in Norwegen untersucht. Derzeit befasst er sich damit, Daten von Landschaftsscans zu nutzen um eisenzeitliche Siedlungen in Europa besser zu verstehen.&lt;/p&gt;
+
+&lt;p&gt;Als Architekt hat sich &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/ralf-bliem/&#34;&gt;Ralf Bliem&lt;/a&gt;&lt;/strong&gt; auf generatives Entwerfen und modulares Design spezialisiert. Er hat and der TU Wien und TU Berlin Architektur studiert und in Berlin sowie in Wien in renommierten Architekturbüros gearbeitet. Ralf ist Mitbegründer von Biotop und arbeitet zur Zeit mit Biotop an modularen Laboren und einigen weiteren interessanten Aufgaben.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ohrwurmologie</title>
+      <link>http://biotop.co/de/blog/xmascal/02/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/02/</guid>
+      <description>&lt;p&gt;Alle Jahre wieder um die Weihnachtszeit bohrt sich der Song “Last Christmas” der Band Wham! zuverlässig in unser aller Köpfe - es scheint kein Entkommen zu geben. Ohrwürmer oder
+“Involuntary musical imagery (INMI)”, wie die Forschung sie nennt, sind jedem vertraut. In seinem Buch “Musicophilia”, beschreibt Oliver Sacks Ohrwürmer eher als “Hirnwürmer”, die sich “kognitiv infektiös” verhalten [1]. Ohrwürmer bestehen normalerweise aus 3-4 Takten, also 15-20 Sekunden langen Bruchstücken, die sich immer und immer wieder wiederholen. Sie sind sozusagen Musikfragmente in Endlosschleife.&lt;/p&gt;
+
+&lt;p&gt;Die meisten Studien zu diesem Thema haben sich der Frage gewidmet, wer überhaupt Ohrwürmer bekommt und welche Strukturen innerhalb eines Liedes Musik zum Ohrwurm werden lässt. Es scheint, dass so gut wie jeder von uns von Zeit zu Zeit Ohrwürmer bekommt [2]. Manchmal werden sie von Erinnerungen heraufbeschworen, oft entstehen sie aber scheinbar aus dem Nichts und treten spontan auf. Lieder, deren Melodie einfach gestrickt ist, die aber Besonderheiten wie unerwartete Sprünge aufweisen, werden eher zum Ohrwurm. Auch wenn ein Lied oft gehört wird oder viele Wiederholungen beinhaltet tritt das Phänomen häufiger auf. Viel davon scheint offensichtlich. Eine Studie mit 3,000 Teilnehmern konnte einige dieser Thesen bestätigen. Darin wurde die Struktur von 200 Liedern mit Ohrwurmfaktor mit Liedern aus der Kontrollgruppe, die laut den Teilnehmern nie zu Ohrwürmern werden, verglichen [3]. Auch kleine Notenschritte, lange Töne, und ein eher beschwingtes Tempo erhöhen die Chance, dass eine Melodie zum Ohrwurm wird.&lt;/p&gt;
+
+&lt;p&gt;Strategien um Ohrwürmern entgegenzuwirken, beinhalten das bewusste Zu-Ende-Hören oder -Singen des gesamten Ohrwurmliedes, den Versuch den Ohrwurm durch eine andere Melodie zu verdrängen, sowie Ablenkung durch eine Tätigkeit, die Konzentration verlangt, z.B. Lesen [4]. Die Wirksamkeit dieser Methoden können wir allerdings nicht garantieren, also probieren Sie sie nach eigenem Ermessen aus.&lt;/p&gt;
+
+&lt;p&gt;Bis jetzt ist immer noch sehr wenig zur neuronalen Grundlage von Ohrwürmern bekannt. Sie werden auch recht wenig erforscht, wohl weil sie nicht als Erkrankung eingestuft werden. Wir haben ein Experiment in der Literatur gefunden, das wir hier genauer vorstellen möchten. Es geht der Frage nach, wo im Gehirn Ohrwürmer überhaupt entstehen. Die Forscher baten hierzu mehrere professionelle Musiker, ein Stück entweder (a) anzuhören oder sich (b) vorzustellen und identifizierten dann die Hirnregionen, die in beiden Fällen aktiv sind. Das ist natürlich ein wichtiger erster Schritt. Offen bleibt allerdings, ob es Regionen gibt, die nur für das Vorstellen, nicht aber für das Hören von Musik zuständig sind. Und ist das bewusste Vorstellen (“voluntary musical imagery”) von Musik überhaupt mit dem Ohrwurm (“involuntary musical imagery”) vergleichbar? In welchen Zellen entstehen Ohrwürmer und handelt es sich dabei um spontane Aktivität oder gibt es Signale, die aus anderen Hirnregionen kommen? Wie immer in der wissenschaftlichen Forschung folgen auf eine simple Frage (“Wo im Gehirn entstehen Ohrwümer?”) tausend weitere&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Eine Weihnachtsvorlesung als Wandzeitung</title>
+      <link>http://biotop.co/de/blog/xmascal/01/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/01/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Bild: Der &lt;a href=&#34;https://www.thinglink.com/scene/459318726211141635?buttonSource=viewLimits&#34;&gt;Physiker Sir Lawrence Bragg bei der Royal Institution Weihnachtsvorlesung&lt;/a&gt; im Jahre 1961 - Öl auf Leinwand, Terence Cuneo, 1962&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Für viele Studierende in den Naturwissenschaften hat die Vorweihnachtszeit einen ganz besonderen Reiz. Abgesehen von Glühweinständen in jedem Innenhof, die zu Geselligkeiten einladen, verbreitet sich auch ein spürbares Gefühl, dass Wissenschaft nicht nur vermittelt, sondern mit ihr auch begeistert werden soll, was in einer Vielzahl an spannenden, unterhaltsamen und nicht zuletzt auch lehrreichen Weihnachtsvorlesungen zum Ausdruck kommt.&lt;/p&gt;
+
+&lt;p&gt;Tatsächlich haben sogenannte Weihnachtsvorlesungen eine sehr lange Tradition. Viele von ihnen sind für die Öffentlichkeit zugänglich, und erfreuten sich wegen der dargebotenen meist spektakulären Vorführexperimente stets großer Beliebtheit. So wurden Weihnachtsvorlesungen, wie die bekannten Christmas Lectures der Londoner Royal Institution, gewissermaßen selbst zur Institution, bei denen Expertinnen und Experten von Weltrang eingeladen werden, um ihr Fach einem breiten Publikum auf spannende Weise näher zu bringen.&lt;/p&gt;
+
+&lt;p&gt;Dieser Adventkalender steht in dieser Tradition. Er stellt unseren Versuch dar, nach Maßgabe der uns zur Verfühung stehenden Mittel, Wissenschaft heraus aus den Laboren in das vorweihnachtliche Tummeln zu holen, damit zu unterhalten und zu bilden. Im Laufe der nächsten vierundzwanzig Tage werden wir verschiedene Aspekte der Weihnachtszeit aus vielfältigen Perspektiven wissenschaftlich beleuchten und in unserem Schaufenster sowie auf unserer Website präsentieren. Zwischendurch präsentieren wir auch Beiträge zu Geschichte und Design. Heute soll allerdings der persönliche Austausch im Vordergrund stehen und Wissenschaft anfassbar werden. Dazu laden wir dich &lt;strong&gt;heute ab 16:00 herzlich in unser temporäres Büro in die Gerbergasse 3 in Villach ein&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;Die höchst empfehlenswerten Weihnachtsvorlesungen (auch jene aus vergangenen Jahren) der Royal Institution können online unter &lt;a href=&#34;http://www.rigb.org/christmas-lectures&#34;&gt;http://www.rigb.org/christmas-lectures&lt;/a&gt; angesehen werden. Zuätzlich empfehlen wir die &lt;a href=&#34;https://www.facebook.com/events/207325456862661/?active_tab=about&#34;&gt;legendäre Weihnachtsvorlesung des Grazer Physikers Gernot Pottlacher&lt;/a&gt;, der dieses Jahr eine Reise durchs Phasendiagram präsentiert. Sie wird am 12.12.18 ab 16:15 auch als Livestream übertragen.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Biotop Adventkalender</title>
+      <link>http://biotop.co/de/blog/xmascal2018/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/de/blog/xmascal2018/</guid>
       <description>Endlich öffnet unser &amp;ldquo;Adventkalender&amp;rdquo; seine Pforten!
@@ -53,21 +407,308 @@ Alle Inhalte sind auch im Schaufenster unseres Büros in der Gerbergasse 3 in Vi
     </item>
     
     <item>
-      <title>Window Img</title>
-      <link>http://biotop.co/de/window-img/</link>
-      <pubDate>Sat, 10 Nov 2018 11:15:50 +0100</pubDate>
+      <title>Architekten verpacken Geschenke</title>
+      <link>http://biotop.co/de/blog/xmascal/16/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://biotop.co/de/window-img/</guid>
-      <description></description>
+      <guid>http://biotop.co/de/blog/xmascal/16/</guid>
+      <description>&lt;p&gt;Origami verwandelt flaches Papier in ausgeklügelte, dreidimensionale Formen. Es verbindet Handwerkskunst mit mathematischem Einfallsreichtum. Für Architekten ist Origami nicht nur Quell der Inspiration, sondern auch Spiegel der Essenz ihrer Tätigkeit. Auch für uns im Biotop dient Origami als Metapher, die darstellt, was wir mit diesem Projekt erreichen wollen: Ideen, Genauigkeit und zugägliche Materialien, die sich zu etwas verbinden, das voller Schönheit aber auch praktischen Nutzen ist.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;über-die-autoren&#34;&gt;Über die Autoren&lt;/h4&gt;
+
+&lt;p&gt;Als Architekt hat sich &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/ralf-bliem/&#34;&gt;Ralf Bliem&lt;/a&gt;&lt;/strong&gt; auf generatives Entwerfen und modulares Design spezialisiert. Er hat and der TU Wien und TU Berlin Architektur studiert und in Berlin sowie in Wien in renommierten Architekturbüros gearbeitet. Ralf ist Mitbegründer von Biotop und arbeitet zur Zeit mit Biotop an modularen Laboren und einigen weiteren interessanten Aufgaben.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/de/person/lukas-hutter/&#34;&gt;Lukas Hutter&lt;/a&gt;&lt;/strong&gt; studierte Chemie in Graz und Systembiologie in Oxford. Er ist einer der Mitbegründer von Biotop und arbeitet derzeit als Lehrer in Villach.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
-      <title>Window Text</title>
-      <link>http://biotop.co/de/window-text/</link>
-      <pubDate>Sat, 10 Nov 2018 11:15:50 +0100</pubDate>
+      <title>Leucht&#39; ein Licht Teil 2 - Spektrometerworkshop</title>
+      <link>http://biotop.co/de/blog/xmascal/15/</link>
+      <pubDate>Thu, 15 Nov 2018 17:02:52 +0100</pubDate>
       
-      <guid>http://biotop.co/de/window-text/</guid>
-      <description></description>
+      <guid>http://biotop.co/de/blog/xmascal/15/</guid>
+      <description>&lt;p&gt;Jetzt im Advent wo die Tage am kürzesten sind zündet man sich abends gerne Kerzen an. Aber was ist der Unterschied zwischen Leuchten einer Kerze und dem Licht der Sonne dem Strahlen einer Glühbirne oder einer LED? Alle haben unterschiedlich warmes, weißes Licht.
+Betrachtet man die Sache physikalisch, so handelt es sich bei weißem Licht um die Summe von elektromagnetischen Strahlungen unterschiedlicher Wellenlängen. Für sichtbares Licht bedeutet Wellenlänge Farbe. Die Wellen roten Lichtes sind beispielsweise länger als die blauen Lichtes. Gelingt es einem das Licht in die unterschiedlichen Wellenlängen aufzuspalten entsteht ein Regenbogen in dem sich das Farbspektrum von Rot nach Blau aufreiht.&lt;/p&gt;
+
+&lt;p&gt;Genau für diese Aufspaltung ist ein Spektrometer da. Mit ihm kann man sich die unterschiedliche Zusammensetzung des Lichts aus verschiedenenn Quellen anschauen und vergleichen. Ein Gitterspektrometer ist folgendermaßen aufgebaut: Lichtquelle, Strahlengleichrichter, optisches Gitter, Detektor. Aus diesen Bausteinen und dunklen Papier kann man sich auch selber ein Spektrometer bauen. Lichtquellen gibt es genug in unserer Umgebung. Als Strahlengleichrichter dient ein dünner Schlitz im Papier, und um ein optisches Gitter zu bekommen zerlegen wir eine DVD-R. Als Detektor kann die Kamera eines Smartphones oder eine Webcam verwendet werden. &lt;strong&gt;Wir laden heute jeden der Lust hat ein ab 16:00 zu uns ins Büro (Gerbergasse 3/Villach) zu kommen um gemeinsam Spektrometer zum mit nach Hause nehmen zu bauen.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Für unserern Workshop verwenden wir eine Anleitung von &lt;a href=&#34;http://spectralworkbench.org&#34;&gt;spectralworkbench.org&lt;/a&gt; und für jeden der es gerne zuhause nachmachen will gibt es auch eine Videoanleitung von spectralworkbench (&lt;a href=&#34;https://www.youtube.com/watch?v=hZkVYuw4pJ4&#34;&gt;https://www.youtube.com/watch?v=hZkVYuw4pJ4&lt;/a&gt;).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;über-die-autorin&#34;&gt;Über die Autorin&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/anna-waechter/&#34;&gt;Anna Wächter-Mittersteiner&lt;/a&gt;&lt;/strong&gt; ist Molekularbiologin. Sie hat in Wien und Zürich studiert und sich dabei unter anderem damit beschäftigt wie Zellen des Immunsystem aktiviert werden, Signale verarbeiten und miteinander kommunizieren. Zurzeit arbeitet sie an Workshopskonzepten für das Wissenschaftskollektiv Biotop.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Das Lebkuchenhaus in der Architektur</title>
+      <link>http://biotop.co/de/blog/xmascal/14/</link>
+      <pubDate>Wed, 14 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/14/</guid>
+      <description>&lt;p&gt;Gestern haben wir vom legendären Lebkuchenhaus im Märchen Hänsel und Gretel berichtet. Aber wusstest du, dass es auch den Begriff &amp;ldquo;Lebkuchen-Architektur&amp;rdquo; gibt? Und nein, das bedeutet nicht, dass die Gebäude tatsächlich aus Lebkuchen bestehen. Die Definition der Lebkuchenhaus-Architektur geht auf den Baustil des späten 19. Jahrhunderts in Haiti zurück.
+Die Lebkuchenhaus-Bewegung begann 1881 mit dem Bau des haitianischen National Palace. Das Gebäude diente danach als Modell und setzte neue Maßstäbe für den Baustandard in der Region. Die Mehrheit der Lebkuchen-Gebäude in Haiti befindet sich in Port-o-Prince und wurde von nur drei haitianische Architekten geplant, die sich während ihres Studiums in Paris inspirieren ließen. 1895 wollten Georges Baussan, Léon Mathon und Joseph-Eugène Maximilien die aufkommende Architekturbewegung nutzen, indem sie den zeitgenössischen Stil französischer Ferienhäuser an das tropische Klima von Haiti anpassten.
+Die Häuser sind in der Regel aus Holz, Mauerwerk oder Stein und Lehm gebaut. Charakteristisch für diesen Baustil sind lebhafte Muster, extravagante Farben und reich verzierte Balustraden. Die Häuser wurden mit hohen Türen, hohen Decken und großen Fenstern, die sich auf weitläufige Galerien öffnen, gebaut, um die vorherrschenden Winde für das Raumklima zu nutzen. Der Ausdruck Lebkuchen-Architektur wurde in den 1950er Jahren von amerikanischen Touristen geprägt, die den Stil mit den Gebäuden im viktorianischen Zeitalter in den USA verglichen. Es ist sehr kostenintensiv die Häuser instand zuhalten. Obwohl die Lebkuchenhäuser dem Erdbeben von 2010 besser standhielten als die modernen Betongebäude, verfallen viele von ihnen zunehmend. Im Jahr 2010 wurden die Lebkuchenhäuser von Haiti daher in die World Monuments Watch aufgenommen.&lt;/p&gt;
+
+&lt;p&gt;Wer durch eine Stadt spazieren möchte, die tatsächlich aus Lebkuchen besteht, muss das Architekturmuseum in London besuchen. Jedes Jahr wird dort von einer Gruppe von Architekten, Designern und Ingenieuren eine ganze Lebkuchenstadt erbaut. Die diesjährige Ausstellung „Imagining the Future City“ ist vom 8. Dezember 2018 bis zum 6. Januar 2019 zu sehen - Nicht abbeißen!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;über-die-autoren&#34;&gt;Über die Autoren&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/anna-ritscher/&#34;&gt;Anna Ritscher&lt;/a&gt;&lt;/strong&gt; studierte Chemie in Wien und promovierte an der TU Berlin mit dem Schwerpunkt Festkörperchemie. Als Mitbegründerin von Biotop arbeitet sie derzeit an modularen Laborinfrastrukturen und Citizen Science Projekten.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;referenzen&#34;&gt;Referenzen:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.thegingerbreadcity.com/&#34;&gt;https://www.thegingerbreadcity.com/&lt;/a&gt;
+&lt;a href=&#34;https://web.archive.org/web/20130320172232/http://www.wmf.org/sites/default/files/wmf_publication/WMF%20Haiti%20Mission%20Report.pdf&#34;&gt;https://web.archive.org/web/20130320172232/http://www.wmf.org/sites/default/files/wmf_publication/WMF%20Haiti%20Mission%20Report.pdf&lt;/a&gt;
+&lt;a href=&#34;https://www.wmf.org/project/gingerbread-neighborhood&#34;&gt;https://www.wmf.org/project/gingerbread-neighborhood&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Das Lebkuchenhaus</title>
+      <link>http://biotop.co/de/blog/xmascal/13/</link>
+      <pubDate>Tue, 13 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/13/</guid>
+      <description>&lt;p&gt;Gerade um die Weihnachtszeit treffen wir in vielen Kulturen auf eine besondere Form von Gebäck - das Lebkuchenhaus. Aber was für Ideen stecken hinter einem süßen essbaren Häuschen und wie weit lassen sich diese zurückverfolgen?&lt;/p&gt;
+
+&lt;p&gt;Sehr zur Freude von uns Archäologen kennen wir Modellhäuser aus der materiellen Hinterlassenschaft verschiedener Kulturen. Sie helfen uns ein besseres Bild von der damaligen Architektur zu gewinnen, da die bei Ausgrabungen untersuchbaren Überreste von Siedlungen aus verschiedenen Zeiten nur kleine Einblicke ermöglichen. Aus Holz und Lehm gebaut bleiben meist nur die Grundrisse der Häuser erhalten und die Tonmodelle von Häusern ermöglichen uns eine bessere Vorstellung der aufgehenden Bereiche zu erhalten. Sie zeigen Häuser aus dem pharaonischen Ägypten (vor etwa 3900 Jahren), dem bronzezeitlichen Griechenland (vor etwa 3700 Jahren) oder wurden im eisenzeitlichen Mitteleuropa sogar als Urnen benutzt (vor etwa 2600 Jahren).&lt;/p&gt;
+
+&lt;p&gt;Doch auch wenn die Form an Lebkuchenhäuser erinnert, haben diese Tonmodelle natürlich nichts mit unserem heutigen Weihnachtshäuschen zu tun. Es gibt Funde von Honiggebäck in Form von Pflanzen, Tieren und Menschen im alten Ägypten als Opferkuchen und Grabbeigaben. Diese Verwendung zieht sich durch die Antike und der Legende nach gelang es Psyche sogar Kerberos beim Ein- und Austritt aus der Unterwelt mit Honigkuchen zu bestechen. Von der lateinischen Bezeichnung &amp;ldquo;libum&amp;rdquo; für die Opferbrote, die in Opferritualen den römischen Hausgöttern am Lararium dargebracht wurden, dürfte auch der deutsche Name Lebkuchen abgeleitet sein. Die exotischen Gewürze, die für die Herstellung notwendig waren kamen vermehrt mit den Kreuzzügen nach Mitteleuropa und so erlebte das Gebäck einen neuen Höhepunkt. Als gut haltbare &amp;ldquo;Kraftnahrung&amp;rdquo; für unterwegs und als Festtagsgebäck waren Lebkuchen sehr begehrt, galten aber durch die mühsame Beschaffung der Zutaten als exklusives Gebäck.&lt;/p&gt;
+
+&lt;p&gt;Damit kommen wir dem Lebkuchenhaus bereits näher, denn in Zeiten von Hungersnöten, wie in Europa zu Beginn des 14. Jahrhunderts, entwickelte sich die Idee des Schlaraffenlandes, des Landes des Überflusses. Pieter Bruegel der Ältere nahm in zwei Werken Bezug darauf, in seinen &amp;ldquo;Flämischen Sprichwörtern&amp;rdquo; (1559) und im Bild &amp;ldquo;das Schlaraffenland&amp;rdquo; (1567). In ersterem bezieht sich eine Szene (aus über 80 anderen) auf das Sprichwort: &amp;ldquo;Da ist das Dach mit Fladen bedeckt (es herrscht Überfluss)&amp;rdquo;. Diese Idee, dass ein &amp;ldquo;&amp;hellip;Häuslein aus Brot gebaut [&amp;hellip;] und mit Kuchen gedeckt&amp;hellip;&amp;rdquo; wäre, fand Niederschlag in Märchen und Erzählungen und wurde von den Brüdern Grimm in ihren Kinder- und Hausmärchen als Märchen von Hänsel und Gretel 1812 niedergeschrieben. Im Mittelpunkt steht hier der Mangel im Elternhaus und die Entscheidung die Kinder auszusetzen und das Lebkuchenhaus der anthropophagen Hexe dient als Symbol für den Überfluss als Gegenpol.&lt;/p&gt;
+
+&lt;p&gt;Die große Popularität des Märchens führte zur Verbreitung von Lebkuchenhäusern in vielen deutschsprachigen, osteuropäischen, skandinavischen und englischsprachigen Ländern, auch wenn der ideengeschichtliche Hintergrund meist nicht mehr präsent ist.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leucht&#39; ein Licht</title>
+      <link>http://biotop.co/de/blog/xmascal/12/</link>
+      <pubDate>Mon, 12 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/12/</guid>
+      <description>&lt;p&gt;Geht es auf der Nordhalbkugel gegen Weihnachten - oder genauer gesagt der Wintersonnenwende - zu, werden auch die Tage kürzer. So ist es auch nicht verwunderlich, dass wir eine Vielzahl an Bräuchen entwickelt haben, bei denen wir mit allerlei leuchtenden Dingen versuchen der Dunkelheit zu trotzen: Innenstädte, die im Licht der Weihnachtsbeleuchtung gebadet werden, Häuser, die mit allerlei Lichtbehang geschmückt, und manchmal verunstaltet werden; Kerzen die am Christbaum oder am Adventkranz brennen. Es fehlt also wahrlich nicht an Gelegenheiten, die Schönheit, die Wärme, oder gar die Physik von Licht zu bestaunen!&lt;/p&gt;
+
+&lt;p&gt;Heute nehmen wir allerdings eine etwas unübliche Perspektive ein. Anstatt darüber zu sinnieren, warum eine brennende Kerze leuchtet, oder darüber zu fachsimpeln, was ein stromdurchflutetes Filament leuchten lässt, wollen wir uns mit jener sonderbaren und gleichsam faszinierenden Kuriosität befassen, die wir auch als Luminiszenz bezeichnen. Sie ist am Werk wenn kalte Materie zu leuchten beginnt.&lt;/p&gt;
+
+&lt;p&gt;Moleküle bestehen aus Atomen, die wiederum aus Protonen und Neutronen bestehen, welche den Atomkern bilden, der von Elektronen umgeben ist. Wenn Atome Moleküle bilden, teilen sich mehrere Atomkerne einige Elektronen. Somit wird der &amp;ldquo;Elektronendurst&amp;rdquo; der Atomkerne gestillt. Einfach ausgedrückt ist das die Essenz der chemischen Bindung. Die geteilten Elektronen sind negativ geladen, und werden von den positiv geladenen Kernen angezogen. Allerdings hängt es von der Art der Atome ab, wie stark diese Anziehung ist, und je nach Stärke der Anziehung, können wir sagen, dass Elektronen unterschiedliche Energien haben.&lt;/p&gt;
+
+&lt;p&gt;Zu Beginn des zwanzigsten Jahrhunderts wurde die Physik der kleinen Dinge - also auch jene der Moleküle - grundlegend umgekrempelt. Durch Arbeiten der Pioniere der Quantenmechanik haben wir erkannt, dass Energie in sehr kleinen, klar begrenzten Päckchen vorkommen, und nicht wie zuvor vermutet als Kontinuum. Die Energie der Elektronen in einem Molekül bildet hierbei keine Ausnahme: Elektronen in einer chemischen Bindung &amp;ldquo;sitzen&amp;rdquo; meist in klar definierten Energieniveaus, dem sogenannten Grundzustand, der allerdings nur den niedrigsten einer Vielzahl an möglichen Energieniveaus darstellt.&lt;/p&gt;
+
+&lt;p&gt;Lassen wir ein Licht einer bestimmten Farbe, oder, etwas präziser formuliert, einer definierten Wellenlänge - auf ein Molekül scheinen, so können wir den Elektronen in dessen chemischen Bindungen gerade die richtige Menge Energie mitgeben, um sie auf das nächste höhergelegene Energieniveau zu heben. Dort angekommen, bleiben die Elektronen eine Weile im sogenannten angeregten Zustand, bevor sie wieder in den Grundzustand purzeln. Energie kann aber nie verloren gehen, sondern immer nur umgewandelt werden. Was passiert also mit der zusätzlichen Energie, die wir durch das Licht in das Molekül gebracht haben? Ein Teil davon sorgt dafür, das das Molekül ordentlich zu wackeln beginnt, und wird schließlich in Wärme umgewandelt, während ein anderer Teil wiederum als Licht abgegeben werden kann, das allerdings um den Wärmeanteil weniger Energie - oder in anderen Worten eine rotere Farbe hat. Das ist Luminiszenz auf den Punkt gebracht. Sie ist der Grund dafür, warum dein Gin &amp;amp; Tonic im fahlen Blau leuchtet, wenn du damit in einem UV-beleuchteten Club stehst, der Grund dafür, warum Leuchtfarbe funktioniert, und es ist nur ein kleiner Vorgeschmack auf die vielen Wunder, die dich in der Welt der leuchtenden Materie erwarten&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Das Problem des Handelsreisenden oder wie man den Weihnachtsshoppingtrip optimiert</title>
+      <link>http://biotop.co/de/blog/xmascal/11/</link>
+      <pubDate>Sun, 11 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/11/</guid>
+      <description>&lt;p&gt;Das Problem des Handelsreisenden beschäftigt sich damit, die kürzeste Rundtour zwischen einer Anzahl an Orten zu finden, dabei jeden Ort nur einmal zu besuchen und schließlich wieder zum Ausgangsort zurückzukehren. Im beigefügten Video zeigen wir einen einfachen Algorithmus, der einen der gängigen Optimierungsansätze verwendet um diese kürzeste Route zwischen den Mittelpunkten aller Länder zu finden. Die kürzeste Route kann die geographisch kürzeste sein, oder die schnellste oder die kosteneffizienteste. Man kann auch andere Parameter (oder Kombinationen von Parametern) optimieren - das Problem findet nicht nur dann Anwendung, wenn es um die Planung von Rundreisen geht.&lt;/p&gt;
+
+&lt;p&gt;Logistik - also der effiziente Transport und die zeitgerechte Zustellung von Gütern - ist natürlich ein Hauptanwendungsgebiet. Aber auch bei der Herstellung von Halbleiterplatten, die das Bohren von tausenden kleinen Löchern erfordert, spart eine optimierte Route des Bohrkopfs über die Platte nicht nur Zeit, sondern auch Geld. Natürlich könnte man die Lösungsansätze für dieses mathematische Problem genauso auf die Optimierung der eigenen Weihnachstshoppingroute anwenden. Für eine kleine Anzahl an Orten ist es noch machbar, alle möglichen Routen zu berechnen, zu vergleichen, und dann die beste zu finden. Allerdings gibt es schon bei 10 Orten 10! (also 3,628,800) mögliche Rundtouren. Für eine große Anzahl an zu besuchenden Orten sind also selbst die besten Computer nicht fähig, in halbwegs kurzer Zeit eine exakte Lösung zu finden. Deshalb wurden bereits viele verschiedene Annäherungen erarbeitet, um wenn auch nicht die beste, dann eine der besten Lösungen zu finden. Das Christkind muss über eine ganz besonders gute Lösung für das Problem des Handelsreisenden verfügen um in einem einzigen Abend alle Haushalte in Österreich besuchen zu können&amp;hellip;&lt;/p&gt;
+
+&lt;h4 id=&#34;weiterführende-links&#34;&gt;Weiterführende Links&lt;/h4&gt;
+
+&lt;p&gt;10 Lines Of Coding (as shown in video): &lt;a href=&#34;https://ericphanson.com/blog/2016/the-traveling-salesman-and-10-lines-of-python/&#34;&gt;https://ericphanson.com/blog/2016/the-traveling-salesman-and-10-lines-of-python/&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;über-die-autoren&#34;&gt;Über die Autoren&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/de/person/anna-koeferle/&#34;&gt;Anna Köferle&lt;/a&gt;&lt;/strong&gt; studierte Biochemie in Oxford und machte danach ihr Doktorat am University College London. Sie interessiert sich ganz besonders für Genregulierung, Epigenetik, und alles was mit der Genschere &amp;ldquo;CRISPR&amp;rdquo; zu tun hat. Seit sie vor zwei Jahren eine PostDoc-Stelle an der Ludwig-Maximilians-Universität München angetreten hat, kommt sie auch öfters mit Themen aus der Neurobiologie in Kontakt.&lt;/p&gt;
+
+&lt;p&gt;Als Architekt hat sich &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/ralf-bliem/&#34;&gt;Ralf Bliem&lt;/a&gt;&lt;/strong&gt; auf generatives Entwerfen und modulares Design spezialisiert. Er hat and der TU Wien und TU Berlin Architektur studiert und in Berlin sowie in Wien in renommierten Architekturbüros gearbeitet. Ralf ist Mitbegründer von Biotop und arbeitet zur Zeit mit Biotop an modularen Laboren und einigen weiteren interessanten Aufgaben.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Der Dunkelste Tag</title>
+      <link>http://biotop.co/de/blog/xmascal/21/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/21/</guid>
+      <description>&lt;p&gt;Wir schreiben heute den 21. Dezember, den dunkelsten, den in Sonnenstunden gemessen kürzesten Tag des Jahres. Warum haben die Tage unterschiedliche Längen, wieso gibt es Jahreszeiten und wann sind wir der Sonne eigentlich am nächsten? Fragen wie diese werden im heutigen Adventkalenderbeitrag beantwortet.&lt;/p&gt;
+
+&lt;p&gt;Schon in der Schule lernt man die Einteilung des Jahres in vier Jahreszeiten, Frühling, Sommer, Herbst und Winter und schon seit jeher hat sich die Natur und der Mensch diesem Jahresrhythmus angepasst. Seit Kopernikus [1] und Kepler [2] wissen wir auch in Europa, die Erde bewegt sich um die Sonne, und ihre Bahn, Neigung und Eigenrotation sind für diese so maßgeblichen Zeiten verantwortlich. Wie kann man sich das vorstellen? Die Sonne stellt als großer leuchtender Gasball das Zentrum unseres Sonnensystems dar und hat eine anziehende Wirkung (Gravitationskraft) auf alle Objekte, die sich in der Nähe befinden. So auch auf die Erde und sämtliche Planeten, sowie Gesteinsbrocken in unserer Umgebung. Diese erwähnten Objekte werden also von der Sonne angezogen, fallen aber dennoch nicht in sie hinein, denn sie bewegen sich auf Ellipsenbahnen um die Sonne.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Do it yourself: Ellipsen selbst konstruiert.&lt;/strong&gt; Man nehme eine Korkplatte, lege ein Blatt Papier darüber und fixiere zwei Reißnadeln (die sogenannten Brennpunkte) auf der Korkplatte (in einem Abstand von etwa 10 cm). Daran knote man die beiden Enden eines ca 15 cm langen Fadens. Nun spanne man mit einem Stift den Faden und bewege den Stift bei gespannter Schnur um die Reißnadeln herum. Auf diese Weise sollte eine Ellipse entstehen (siehe Video…).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://biotop.co/xmascal/img/21/Ellipse.gif&#34;/&gt; 
+&lt;/figure&gt;
+
+
+&lt;p&gt;Dies ist ein fragiles Gleichgewicht, dass sich im Laufe der Jahrmilliarden so eingestellt hat. Setzt man zufällig Objekte rund um einen Stern mit zufälliger Anfangsgeschwindigkeit, so stoßen die meisten zusammen, oder stürzen in den Stern, wie das Video unten zeigt. Nur die wenigsten finden eine stabile Umlaufbahn, wie unsere Planeten und Monde.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Die Feuerwerksrakete - Ein farbiges Schauspiel</title>
+      <link>http://biotop.co/de/blog/xmascal/31/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/31/</guid>
+      <description>&lt;p&gt;Ihr habt bereits von der Legende des Mönchs Li Tian aus Liu Yang (Region Hunan, China) gehört, der der Lende nach den ersten Feuerwerkskracher entwickeln hat. Noch heute ist die Stadt Liu Yang die Hauptstadt des Feuerwerkbaus, mit 900 Fabriken, die zwei Drittel der Weltproduktion übernehmen. Immer noch werden dort die meisten pyrotechnischen Gegenstände von Hand gefertigt.
+Was wäre ein Feuerwerk ohne das Pfeifen einer aufsteigenden Rakete, gefolgt von der Explosion leuchtender Farben, die den Nachthimmel erhellen? Das Gestalten eines imposanten Feuerwerks ist eine eigene Kunstform, nicht umsonst leitet sich das Wort für Feuerwerksbau - Pyrotechnik -  von den griechischen Wörtern Pyr (Feuer) und Tekhnikos (Kunst) ab. Doch ohne Wissen über Physik und Chemie der Pyrotechnik wäre nichts davon möglich. Feuerwerkskörper sind ziemlich komplexe Produkte. Vereinfacht kann man sich ein Feuerwerk als ein Geschoss vorstellen, dass kontrolliert explodiert.
+Eine Feuerwerksrakete besteht aus einer äußeren Hülle, die normalerweise aus Pappe, Kunststoff, Holz oder Ton gefertigt wird. Diese Hülle umschließt die pyrotechnische Mischung, die für den Effekt verantwortlich ist. Der lange Holz- oder Kunststoffstab an der Unterseite der Rakete sorgt dafür, dass das Feuerwerk geradeaus und in die vorgesehene Richtung schießt. Beim Anfachen der Rakete reagiert zuerst die Zündung, welche daraufhin die Treib-  und anschließend die Effektladung entzündet. Bei großen Feuerwerk-Shows wird die Zündung durch elektrische Kontakte, sogenannte Wirebridge-Zündungen, aktiviert.
+Die Treibladung besteht normalerweise aus dicht gepacktem, grobkörnigen Schießpulver. Es ist ein relativ einfacher Sprengstoff und ist nur dafür verantwortlich, dass die Feuerwerksrakete hoch in den Himmel geschossen wird. Das farbige Leuchten ist das Ergebnis der sogenannten Effektladung. Die Feuerwerksrakete kann entweder eine Ladung oder mehrere in getrennten Kammern verpackte Ladungen,  beinhalten. Die pyrotechnische Ladung besteht aus einem Metallsalz und einem Oxidationsmittel, welches den Sauerstoff für die Verbrennung liefert.Während der Verbrennung des Gemisches wird genug Energie frei, um ein Elektron in einen höheren Energiezustand zu bringen. Wenn das Elektron in seinen Grundzustand zurückfällt, wird die Energie in Form von Lichtenergie freigesetzt. Photonen werden emittiert, die wir als leuchtende Funken am Himmel wahrnehmen.&lt;/p&gt;
+
+&lt;p&gt;Die Farbe der Leuchtrakete hängt vom verwendeten Metallsalz ab. Natrium zeigt beispielsweise ein gelbes Licht (590 nm), während für das rote Licht (605 - 682 nm) meistens Strontiumsalze verwendet werden. Bariumsalze emittieren Licht bei einer Wellenlänge von 490 - 560 nm, welches grün ist. Blaues Licht (Wellenlänge von 435 - 440 nm) wird hauptsächlich mit Kupfersalzen erzeugt.&lt;/p&gt;
+
+&lt;p&gt;In Europa werden Feuerwerke normalerweise zum Jahreswechsel gezündet. Warum das? Dies geht wahrscheinlich auf die alten Germanen zurück. Diese glaubten während der sogenannten Rauhnächten (25. Dez.- 6.Jan) von bösen Geistern heimgesucht zu werden. Sie fürchteten besonders den Silvesterabend und versuchten mit lautem Lärm und Lichtern die beängstigende Dunkelheit und die bösen Geister zu vertreiben. Hoffentlich hat es geklappt!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;über-die-autorin&#34;&gt;Über die Autorin&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/anna-ritscher/&#34;&gt;Anna Ritscher&lt;/a&gt;&lt;/strong&gt; studierte Chemie in Wien und promovierte an der TU Berlin mit dem Schwerpunkt Festkörperchemie. Als Mitbegründerin von Biotop arbeitet sie derzeit an modularen Laborinfrastrukturen und Citizen Science Projekten.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Die Funken des Sternspritzers</title>
+      <link>http://biotop.co/de/blog/xmascal/22/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/22/</guid>
+      <description>&lt;p&gt;Alles begann vor 1400 Jahren mit einer Legende. In der Stadt Liu Yang (Region Hunan, China) wüten seit Monaten heftige Stürme mit starken Regenfällen. Die Menschen leiden unter Hunger und Krankheiten. Um dem Elend ein Ende zu setzen, zündet der Mönch Li Tian Bambuspfeifen, die mit Salpeter, Kohle und Schwefel gefüllt sind, um die bösen Geister und die schrecklichen Gewitter zu vertreiben. Die Geburtsstunde des ersten Krachers. Es gibt keine wissenschaftlichen Beweise dafür, ob dieser Mythos tatsächlich geschah, aber bis zum heutigen Tage wird der Mönch in der Gegend verehrt.Heute wollen wir uns mit der wohl einfachsten Form eines Feuerwerks beschäftigen: Dem Sternspritzer.&lt;/p&gt;
+
+&lt;p&gt;Dieser besteht normalerweise aus einem langen Stahldraht, der mit einer entzündlichen Paste, zusammengesetzt aus Metallpulver, Oxidationsmittel und Bindemittel, überzogen ist. Während die Korngröße des Pulvers entscheidend für das charakteristische Funkeln des Sternspritzers ist, liefert meist Bariumnitrat als Oxidationsmittel den notwendigen Sauerstoff für die Reaktion. Wird der Sternspritzer angezündet, produziert die metallische Komponente kleine leuchtende Funken, die in alle Richtungen abgeschossen werden. Diese Funken leuchten abhängig vom verwendeten Metallpulver in unterschiedlichen Farbtönen und können Temperaturen bis zu 2000 °C erreichen. Das bedeutet, die Funken sind extrem heiß.&lt;/p&gt;
+
+&lt;p&gt;Aber warum verbrennt man sich eigentlich nicht wenn man von einem Funken des Sternspritzers getroffen wird? Der Grund dafür liegt im Unterschied zwischen Temperatur und Wärme. Jeder Körper hat eine so genannte thermische Energie. Diese hängt ab von seiner Temperatur, seiner Masse und der spezifischen Wärmekapazität, also der Art des Materials. Je größer die Masse eines Körpers ist, desto höher ist auch seine thermische Energie. Die Wärmekapazität gibt an wie gut ein Stoff Wärme speichern kann. Die Funken eines Sternspritzer besitzen eine sehr kleine Masse. Demzufolge ist deren thermische Energie relativ klein. Die winzigen Funken können die Wärme nicht lange speichern und kühlen auf der Haut so schnell ab, dass sie diese nicht stark schädigen können. Ein Sternspritzer ist bei sicherem Umgang also nicht gefährlich. Damit steht einem funkelndem Weihnachtsabend nichts im Wege.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;über-die-autorin&#34;&gt;Über die Autorin&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/anna-ritscher/&#34;&gt;Anna Ritscher&lt;/a&gt;&lt;/strong&gt; studierte Chemie in Wien und promovierte an der TU Berlin mit dem Schwerpunkt Festkörperchemie. Als Mitbegründerin von Biotop arbeitet sie derzeit an modularen Laborinfrastrukturen und Citizen Science Projekten.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Die Physik des Frierens – Wie man sich warm hält</title>
+      <link>http://biotop.co/de/blog/xmascal/19/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/19/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Bildquelle: Frank E. Kleinschmidt - Library of Congress Prints and Photographs Division, Washington, DC 20540&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Der Winter naht und mit ihm wird es kalt. Wie reagiert der menschliche Körper darauf, welche Mechanismen helfen ihm dabei seine Körpertemperatur auf Betriebstemperatur zu halten und wie kann man sich im Winter ganz praktisch warm halten?
+Um diese Fragen zu beantworten beschäftigt sich der heutige Adventkalendereintrag mit dem Thema Wärme und Mensch. Was ist Wärme, wieviel Wärme produziert der menschliche Körper und wie gibt er Wärme ab?&lt;/p&gt;
+
+&lt;p&gt;Man kann den menschlichen Körper als thermodynamische Maschine betrachten, die bei ihren Bewegungen und molekularbiologischen Prozessen (auch Denken benötigt Energie) Wärme produziert. Man kann diese Wärmeleistung mit ca 150 Watt, also etwa der Leistung von zweieinhalb klassischen 60 Watt Glühbirnen angeben (oder ca 15 neuen LED-Filament Lampen). Generell muss diese Wärme nach außen abgegeben werden. Der menschliche Körper kann dazu einige raffinierte Techniken vorweisen:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Wärmeabgabe über die Haut. Jeder Körper gibt Wärme über Konvektion an seine Umgebung (Luft) ab. Die Luft in der Nähe der warmen Haut wird erhitzt und nimmt so die Wärme des menschlichen Körpers auf. Durch Luftströme kommt immer frische (kühlere) Luft an die Haut und kann so weitere Wärme aufnehmen. Im Detail kann man sich diese Wärmeübertragung so vorstellen: Wenn ein kühles Luftmolekül an ein warmes menschliches Hautmolekül stoßt (das Hautmolekül schunkelt entsprechend seiner Temperatur richtig stark), wird das Luftmolekül regelrecht weggeschleudert, und hat eine viel höhere Geschwindigkeit und damit höhere Energie als vorher (es ist wärmer).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Strahlungswärme. Jeder Körper gibt Wärmestrahlen (sogenannte Infrarotstrahlung) je nach Temperatur mit unterschiedlicher Frequenz ab. Man kennt diese völlig harmlosen Strahlen von Wärmebildkameras, in denen diese sichtbar gemacht werden können und man Objekte anhand ihrer Wärmeabgabe erkennt. Der Mensch kann diese Infrarotstrahlen nicht sehen, aber spüren, man denke nur an eine sogenannten Infrarotkabinen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Materieausstoß. Der Mensch nimmt und gibt über seinen Stoffwechsel Materie (Nahrung, Ausscheidungen) auf und ab. Die abgegebenen Stoffe sind meist wärmer als die aufgenommenen. Man denke nur an die Atemluft.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Schwitzen. Dies stellt eine geradezu raffinierte Kühlungsmethode des Körpers dar, die dann zum Einsatz kommt, wenn die Außentemperatur oder die menschliche Wärmeproduktion (bei körperlicher Anstrengung) so hoch ist, dass die Wärmeabgabe über die Luft und Strahlung nicht mehr ausreicht. Beim Schwitzen scheidet der Mensch Wasser ab, dass dann an der Hautoberfläche verdunstet. Um Wasser zum Verdunsten zu bringen benötigt es viel Wärme, die der menschliche Körper dabei abgeben kann (2,4 Kilojoule pro Milliliter Schweiß)&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ein nützliches zweites Leben für altes Geschenkspapier</title>
+      <link>http://biotop.co/de/blog/xmascal/18/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/18/</guid>
+      <description>&lt;p&gt;Geschenkspapier führt ein sonderliches Dasein: Es soll herausstechen ohne dabei jemals selbst im Vordergrund zu stehen, soll sich gut anfühlen und hochwertig daherkommen. Es wird beim Einpacken sorgsam gestrichen und gefaltet, nur um schließlich mit ungeduldigen Handgriffen von seinem Inhalt getrennt zu werden und in der Papiertonne zu landen. Geschenkspapier hat ein zweites Leben verdient! Wir stellen eine Origami-Faltung vor, mit der man gebrauchtes Geschenkspapier in eine praktische Handyhalterung umwandeln kann.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://biotop.co/xmascal/img/18/LeftoverWrapping_Print.pdf&#34;&gt;Die Anleitung gibt es hier als pdf zum Herunterladen!&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;über-die-autoren&#34;&gt;Über die Autoren&lt;/h4&gt;
+
+&lt;p&gt;Als Architekt hat sich &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/ralf-bliem/&#34;&gt;Ralf Bliem&lt;/a&gt;&lt;/strong&gt; auf generatives Entwerfen und modulares Design spezialisiert. Er hat and der TU Wien und TU Berlin Architektur studiert und in Berlin sowie in Wien in renommierten Architekturbüros gearbeitet. Ralf ist Mitbegründer von Biotop und arbeitet zur Zeit mit Biotop an modularen Laboren und einigen weiteren interessanten Aufgaben.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/de/person/lukas-hutter/&#34;&gt;Lukas Hutter&lt;/a&gt;&lt;/strong&gt; studierte Chemie in Graz und Systembiologie in Oxford. Er ist einer der Mitbegründer von Biotop und arbeitet derzeit als Lehrer in Villach.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ein Weihnachtsgeschenk für Frau Pinguin</title>
+      <link>http://biotop.co/de/blog/xmascal/17/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/17/</guid>
+      <description>&lt;p&gt;Die Tradition von Weihnachtsgeschenken geht bereits auf ein heidnisches Fest mit dem Namen &amp;ldquo;Saturnalia&amp;rdquo; zurück, dass von den alten Römern im Dezember begangen wurde. Dort wurden kleine Keramik- oder Waxfiguren getauscht - wahrscheinlich heute vergleichbar mit dem Schenken von Wollsocken zu Weihnachten. Beim Schenken - also dem willentlichen Abtreten von Resourcen and jemand anderen . handelt es sich aber um eine Verhaltensweise, die schon viel älter ist als das Fest Saturnalia.&lt;/p&gt;
+
+&lt;p&gt;Der Akt des Schenkens ist in allen modernen Kulturen verbreitet und existiert wahrscheinlich schon so lange wie die Menscheit selbst.&lt;/p&gt;
+
+&lt;p&gt;Viel mehr noch handelt es sich nicht um eine rein menschliche Verhaltensform, denn auch im Tierreich werden Geschenke ausgetauscht. Nehmen wir zum beispiel unseren nächsten Verwandten, den Bonobo. Angehörige dieser Spezies wurden schon oft dabei beobachtet, wie sie in der Wildnis Nahrung teilen, und zwar mit Fremden, also Mitgliedern einer anderen Gruppe Bonobos. &lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051922&#34;&gt;Auch bei Tieren in Gefangenschaft konnte so ein Verhalten schon beobachtet werden &lt;/a&gt;. Vermutlich hilft es dabei neue soziale Verbindungen aufzubauen&lt;/p&gt;
+
+&lt;p&gt;Fremden Geschenke zu machen ist eine Form von Altruismus, der nur bei sehr sozialen Spezies beobachtet werden kann. Die meisten Tierarten beschränken sich mit ihren Geschenken auf nahe Verwandte, Partner, oder Mitglieder, der eigenen sozialen Gruppe, die das Geschenk irgendwann erwidern könnten.&lt;/p&gt;
+
+&lt;p&gt;Viele Besitzer von Katzen kennen das bestimmt aus erster Hand: Wildkatzen lehren ihren Kleinen das Erlegen von Beute, in dem sie ihnen einen kleinen Fang mitbringen. Weibliche Hauskatzen sind deswegen besonders geneigt, ihren Besitzern ein Geschenk vom Beutezug mitzubringen. Raben und Krähen sind auch dafür bekannt, Altruismus zu zeigen. Sie erinnern sich aber auch daran, ob ein Geschenk erwidert wurde und ob der Tausch fair war oder nicht. Laut einer Studie, &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0003347217301161&#34;&gt;merken sie sich das sogar über den Zeitraum eines Monats&lt;/a&gt;. Viele Geschichten berichten von &lt;a href=&#34;https://www.bbc.co.uk/news/magazine-31604026&#34;&gt;Krähen, die Menschen Geschenke bringen, im Tausch für Futter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Natürlich ist das Geben von Geschenken im Tierreich besonders im Paarungsverhalten verhaftet. Männliche Pinguine schenken ihren favorisierten Damen kleine Steine. Es handelt sich hierbei aber um ein sehr praktisches Geschenk, denn diese werden gerne zum Nestbau verwendet. Aber auch andere Faktoren werden bei der Auswahl der Geschenke berücksichtigt. &lt;a href=&#34;https://www.pnas.org/content/110/10/4123&#34;&gt;Eichelhäher schenken ihren Partnern gerne Mottenlarven, wenn diese sonst immer nur Würmer fressen, und umgekehrt&lt;/a&gt;. Es gibt noch zahlreiche weiter Beispiele für Geschenksverhalten im Tierreich. Da wie dort gilt es durch das Schenken die soziale Verbindung zu stärken - so auch an Weihnachten.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Meet Biotop</title>
+      <link>http://biotop.co/de/blog/xmascal/20/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/20/</guid>
+      <description>2018 war für Biotop ein sehr ereignisreiches und erfolgreiches Jahr. Um 2018 feierlich abzuschließen und einen kleinen Vorgeschmack auf das kommende Jahr zu geben, laden wir dich heute, Donnerstag (20.12.), herzlich in unser Büro in die Gerbergasse 3 ein!
+Ab 18:00 erwartet dich ein kurzer Jahresrückblick, sowie ein Rahmenprogramm aus Science Slams, fuer das Neurowissenschafterin, Stroemungsingeniuer und Molekularbiologen extra anreisen. Für das leibliche Wohl wird gesorgt sein.</description>
+    </item>
+    
+    <item>
+      <title>Stress</title>
+      <link>http://biotop.co/de/blog/xmascal/23/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/23/</guid>
+      <description>&lt;p&gt;Schon der Hausverstand legt uns nahe, dass die Weihnachtszeit nicht unbedingt zu den gesündesten Zeiten des Jahres zählt. Statistisch gesehen häufen sich um Weihnachten Herz-Kreislauferkrankungen, was wohl an einer Kombination an Faktoren, wie das verzögerte Aufsuchen eines Arztes, übermäßigem Genuss bei Festessen und Weihnachsfeiern, und erhöhtem emotionalem Stress liegt. Obwohl die zwei erstgenannten Faktoren wohl nicht unbedingt als Belastungen wahrgenommen werden, kann dies von Stress nicht behauptet werden.&lt;/p&gt;
+
+&lt;p&gt;Der Effekt von kürzeren Tagen ist gut beschrieben. Dennoch sind sie, was Stress um Weihnachten betrifft, wohl nicht mehr als das sprichwörtliche Sahnehäubchen am Kuchen. Die Weihnachtszeit ist wahrlich einen Minenfeld and Stressfaktoren, die von zunehmender Arbeitslast gegen Jahresende, bis hin zu verschiedensten sozialen Verpflichtungen reichen. Zeit mit der Familie kann dabei helfen Stress zu bekämpfen, ist aber ebenso reich an Gelegenheiten, die alles noch schlimmer machen können. Bei der idyllischen Weihnacht - eine Angelegenheit aus perfekter Zeit mit der Familie, geprägt von respektvollen Unterhaltungen, und noch viel perfekterem Essen - handelt es sich nicht nur um ein Klischee, dem man sich nur schwer entziehen kann, die idyllische Weihnacht befeuert auch die Erwartungsmaschine, welche zuverlässig Stress ausspuckt, wenn wir feststellen, dass sich unsere unrealistischen Erwartungen so gar nicht mit dem gut gemeinten Durcheinander sozialer Komplexität decken, das uns umgibt.&lt;/p&gt;
+
+&lt;p&gt;Wir verdanken es einem kleinen Molekül namens Cortisol, dass wir überhaupt gestresst sein können. Es wird in der Nebennierenrinde produziert und signalisieret dem Körper, dass es Zeit ist Ressourcen aufzubringen und umzulenken, um mit möglicherweise lebensbedrohlichen Situationen umzugehen. Aus evolutionärer Sicht macht das alles selbstverständlich Sinn! Wenn man auf einen hungrigen Bären trifft, ist es nur vernünftig sich davon gestresst zu fühlen, da dies die körperlichen Ressourcen dahingehend konzentriert, dem Bären entweder entgegen zu treten, oder die Beine in die Hand zu nehmen und so schnell als möglich Meter zu gewinnen.&lt;/p&gt;
+
+&lt;p&gt;In dieser Hinsicht sind unsere Affengehirne allerdings ganz und gar nicht an das Leben in einer modernen Gesellschaft angepasst, wo vielerlei Situationen Stress auslösen, die nicht im geringsten lebensbedrohlich sind. Das Resultat kann chronischer Stress sein, der eine Vielzahl an negativen Auswirkungen auf unsere Gesundheit mit sich bringt. Neben dem erhöhten Risiko an Herz-Kreislauferkrankungen zu erkranken, kann chronischer Stress zu Depressionen, Panikattacken oder einer Verminderung der geistigen Leistungsfähigkeit beitragen, bzw. diese auslösen. So wurde kürzlich gezeigt, dass Stress in Personen mit entsprechender genetischer Veranlagung dazu führen kann, dass das Volumen bestimmter Hirnregionen abnimmt.&lt;/p&gt;
+
+&lt;p&gt;Dies soll natürlich keineswegs bedeuten, dass Weihnachten zum Schrumpfen von Hirnen führt! Allerdings bieten diese Erkenntnisse über die Folgen von Langzeitstress Anlass inne zu halten, um uns vor Weihnachten von unrealischen Erwartungen zu befreien, und uns mehr auf die gute Absicht, als auf das Durcheinander sozialer Komplexität zu konzentrieren.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;über-den-autor&#34;&gt;Über den Autor&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/de/person/lukas-hutter/&#34;&gt;Lukas Hutter&lt;/a&gt;&lt;/strong&gt; studierte Chemie in Graz und Systembiologie in Oxford. Er ist einer der Mitbegründer von Biotop und arbeitet derzeit als Lehrer in Villach.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Unsere Mission</title>
+      <link>http://biotop.co/de/blog/xmascal/24/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/de/blog/xmascal/24/</guid>
+      <description>&lt;p&gt;Für viele  ist Wissenschaft ein Begriff, der bedeutet, dass Leute mit einer Vorliebe für Abkürzungen und weiße Laborkittel Dinge in sterilen Labors oder mit komplexen Gleichungen machen; Dinge, die wichtig anmuten; möglicherweise bahnbrechende Dinge; Dinge, die aber auch nur eine Handvoll Menschen weltweit wirklich verstehen. Und wenn, dann haben diese Leute sicher auch eine Vorliebe für exotisch klingende Akronyme, blütenweiße Arbeitsmäntel und vollgekritzelte Tafeln.&lt;/p&gt;
+
+&lt;p&gt;Teilweise treffen diese Klischees sicherlich zu. Doch das Bild, das sie zeichnen, ist unvollständig, lässt es doch jene wichtigste aller Zutaten außen vor: Leidenschaft. Wer Wissenschaft betreibt, ist ein Getriebener - süchtig nach jenen Momenten, in denen sich die Schönheit dessen, was ist, offenbart. Ob es die mikroskopische Welt der Zelle ist, in der sich Brücken selbst auf- und wieder abbauen, knubbelige Proteine in sagenhafter Geschwindigkeit darübergleiten und ständig alles im Fluss ist, oder rätselhafte Quantenwelten, die in vielerlei Hinsicht jenen Intuitionen widersprechen, welche die Welt im Großen geformt hat.
+Für diese Einblicke legen sich WissenschafterInnen mit ihrer Unwissenheit an und nehmen es dabei in Kauf, unzählige Male gegen die sprichwörtliche Wand zu rennen, bevor sich ihr Horizont ein (sehr kleines) Stück weit erweitert.&lt;/p&gt;
+
+&lt;p&gt;Doch damit wir alle von diesen Erweiterungen des Horizonts im Einzelnen profitieren können und um gemeinsam ein Stück besser mit der Komplexität unserer Welt umgehen zu können, muss Wissenschaft vermittelt werden. Nicht als reiner Selbstzweck, sondern - &lt;em&gt;lehrend lernt es sich am besten&lt;/em&gt; - als natürlicher Bestandteil des Forschens, und in interaktiver Art und Weise.
+Dort sehen wir unsere Verantwortung als WissenschafterInnen gegenüber der Gesellschaft, sowie unseren Arbeitsauftrag als Wissenschaftskollektiv.
+Ihn wahrzunehmen verspricht aufregend zu werden, denn die Geschichten, die wir zu erzählen wissen, sind atemberaubend. Mit KünstlerInnen an unserer Seite haben wir die besten PartnerInnen, um diese Geschichten spannend und auf vielfältige Weise erzählen zu können. Doch wir wollen uns nicht auf das reine Erzählen beschränken, sondern auch unsere Arbeit und unsere Werkstätte öffnen, unsere Ressourcen teilen, mit Rat und Tat zur Seite stehen, gemeinsam mit interessierten Laien forschen und an Projekten tüfteln.&lt;/p&gt;
+
+&lt;p&gt;Für 2019 erwarten uns spannende Projekte! Um auf dem Laufenden zu bleiben &lt;a href=&#34;https://mailchi.mp/762223d8965a/biotop-newsletter&#34;&gt;abonniere doch unseren brandneuen Newsletter&lt;/a&gt;, oder werde zum Fördermitglied, indem du an &lt;a href=&#34;mailto:joinus@biotop.co&#34;&gt;joinus@biotop.co&lt;/a&gt; schreibst.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;über-die-autoren&#34;&gt;Über die Autoren&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/de/person/anna-koeferle/&#34;&gt;Anna Köferle&lt;/a&gt;&lt;/strong&gt; studierte Biochemie in Oxford und machte danach ihr Doktorat am University College London. Sie interessiert sich ganz besonders für Genregulierung, Epigenetik, und alles was mit der Genschere &amp;ldquo;CRISPR&amp;rdquo; zu tun hat. Seit sie vor zwei Jahren eine PostDoc-Stelle an der Ludwig-Maximilians-Universität München angetreten hat, kommt sie auch öfters mit Themen aus der Neurobiologie in Kontakt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.stulowitz.at&#34;&gt;Wolfgang Schütz&lt;/a&gt;&lt;/strong&gt;, ist ein Villacher Illustrator und Spieleentwickler, und lebt seit 2008 in Salzburg wo er an der FH Salzburg Multimediaart studierte. Unter dem Synonym &lt;strong&gt;&lt;a href=&#34;http://www.stulowitz.at&#34;&gt;Stulowitz&lt;/a&gt;&lt;/strong&gt; ist er seit dem Jahr 2018 Freelancer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/de/person/lukas-hutter/&#34;&gt;Lukas Hutter&lt;/a&gt;&lt;/strong&gt; studierte Chemie in Graz und Systembiologie in Oxford. Er ist einer der Mitbegründer von Biotop und arbeitet derzeit als Lehrer in Villach.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
     <item>
@@ -77,35 +718,22 @@ Alle Inhalte sind auch im Schaufenster unseres Büros in der Gerbergasse 3 in Vi
       
       <guid>http://biotop.co/de/blog/meeting-october-2018/</guid>
       <description>An einem sonnigen Wochenende Anfang Oktober trafen wir uns auf der Burg Groppenstein im Kärntner Mölltal für unser drittes Biotop-Treffen.
-  Gleich drei neue Mitglieder konnten wir begrüßen - Gerhard Dorn, Dieter Gutschi und Ugne Greivyte. Den Anfang machte ein Update zum Container-Labor Projekt und ein Rückblick auf unsere Teilnahme am London Design Festival. Später ging es noch um zukünftige Projekte.
-  Dieter, dessen Expertise in der Organisationsentwicklung liegt, gestaltete eine Einheit zum Thema &amp;ldquo;mission crafting&amp;rdquo;.</description>
+ Gleich drei neue Mitglieder konnten wir begrüßen - Gerhard Dorn, Dieter Gutschi und Ugne Greivyte. Den Anfang machte ein Update zum Container-Labor Projekt und ein Rückblick auf unsere Teilnahme am London Design Festival. Später ging es noch um zukünftige Projekte.
+ Dieter, dessen Expertise in der Organisationsentwicklung liegt, gestaltete eine Einheit zum Thema &amp;ldquo;mission crafting&amp;rdquo;.</description>
     </item>
     
     <item>
-      <title>Biodesign Here Now - London Design Festival 2018</title>
+      <title>Biodesign Here Now</title>
       <link>http://biotop.co/de/blog/biodesign_here_now/</link>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/de/blog/biodesign_here_now/</guid>
       <description>Im Rahmen der &amp;ldquo;Biodesign Here Now&amp;rdquo; Ausstellung am OpenCell Campus konnten wir am London Design Festival 2018 teilnehmen. Wir stellten unsere Ausstellung &amp;ldquo;See the invisible&amp;rdquo; zur Schau.
-  Zusätzlich führten wir einige Workshops im Container Labor von Open Cell, für das wir ja die Raumplanung gemacht und Labormöbel gebaut haben, durch. Zusammen mit den Besuchern wurde Käse hergestellt und DNA aus Erdbeeren extrahiert, beides Aktivitäten, die einfach und ohne Spezialausstattung machbar sind, allerdings als wunderbarer Ausgangspunkt für Diskussionen zum Thema Gentechnik und ihre Methoden, gentechnisch veränderte Lebensmittel, sowie Ethik in der Forschung dienten.</description>
+ Zusätzlich führten wir einige Workshops im Container Labor von Open Cell, für das wir ja die Raumplanung gemacht und Labormöbel gebaut haben, durch. Zusammen mit den Besuchern wurde Käse hergestellt und DNA aus Erdbeeren extrahiert, beides Aktivitäten, die einfach und ohne Spezialausstattung machbar sind, allerdings als wunderbarer Ausgangspunkt für Diskussionen zum Thema Gentechnik und ihre Methoden, gentechnisch veränderte Lebensmittel, sowie Ethik in der Forschung dienten.</description>
     </item>
     
     <item>
-      <title>Biodesign Here Now</title>
-      <link>http://biotop.co/de/event/biodesign_here_now/</link>
-      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/de/event/biodesign_here_now/</guid>
-      <description>Wir freuen uns sehr, als Teil von &amp;ldquo;Biodesign Here Now&amp;rdquo; am London Design Festival 2018 teilzunehmen.
-Die Öffnungzeiten sind:
-Mittwoch bis Donnerstag: 12:00 - 20:30
-Freitag bis Sonntag: 12:00 - 23:00
-Eine vollständige Liste aller Veranstaltungen finden Sie hier. Zusätzlich zur Ausstellung &amp;ldquo;See the invisible&amp;rdquo;, bietet Biotop drei Workshops im Container-Labor am Campus von OpenCell an. Um frühzeitige Anmeldung wird gebeten: Samstag 22. September 2018 um 16:00 (anmelden), 18:00 (anmelden) und 20:00 pm (anmelden).</description>
-    </item>
-    
-    <item>
-      <title>Biotop X OpenCell - In 10 Tagen zum fertigen Labor</title>
+      <title>Biotop X OpenCell</title>
       <link>http://biotop.co/de/blog/opencell/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
@@ -126,66 +754,40 @@ Da wir allerdings alle an verschiedenen Orten leben, war es besonders wichtig ei
     </item>
     
     <item>
-      <title>(Un)Sichtbares - 1. Biotop-Ausstellung</title>
+      <title>(Un)Sichtbares</title>
       <link>http://biotop.co/de/blog/invisible-catalogue/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/de/blog/invisible-catalogue/</guid>
       <description>Wir sind gerade dabei, einen Katalog für unsere Ausstellung &amp;ldquo;See the invisible - (Un)Sichtbares&amp;rdquo; zusammenzustellen.
 In der Zwischenzeit, hier ein paar Photos von der Ausstellung:
-                   Photos by Andreas Körner &amp;amp; Anna Köferle</description>
+         Photos by Andreas Körner &amp;amp; Anna Köferle</description>
     </item>
     
     <item>
-      <title>(Un)sichtbares III - Ausstellung verlängert</title>
-      <link>http://biotop.co/de/event/see_the_invisible3/</link>
-      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/de/event/see_the_invisible3/</guid>
-      <description>Nachdem unsere Ausstellung seit mittlerweile etwas einem Monat mehr als 400 BesucherInnen begeistern konnte, freuen wir uns nun, dass wir unsere Ausstellung &amp;ldquo;(Un)sichtbares&amp;rdquo; verlängern können! Wir werden ab kommendem Freitag (26.01.2018) für 8 weitere Abende geöffnet haben. Die Finissage findet am Samstag, den 03.02.2018 statt.
-Wir freuen uns auf Euer Kommen!
-Öffnungszeiten:
- Fr, 26.01.2018 - 17:00-20:00 Sa, 27.01.2018 - 17:00-20:00 Mo, 29.01.2018 - 17:00-20:00 Di, 30.01.2018 - 17:00-20:00 Mi, 31.</description>
-    </item>
-    
-    <item>
-      <title>(Un)sichtbares II</title>
-      <link>http://biotop.co/de/event/see_the_invisible2/</link>
-      <pubDate>Sat, 23 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/de/event/see_the_invisible2/</guid>
-      <description>“See the invisible - (Un)sichtbares” ist noch bis zum 13.01.2018 geöffnet.</description>
-    </item>
-    
-    <item>
-      <title>(Un)sichtbares</title>
-      <link>http://biotop.co/de/event/see_the_invisible/</link>
+      <title>Containerlabor</title>
+      <link>http://biotop.co/de/projects/containerlab/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://biotop.co/de/event/see_the_invisible/</guid>
-      <description>Unter dem Titel “See the invisible - (Un)sichtbares” lädt das Biotop-Kollektiv am 22. Dezember ab 17.00 in die Räumlichkeiten des ehemaligen Drogeriemarktes (Oberer Kirchenplatz 4) in Villach. Wir präsentieren an diesem Abend bisherige Arbeiten aus vielfältigen Bereichen von Naturwissenschaft über Archäologie bis hin zu Design und Architektur. Am Mikroskop können die BesucherInnen Kleinstlebewesen in ihrer Umgebung zu erkunden und ein Computerspiel macht unsichtbare physikalische Kräfte erfahrbar. Weiters werden sich in Planung befindende Biotop-Projekte erstmals vorgestellt.</description>
+      <guid>http://biotop.co/de/projects/containerlab/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
     </item>
     
     <item>
-      <title>Container lab</title>
-      <link>http://biotop.co/de/project/container-lab/</link>
+      <title>DNA Barcoding</title>
+      <link>http://biotop.co/de/projects/barcoding/</link>
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://biotop.co/de/project/container-lab/</guid>
-      <description></description>
+      <guid>http://biotop.co/de/projects/barcoding/</guid>
+      <description>Was ist DNA-Barcoding?  DNA-barcoding ist eine Methode, bei der ein Lebewesen anhand eines kleinen DNA-Abschnittes bestimmt wird. Der Abschnitt wird so gewählt, dass er für jede Spezies einzigartig ist. Deshalb nennt man ihn Barcode, weil er wie ein Strichcode im Supermarkt eindeutig zugeordnet werden kann.
+In DNA sind Erbinformationen gespeichert wie in einem Computercode, doch statt der Zahlen 0 und 1 werden in der DNA vier Basen als „Buchstaben“ verwendet: Adenin, Thymin, Cytosin und Guanin.</description>
     </item>
     
     <item>
-      <title>DNA barcoding</title>
-      <link>http://biotop.co/de/project/dna-barcoding/</link>
-      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/de/project/dna-barcoding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biotop Meeting - November 2017</title>
+      <title>Zweites Biotop Treffen</title>
       <link>http://biotop.co/de/blog/meeting-november-2017/</link>
       <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
       
@@ -200,339 +802,27 @@ Wir freuen uns auf Euer Kommen!
       
       <guid>http://biotop.co/de/blog/meeting-july-2017/</guid>
       <description>Nun fand es also statt: das allererste Biotop-Treffen ging vergangenes Wochenende in Villach über die Bühne. Rund 20 Leute, die vorab Interesse bekundet hatten, Teil der Biotop-Familie zu werden, aber welche sich (abgesehen von einigen wenigen Ausnahmen) vorher noch nicht persönlich getroffen hatten, kamen nach Villach um sich kennen zu lernen, und den Grundstein für die Zusammenarbeit an gemeinsamen Projekten zu legen.
-  Die Teilnehmer reisten aus London, München, Wien, Graz und Salzburg an, (einige Teilnehmer wurden aus New York und Oxford zugeschalten) und brachten vielfältige fachliche Hintergründe mit.</description>
+ Die Teilnehmer reisten aus London, München, Wien, Graz und Salzburg an, (einige Teilnehmer wurden aus New York und Oxford zugeschalten) und brachten vielfältige fachliche Hintergründe mit.</description>
     </item>
     
     <item>
-      <title>Imprint</title>
-      <link>http://biotop.co/de/imprint/</link>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      <title>Science Comic</title>
+      <link>http://biotop.co/de/projects/sciencecomic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://biotop.co/de/imprint/</guid>
-      <description>Lukas Hutter, MSc, DPhil (Oxon)  Eisenhammer Weg 2 / 58  A-9500 Villach  AUSTRIA
-Freier Wissenschafter, Gründer von Biotop*
- +43 664 455 60 76  lukas.hutter@biotop.co</description>
-    </item>
-    
-    <item>
-      <title>Biotop Meeting</title>
-      <link>http://biotop.co/de/event/meeting-july-2017/</link>
-      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/de/event/meeting-july-2017/</guid>
-      <description>Nun fand es also statt: das allererste Biotop-Treffen ging vergangenes Wochenende in Villach über die Bühne. Rund 20 Leute, die vorab Interesse bekundet hatten, Teil der Biotop-Familie zu werden, aber welche sich (abgesehen von einigen wenigen Ausnahmen) vorher noch nicht persönlich getroffen hatten, kamen nach Villach um sich kennen zu lernen, und den Grundstein für die Zusammenarbeit an gemeinsamen Projekten zu legen.
-  Die Teilnehmer reisten aus London, München, Wien, Graz und Salzburg an, (einige Teilnehmer wurden aus New York und Oxford zugeschalten) und brachten vielfältige fachliche Hintergründe mit.</description>
-    </item>
-    
-    <item>
-      <title>Lukas Hutter</title>
-      <link>http://biotop.co/de/person/lukas-hutter/</link>
-      <pubDate>Wed, 31 May 2017 20:38:16 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/lukas-hutter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dummy</title>
-      <link>http://biotop.co/de/project/color-quest/</link>
-      <pubDate>Thu, 23 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/de/project/color-quest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Danke!</title>
-      <link>http://biotop.co/de/gratitude/</link>
-      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/de/gratitude/</guid>
-      <description>Konzeptentwicklung Anna Köferle Niko Popitsch Korab Qerkini Kilian Rieder Georg Fattinger Anna Resch Simon Zingerle Sebastian Vazques-Lopez Ha Thi Hoang Maja Sticker Stefan Stricker Ylli Qerkini Alex Zojer Fabian Lackner Jakob Haas Birgit Ungerböck Josef Ehgartner
-Sponsoren Derzeit sind wir aktiv auf der Suche nach Sponsoren
-Sollten Sie Interesse daran haben, Sponsor zu werden, würden wir uns freuen via Email von Ihnen zu hören!
-Austrüstungspaten Über Ausrüstungspatenschaften können private Förderer Biotop* unterstützen, indem sie Laborgeräte finanzieren.</description>
-    </item>
-    
-    <item>
-      <title>Mitmachen</title>
-      <link>http://biotop.co/de/participate/</link>
-      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/de/participate/</guid>
-      <description>Was bietet mir biotop? Wissenschaft? - Geht mich nichts an!
-Für viele ist Wissenschaft ein Begriff, der bedeutet, dass Leute mit einer Vorliebe für Abkürzungen und weiße Laborkittel Dinge in sterilen Labors oder mit komplexen Gleichungen machen; Dinge, die wichtig anmuten; möglicherweise bahnbrechende Dinge; Dinge, die aber auch nur eine Handvoll Menschen weltweit wirklich verstehen. Und wenn, dann haben diese Leute sicher auch eine Vorliebe für exotisch klingende Akronyme, blütenweiße Arbeitsmäntel und vollgekritzelte Tafeln.</description>
-    </item>
-    
-    <item>
-      <title>Neue Website</title>
-      <link>http://biotop.co/de/blog/new-website/</link>
-      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/de/blog/new-website/</guid>
-      <description>Wir freuen uns dich auf unserer neuen Website willkommen zu heißen. Vorerst ist sie mit Englisch und Deutsch zweisprachig, aber wir hoffen unsere Inhalte in Zukunft auch in Slowenischer und Italienischer Sprache zur Verfügung stellen zu können.</description>
-    </item>
-    
-    <item>
-      <title>Sebastian Vasquez-Lopez</title>
-      <link>http://biotop.co/de/person/sebastian-vasquezlopez/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:15 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/sebastian-vasquezlopez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alexander Erlich</title>
-      <link>http://biotop.co/de/person/alexander-erlich/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/alexander-erlich/</guid>
-      <description></description>
+      <guid>http://biotop.co/de/projects/sciencecomic/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
     </item>
     
     <item>
       <title>Andreas Körner</title>
-      <link>http://biotop.co/de/person/andreas-koerner/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
+      <link>http://biotop.co/de/people/andreas-koerner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://biotop.co/de/person/andreas-koerner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anna Resch</title>
-      <link>http://biotop.co/de/person/anna-resch/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/anna-resch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anna Ritscher</title>
-      <link>http://biotop.co/de/person/anna-ritscher/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/anna-ritscher/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anna Wächter-Mittersteiner</title>
-      <link>http://biotop.co/de/person/anna-waechter/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/anna-waechter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christine Marizzi</title>
-      <link>http://biotop.co/de/person/christine-marizzi/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/christine-marizzi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Danai Dimitropoulou</title>
-      <link>http://biotop.co/de/person/danai-dimitropoulou/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/danai-dimitropoulou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Herwig Scherabon</title>
-      <link>http://biotop.co/de/person/herwig-scherabon/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/herwig-scherabon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jacob Almagro-Garcia</title>
-      <link>http://biotop.co/de/person/jacob-almagro-garcia/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/jacob-almagro-garcia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Martin Fera</title>
-      <link>http://biotop.co/de/person/martin-fera/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/martin-fera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Martin Schnabl</title>
-      <link>http://biotop.co/de/person/martin-schnabl/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/martin-schnabl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael Tatschl</title>
-      <link>http://biotop.co/de/person/michael-tatschl/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/michael-tatschl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ursula Smole</title>
-      <link>http://biotop.co/de/person/ursula-smole/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/ursula-smole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wolfgang Schütz</title>
-      <link>http://biotop.co/de/person/wolfi-schuetz/</link>
-      <pubDate>Wed, 01 Jun 2016 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/wolfi-schuetz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ha Thi Hoang</title>
-      <link>http://biotop.co/de/person/ha-thi-hoang/</link>
-      <pubDate>Wed, 01 Jun 2016 10:59:31 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/ha-thi-hoang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Georg Fattinger</title>
-      <link>http://biotop.co/de/person/georg-fattinger/</link>
-      <pubDate>Wed, 01 Jun 2016 10:59:11 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/georg-fattinger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ylli Qerkini</title>
-      <link>http://biotop.co/de/person/ylli-qerkini/</link>
-      <pubDate>Wed, 01 Jun 2016 10:59:01 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/ylli-qerkini/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Korab Qerkini</title>
-      <link>http://biotop.co/de/person/korab-qerkini/</link>
-      <pubDate>Wed, 01 Jun 2016 10:58:53 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/korab-qerkini/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Josef Ehgarter</title>
-      <link>http://biotop.co/de/person/josef-ehgarter/</link>
-      <pubDate>Wed, 01 Jun 2016 10:58:42 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/josef-ehgarter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mariangela Panniello</title>
-      <link>http://biotop.co/de/person/mariangela-panniello/</link>
-      <pubDate>Wed, 01 Jun 2016 10:58:42 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/mariangela-panniello/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Roberto Maffulli</title>
-      <link>http://biotop.co/de/person/roberto-maffulli/</link>
-      <pubDate>Wed, 01 Jun 2016 10:58:42 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/roberto-maffulli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>a.c.m.e,- (aek:mi)</title>
-      <link>http://biotop.co/de/person/acme/</link>
-      <pubDate>Tue, 31 May 2016 20:38:16 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/acme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Über BIOTOP*</title>
-      <link>http://biotop.co/de/blog/about-biotop/</link>
-      <pubDate>Wed, 11 May 2016 14:10:09 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/blog/about-biotop/</guid>
-      <description>Biotop ist ein offenes Wissenschaftskollektiv, das sich der neugiergetriebenen, disziplinenübergreifenden und kollaborativen Erforschung, Umsetzung und Vermittlung wissenschaftlicher Ideen verschreibt. Es ist der Versuch, im Sinne eines Experimentes, die Art und Weise wie wir Wissenschaft betreiben neu zu erfinden.
-Warum? Wissenschaft und Forschung sind Unterfangen, die vor Idealismus und Innovationsgeist strotzen sollten. Dennoch begegnen junge WissenschafterInnen einer Karriere in der Wissenschaft zunehmend mit Ernüchterung. Die dieser Entwicklung zugrunde liegenden Probleme sind systemisch:</description>
-    </item>
-    
-    <item>
-      <title>BIOTOP* Wissenschaftskollektiv</title>
-      <link>http://biotop.co/de/about/</link>
-      <pubDate>Tue, 03 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/de/about/</guid>
-      <description>Was? Biotop ist ein offenes Wissenschaftskollektiv, das sich der neugiergetriebenen, disziplinenübergreifenden und kollaborativen Erforschung, Umsetzung und Vermittlung wissenschaftlicher Ideen verschreibt. Es ist der Versuch, im Sinne eines Experimentes, die Art und Weise wie wir Wissenschaft betreiben neu zu erfinden.
-Was bietet mir biotop? Wie kann ich mitmachen? Warum? Wissenschaft und Forschung sind Unterfangen, die vor Idealismus und Innovationsgeist strotzen sollten. Dennoch begegnen junge WissenschafterInnen einer Karriere in der Wissenschaft zunehmend mit Ernüchterung.</description>
-    </item>
-    
-    <item>
-      <title>Ralf Bliem</title>
-      <link>http://biotop.co/de/person/ralf-bliem/</link>
-      <pubDate>Mon, 01 Jun 2015 11:00:02 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/ralf-bliem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anna Köferle</title>
-      <link>http://biotop.co/de/person/anna-koeferle/</link>
-      <pubDate>Sun, 31 May 2015 23:34:07 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/anna-koeferle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Niko Popitsch</title>
-      <link>http://biotop.co/de/person/niko-popitsch/</link>
-      <pubDate>Sun, 03 May 2015 09:35:42 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/niko-popitsch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kilian Rieder</title>
-      <link>http://biotop.co/de/person/kilian-rieder/</link>
-      <pubDate>Wed, 01 Apr 2015 10:59:31 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/person/kilian-rieder/</guid>
+      <guid>http://biotop.co/de/people/andreas-koerner/</guid>
       <description></description>
     </item>
     

@@ -1,20 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biotop* on Biotop</title>
+    <title>biotop* on Biotop Wissenschaftskollektiv</title>
     <link>http://biotop.co/de/categories/biotop/</link>
-    <description>Recent content in Biotop* on Biotop</description>
+    <description>Recent content in biotop* on Biotop Wissenschaftskollektiv</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>biotop</copyright>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://biotop.co/de/categories/biotop/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Biotop Adventkalender 2018</title>
+      <title>Human Nature</title>
+      <link>http://biotop.co/de/blog/human-nature/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/human-nature/</guid>
+      <description>Wann: 19.12.2019 20:15
+Wo: Stadtkinocenter Villach
+&amp;ldquo;Human Nature&amp;rdquo;: Die CRISPR Revolution beleuchtet die Entwicklung und Anwendungsgebiete der Genschere CRISPR-CAS9. Diese neue Technologie ermöglicht die präzise Veränderung des Erbguts von Organismen; vom Eingriff in die Biosphäre bis hin zur Manipulation des menschlichen Genoms scheint alles möglich. CRISPR stellt so die Heilung vieler genetischer Krankheiten in Aussicht. Doch wie weit darf die Forschung gehen? Wo liegt die Grenze zwischen einem medizinisch gerechtfertigten Eingriff und ethisch bedenklicher Selbstoptimierung?</description>
+    </item>
+    
+    <item>
+      <title>Vortex</title>
+      <link>http://biotop.co/de/blog/vortex/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/vortex/</guid>
+      <description>Wann: 07.12.2019 - 25.01.2020, Do, Fr, Sa, 17-20 Uhr sowie nach Vereinbarung
+Wo: In den Räumlichkeiten des ehemaligen Rollin’ Skate Shops am Oberen Kirchenplatz in Villach
+Unter dem Titel “VORTEX” präsentiert das Biotop-Wissenschaftskollektiv vom 7. Dezember 2019 bis zum 25. Jänner 2020 eine Ausstellung zum Thema “Komplexe Systeme verstehen”.
+Komplexität ist ein geflügeltes Wort. Wir sind von komplexen Systemen umgeben, nehmen an ihnen Teil und kämpfen mit ihren Folgen. Das Finanz- und Klimasystem sind zwei Beispiele für komplexe Systeme die unser aller Leben unweigerlich beeinflussen, und uns durch ihre scheinbare Undurchdringlichkeit verunsichern.</description>
+    </item>
+    
+    <item>
+      <title>Biotop Adventkalender</title>
       <link>http://biotop.co/de/blog/xmascal2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/de/blog/xmascal2018/</guid>
       <description>Endlich öffnet unser &amp;ldquo;Adventkalender&amp;rdquo; seine Pforten!
@@ -29,22 +52,12 @@ Alle Inhalte sind auch im Schaufenster unseres Büros in der Gerbergasse 3 in Vi
       
       <guid>http://biotop.co/de/blog/meeting-october-2018/</guid>
       <description>An einem sonnigen Wochenende Anfang Oktober trafen wir uns auf der Burg Groppenstein im Kärntner Mölltal für unser drittes Biotop-Treffen.
-  Gleich drei neue Mitglieder konnten wir begrüßen - Gerhard Dorn, Dieter Gutschi und Ugne Greivyte. Den Anfang machte ein Update zum Container-Labor Projekt und ein Rückblick auf unsere Teilnahme am London Design Festival. Später ging es noch um zukünftige Projekte.
-  Dieter, dessen Expertise in der Organisationsentwicklung liegt, gestaltete eine Einheit zum Thema &amp;ldquo;mission crafting&amp;rdquo;.</description>
+ Gleich drei neue Mitglieder konnten wir begrüßen - Gerhard Dorn, Dieter Gutschi und Ugne Greivyte. Den Anfang machte ein Update zum Container-Labor Projekt und ein Rückblick auf unsere Teilnahme am London Design Festival. Später ging es noch um zukünftige Projekte.
+ Dieter, dessen Expertise in der Organisationsentwicklung liegt, gestaltete eine Einheit zum Thema &amp;ldquo;mission crafting&amp;rdquo;.</description>
     </item>
     
     <item>
-      <title>Biodesign Here Now - London Design Festival 2018</title>
-      <link>http://biotop.co/de/blog/biodesign_here_now/</link>
-      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/de/blog/biodesign_here_now/</guid>
-      <description>Im Rahmen der &amp;ldquo;Biodesign Here Now&amp;rdquo; Ausstellung am OpenCell Campus konnten wir am London Design Festival 2018 teilnehmen. Wir stellten unsere Ausstellung &amp;ldquo;See the invisible&amp;rdquo; zur Schau.
-  Zusätzlich führten wir einige Workshops im Container Labor von Open Cell, für das wir ja die Raumplanung gemacht und Labormöbel gebaut haben, durch. Zusammen mit den Besuchern wurde Käse hergestellt und DNA aus Erdbeeren extrahiert, beides Aktivitäten, die einfach und ohne Spezialausstattung machbar sind, allerdings als wunderbarer Ausgangspunkt für Diskussionen zum Thema Gentechnik und ihre Methoden, gentechnisch veränderte Lebensmittel, sowie Ethik in der Forschung dienten.</description>
-    </item>
-    
-    <item>
-      <title>Biotop X OpenCell - In 10 Tagen zum fertigen Labor</title>
+      <title>Biotop X OpenCell</title>
       <link>http://biotop.co/de/blog/opencell/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
@@ -65,18 +78,18 @@ Da wir allerdings alle an verschiedenen Orten leben, war es besonders wichtig ei
     </item>
     
     <item>
-      <title>(Un)Sichtbares - 1. Biotop-Ausstellung</title>
+      <title>(Un)Sichtbares</title>
       <link>http://biotop.co/de/blog/invisible-catalogue/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/de/blog/invisible-catalogue/</guid>
       <description>Wir sind gerade dabei, einen Katalog für unsere Ausstellung &amp;ldquo;See the invisible - (Un)Sichtbares&amp;rdquo; zusammenzustellen.
 In der Zwischenzeit, hier ein paar Photos von der Ausstellung:
-                   Photos by Andreas Körner &amp;amp; Anna Köferle</description>
+         Photos by Andreas Körner &amp;amp; Anna Köferle</description>
     </item>
     
     <item>
-      <title>Biotop Meeting - November 2017</title>
+      <title>Zweites Biotop Treffen</title>
       <link>http://biotop.co/de/blog/meeting-november-2017/</link>
       <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
       
@@ -91,17 +104,7 @@ In der Zwischenzeit, hier ein paar Photos von der Ausstellung:
       
       <guid>http://biotop.co/de/blog/meeting-july-2017/</guid>
       <description>Nun fand es also statt: das allererste Biotop-Treffen ging vergangenes Wochenende in Villach über die Bühne. Rund 20 Leute, die vorab Interesse bekundet hatten, Teil der Biotop-Familie zu werden, aber welche sich (abgesehen von einigen wenigen Ausnahmen) vorher noch nicht persönlich getroffen hatten, kamen nach Villach um sich kennen zu lernen, und den Grundstein für die Zusammenarbeit an gemeinsamen Projekten zu legen.
-  Die Teilnehmer reisten aus London, München, Wien, Graz und Salzburg an, (einige Teilnehmer wurden aus New York und Oxford zugeschalten) und brachten vielfältige fachliche Hintergründe mit.</description>
-    </item>
-    
-    <item>
-      <title>Über BIOTOP*</title>
-      <link>http://biotop.co/de/blog/about-biotop/</link>
-      <pubDate>Wed, 11 May 2016 14:10:09 +0100</pubDate>
-      
-      <guid>http://biotop.co/de/blog/about-biotop/</guid>
-      <description>Biotop ist ein offenes Wissenschaftskollektiv, das sich der neugiergetriebenen, disziplinenübergreifenden und kollaborativen Erforschung, Umsetzung und Vermittlung wissenschaftlicher Ideen verschreibt. Es ist der Versuch, im Sinne eines Experimentes, die Art und Weise wie wir Wissenschaft betreiben neu zu erfinden.
-Warum? Wissenschaft und Forschung sind Unterfangen, die vor Idealismus und Innovationsgeist strotzen sollten. Dennoch begegnen junge WissenschafterInnen einer Karriere in der Wissenschaft zunehmend mit Ernüchterung. Die dieser Entwicklung zugrunde liegenden Probleme sind systemisch:</description>
+ Die Teilnehmer reisten aus London, München, Wien, Graz und Salzburg an, (einige Teilnehmer wurden aus New York und Oxford zugeschalten) und brachten vielfältige fachliche Hintergründe mit.</description>
     </item>
     
   </channel>

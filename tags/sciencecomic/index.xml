@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sciencecomic on Biotop Science Collective</title>
+    <link>http://biotop.co/tags/sciencecomic/</link>
+    <description>Recent content in sciencecomic on Biotop Science Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/tags/sciencecomic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Science Comic</title>
+      <link>http://biotop.co/projects/sciencecomic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/projects/sciencecomic/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+    </item>
+    
+  </channel>
+</rss>

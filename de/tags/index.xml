@@ -1,14 +1,159 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Biotop</title>
+    <title>Tags on Biotop Wissenschaftskollektiv</title>
     <link>http://biotop.co/de/tags/</link>
-    <description>Recent content in Tags on Biotop</description>
+    <description>Recent content in Tags on Biotop Wissenschaftskollektiv</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>biotop</copyright>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://biotop.co/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>discussion</title>
+      <link>http://biotop.co/de/tags/discussion/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/discussion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>villach</title>
+      <link>http://biotop.co/de/tags/villach/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/villach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exhibition</title>
+      <link>http://biotop.co/de/tags/exhibition/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/exhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vortex</title>
+      <link>http://biotop.co/de/tags/vortex/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/vortex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>archaeology</title>
+      <link>http://biotop.co/de/tags/archaeology/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/archaeology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>citizen-science</title>
+      <link>http://biotop.co/de/tags/citizen-science/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/citizen-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshop</title>
+      <link>http://biotop.co/de/tags/workshop/</link>
+      <pubDate>Tue, 13 Aug 2019 09:23:10 +0200</pubDate>
+      
+      <guid>http://biotop.co/de/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science-comic</title>
+      <link>http://biotop.co/de/tags/science-comic/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/science-comic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xmascal</title>
+      <link>http://biotop.co/de/tags/xmascal/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/xmascal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>groppenstein</title>
+      <link>http://biotop.co/de/tags/groppenstein/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/groppenstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meeting</title>
+      <link>http://biotop.co/de/tags/meeting/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>london</title>
+      <link>http://biotop.co/de/tags/london/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>containerlab</title>
+      <link>http://biotop.co/de/tags/containerlab/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/containerlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>barcoding</title>
+      <link>http://biotop.co/de/tags/barcoding/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/barcoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vienna</title>
+      <link>http://biotop.co/de/tags/vienna/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/vienna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sciencecomic</title>
+      <link>http://biotop.co/de/tags/sciencecomic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/tags/sciencecomic/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

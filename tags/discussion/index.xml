@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>discussion on Biotop Science Collective</title>
+    <link>http://biotop.co/tags/discussion/</link>
+    <description>Recent content in discussion on Biotop Science Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/tags/discussion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Human Nature</title>
+      <link>http://biotop.co/blog/human-nature/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/human-nature/</guid>
+      <description>When: 19.12.2019 20:15
+Where: Stadtkinocenter Villach
+&amp;ldquo;Human Nature&amp;rdquo; is a new documentary film about the development and applications of the genome editing tool CRISPR/CAS9. This novel technology enables the precise modification of genetic material inside an organism, allowing both changes to the biosphere as well as editing of the human genome. While this method has the potential to cure many genetic diseases, it also raises a plethora of ethical questions. What exactly is &amp;ldquo;normal&amp;rdquo; as opposed to &amp;ldquo;diseased&amp;rdquo;?</description>
+    </item>
+    
+  </channel>
+</rss>

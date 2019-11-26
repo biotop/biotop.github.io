@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archaeology on Biotop Science Collective</title>
+    <link>http://biotop.co/tags/archaeology/</link>
+    <description>Recent content in archaeology on Biotop Science Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/tags/archaeology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Archaeological dig - Grabelsdorf</title>
+      <link>http://biotop.co/blog/grabelsdorf/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/grabelsdorf/</guid>
+      <description>Biotop member Martin grew up in Grabelsdorf, Carinthia (Austria), a beautiful area steeped in ancient history. In this town, the roads are named after ancient tribes such as &amp;ldquo;Etruscans&amp;rdquo; and &amp;ldquo;Celts &amp;ldquo;. Remnants of settlements dating back to the early Iron Age (9th-6th century BC) have been unearthed and there is evidence for a celtic settlement (2nd – 1st century BC) as well. One weekend, while on a visit home, archaeologist Martin went for a walk up the &amp;ldquo;Gracarca&amp;rdquo; hill (676 m above sea level).</description>
+    </item>
+    
+  </channel>
+</rss>

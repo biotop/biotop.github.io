@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>science-comic on Biotop Science Collective</title>
+    <link>http://biotop.co/categories/science-comic/</link>
+    <description>Recent content in science-comic on Biotop Science Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/categories/science-comic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Color Quest</title>
+      <link>http://biotop.co/blog/color-quest/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/color-quest/</guid>
+      <description>DONE! And just in time! Late on Friday 15th February 2019, we submitted our entry for the &amp;ldquo;Science Comics for Kids&amp;rdquo; competition by the Austrian Academy of Sciences (ÖAW).
+Our story is about a little girl who loves to draw. One day due to a weird accident all her colours disappear. She goes on a quest to bring her colours back, and learns something about the science behind colour along the way.</description>
+    </item>
+    
+  </channel>
+</rss>

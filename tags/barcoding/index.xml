@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>barcoding on Biotop Science Collective</title>
+    <link>http://biotop.co/tags/barcoding/</link>
+    <description>Recent content in barcoding on Biotop Science Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/tags/barcoding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DNA Barcoding</title>
+      <link>http://biotop.co/projects/barcoding/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/projects/barcoding/</guid>
+      <description>What is DNA-barcoding?  DNA-barcoding is a method that is uses a small section of the DNA to specify an organism. The chosen section has to be unique for every species. It is called barcode because it can be assigned distinctively like a supermarket barcode to a product.
+DNA stores genetic information like computercode only instead of the numbers 0 and 1 DNA uses four bases as &amp;lsquo;letters&amp;rsquo;: adenine, thymine, cytosine and guanine.</description>
+    </item>
+    
+  </channel>
+</rss>

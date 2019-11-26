@@ -1,517 +1,2226 @@
-<link rel="stylesheet" href="/css/voronoi.css" />
-<script src="//d3js.org/d3.v3.min.js"></script>
-<!DOCTYPE HTML>
+<!DOCTYPE html>
+<html><head>
+	<meta name="generator" content="Hugo 0.59.1" />
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Startseite - Biotop Wissenschaftskollektiv</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="http://biotop.co/favicon.png">
 
-<html>
-    <head>
-        
-            
-                <title>Biotop</title>
-            
-        
+  
+  <link rel="stylesheet" href="http://biotop.co/bundle.min.css">
 
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="google" content="notranslate">
-        <meta name="generator" content="Hugo 0.40.1" />
-            <link rel="apple-touch-icon" sizes="57x57" href="/img/main/favicon/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="/img/main/favicon/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/img/main/favicon/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/img/main/favicon/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/img/main/favicon/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/img/main/favicon/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/img/main/favicon/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/img/main/favicon/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/img/main/favicon/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="/img/main/favicon/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/img/main/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/img/main/favicon/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/img/main/favicon/favicon-16x16.png">
-    <link rel="manifest" href="/img/main/favicon/manifest.json">
-    <meta name="msapplication-TileColor" content="#d3d3d3">
-    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 
+  
+  <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
 
-        
-        
-            
-                <meta name="description" content="Biotop is an open collective of scientists engaging in the curiosity-driven, cross-disciplinary and collaborative translation of ideas; it is an experiment trying to reinvent the way we do science.">
-            
-        
+  MathJax.Hub.Config({
+  
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
 
-        <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Biotop"/>
-<meta name="twitter:description" content="Biotop is an open collective of scientists engaging in the curiosity-driven, cross-disciplinary and collaborative translation of ideas; it is an experiment trying to reinvent the way we do science."/>
-<meta name="twitter:site" content="@biotop_co"/>
-
-        <meta property="og:title" content="Biotop" />
-<meta property="og:description" content="Biotop is an open collective of scientists engaging in the curiosity-driven, cross-disciplinary and collaborative translation of ideas; it is an experiment trying to reinvent the way we do science." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://biotop.co/de/" />
-
-
-
-<meta property="og:updated_time" content="2019-02-23T00:00:00&#43;00:00"/>
-
-<meta property="og:site_name" content="Biotop" />
-
-
-
-
-
-
-
-
-
-        
-<meta itemprop="name" content="Biotop">
-<meta itemprop="description" content="Biotop is an open collective of scientists engaging in the curiosity-driven, cross-disciplinary and collaborative translation of ideas; it is an experiment trying to reinvent the way we do science.">
-
-
-        
-
-        
-
-        
-        
-            
-        
-
-        
-        
-            <link rel="stylesheet" href="/css/google-font.css" />
-            <link rel="stylesheet" href="/css/font-awesome.min.css" />
-            <link rel="stylesheet" href="/css/materialize.css" />
-            <link rel="stylesheet" href="/css/main.css" />
-            <link rel="stylesheet" href="/css/person.css" />
-            <link rel="stylesheet" href="/css/add-on.css" />
-            <link rel="stylesheet" href="/css/monokai-sublime.css">
-        
-
-        
-
-        
-        
-        
-            
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-77796485-1', 'auto');
-ga('send', 'pageview');
+  MathJax.Ajax.config.path["mhchem"] =
+  "https://cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.3.2";
+  MathJax.Hub.Config({
+    TeX: {
+      extensions: ["[mhchem]/mhchem.js"]
+    }
+  });
 </script>
 
-        
-    </head>
-    <body>
 
-        
-        
+  
+  <script type="text/javascript" src="https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js"></script>
 
-    
-    
-<header id="header">
-    <h2><a href="http://biotop.co///de">biotop*</i></a></h2>
+  
+  <script type="text/javascript" src="/bundle.min.js"></script>
 
-    <nav class="links">
-        <ul>
-          
-          
-          <li>
-            <a href="/de/about">
-                
-                  <i class="fa fa-rocket">&nbsp;</i>
-                
-                Mission Statement
-            </a>
-          </li>
-          
-          <li>
-            <a href="/de/person">
-                
-                  <i class="fa fa-users">&nbsp;</i>
-                
-                Wer wir sind
-            </a>
-          </li>
-          
-          
-            <li>
-              <a href="/de/project">
-                  
-                    <i class="fa fa-flask">&nbsp;</i>
-                  
-                  Projekte
-              </a>
-            </li>
-          
-            <li>
-              <a href="/de/event">
-                  
-                    <i class="fa fa-calendar">&nbsp;</i>
-                  
-                  Events
-              </a>
-            </li>
-          
-            <li>
-              <a href="/de/blog">
-                  
-                    <i class="fa fa-newspaper-o">&nbsp;</i>
-                  
-                  Blog
-              </a>
-            </li>
-          
-            <li>
-              <a href="/de/participate">
-                  
-                    <i class="fa fa-bolt">&nbsp;</i>
-                  
-                  Mitmachen
-              </a>
-            </li>
-          
-        </ul>
-    </nav>
-    <nav class="links lang">
-      <ul>
-        <li>
-          <a href="http://biotop.co/en/">EN</a>
-        </li>
-        <li>
-          <a href="http://biotop.co/de/">DE</a>
-        </li>
-        
-      </ul>
-    </nav>
-    <nav class="main">
-        <ul>
-            
-            <li id="share-nav" class="share-menu" style="display:none;">
-                <a class="fa-share-alt" href="#share-menu">Share</a>
-            </li>
-            
-            
-            <li class="menu">
-                <a class="fa-bars" href="#menu">Menu</a>
-            </li>
-        </ul>
-    </nav>
-</header>
+  <script type="text/javascript">
+
+  </script>
 
 
-<section id="menu">
-
-    
-        <section>
-            <form class="search" method="get" action="//google.com/search">
-                <input type="text" name="q" placeholder="Search" />
-                <input type="hidden" name="q" value="site:http://biotop.co/">
-            </form>
-        </section>
-
-    
-        <section>
-            <ul class="links">
-                
-                    <li>
-                        <a href="/de/about">
-                            <h3>
-                                
-                                    <i class="fa fa-rocket">&nbsp;</i>
-                                
-                                Mission Statement
-                            </h3>
-                        </a>
-                    </li>
-                
-                    <li>
-                        <a href="/de/person">
-                            <h3>
-                                
-                                    <i class="fa fa-users">&nbsp;</i>
-                                
-                                Wer wir sind
-                            </h3>
-                        </a>
-                    </li>
-                
-                
-                    <li>
-                        <a href="/de/project">
-                            <h3>
-                                
-                                    <i class="fa fa-flask">&nbsp;</i>
-                                
-                                Projekte
-                            </h3>
-                        </a>
-                    </li>
-                
-                    <li>
-                        <a href="/de/event">
-                            <h3>
-                                
-                                    <i class="fa fa-calendar">&nbsp;</i>
-                                
-                                Events
-                            </h3>
-                        </a>
-                    </li>
-                
-                    <li>
-                        <a href="/de/blog">
-                            <h3>
-                                
-                                    <i class="fa fa-newspaper-o">&nbsp;</i>
-                                
-                                Blog
-                            </h3>
-                        </a>
-                    </li>
-                
-                    <li>
-                        <a href="/de/participate">
-                            <h3>
-                                
-                                    <i class="fa fa-bolt">&nbsp;</i>
-                                
-                                Mitmachen
-                            </h3>
-                        </a>
-                    </li>
-                
-            </ul>
-        </section>
-        <section>
-            <ul class="links lang">
-              <li>
-                <a href="http://biotop.co/en/">
-                  <h3>
-                    English
-                  </h3>
-              </a>
-              </li>
-              <li>
-                <a href="http://biotop.co/de/">
-                  <h3>
-                    Deutsch
-                  </h3>
-                </a>
-              </li>
-              
-            </ul>
-        </section>
-
-
-    
-        <section>
-            <ul class="links">
-                <header>
-                    <h3>Kürzlich gepostet</h3>
-                </header>
-                
-                    
-                
-
-                
-                    <li>
-                        <a href="http://biotop.co/de/blog/xmascal2018/"><p>Biotop Adventkalender 2018</p></a>
-                    </li>
-                
-                    <li>
-                        <a href="http://biotop.co/de/blog/meeting-october-2018/"><p>Drittes Biotop Meeting</p></a>
-                    </li>
-                
-            </ul>
-        </section>
-
-    
-        
+</head>
+<body class="">
+  <div id="hero">
+<section class="hero is-white is-medium top-hero">
+  <div class="hero-body" style="z-index:30">
+    <div class="container" style="z-index:30">
+      <figure class="image is-128x128">
+        <img class="center" src="/img/logo.svg">
+      </figure>
+      <h1 class="branding "> BIOTOP*</h1>
+      <h2 class="branding-subtitle ">WISSENSCHAFTSKOLLEKTIV</h2>
+    </div>
+  </div>
+  
+</section>
+<section class="hero is-primary has-text-centered is-medium">
+  <div class="hero-body">
+    <div class="container" style="z-index:30">
+      <h1 class="title hero-quote">
+        Biotop ist ein offenes Wissenschaftskollektiv, das sich der neugiergetriebenen, disziplinenübergreifenden und kollaborativen Erforschung, Umsetzung und Vermittlung wissenschaftlicher Ideen verschreibt. Es ist der Versuch, im Sinne eines Experimentes, die Art und Weise wie wir Wissenschaft betreiben neu zu erfinden.
+      </h1>
+      <h2 class="title hero-quote has-color-link is-5">
+        <a href="#idx-content"> Mehr über Biotop</a>
+      </h2>
+    </div>
+  </div>
+</section>
+</div>
 </section>
 
+<section class="section hero is-medium has-no-padding">
+  <div class="columns has-no-margin">
     
-    <div id="sbwrap">
       
-<section id="sidebar">
+      
+
+<div class="column square-3 has-no-padding">
+  <a href="http://biotop.co/de/blog/human-nature/">
+    <div class="hero is-medium is-primary has-background stretch">
+      <img class="hero-background is-transparent " src="/img/event/human-nature.jpg" alt="">
+      <div class="hero-body has-padding-1em">
+        <div class="has-big-margin-bottom">
+          <h2  class="hero-quote is-6 title has-text-right">19.12.2019</h2>
+        </div>
+        <div class="container">
+          <h1  class="hero-quote is-3 title has-little-margin">Human Nature</h1>
+          <h2  class="hero-quote is-6 title">Filmvorführung in Zusammenarbeit mit dem Filmstudio Villach mit anschließender Diskussionsrunde</h2>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+    
+    
+      
+      
+
+<div class="column square-3 has-no-padding">
+  <a href="http://biotop.co/de/blog/vortex/">
+    <div class="hero is-medium is-info has-background stretch">
+      <img class="hero-background is-transparent " src="/img/event/vortex_header.jpg" alt="">
+      <div class="hero-body has-padding-1em">
+        <div class="has-big-margin-bottom">
+          <h2  class="hero-quote is-6 title has-text-right">07.12.2019</h2>
+        </div>
+        <div class="container">
+          <h1  class="hero-quote is-3 title has-little-margin">Vortex</h1>
+          <h2  class="hero-quote is-6 title">Komplexität verstehen lernen.</h2>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+    
+      
+      
+
+<div class="column square-3 has-no-padding">
+  <a href="http://biotop.co/de/blog/grabelsdorf/">
+    <div class="hero is-medium is-info has-background stretch">
+      <img class="hero-background is-transparent " src="/img/blog/grabelsdorf/bones1.png" alt="">
+      <div class="hero-body has-padding-1em">
+        <div class="has-big-margin-bottom">
+          <h2  class="hero-quote is-6 title has-text-right">17.08.2019</h2>
+        </div>
+        <div class="container">
+          <h1  class="hero-quote is-3 title has-little-margin">Grabung - Grabelsdorf</h1>
+          <h2  class="hero-quote is-6 title">Grabung in Grabelsdorf (17. - 18.08.2019)</h2>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+    
+  </div>
+</section>
+
+</section>
+<section class="hero is-link has-text-centered is-medium">
+  <div class="hero-body has-no-margin">
+    <div class="container">
+      <h1 class="title hero-quote"> Über Biotop </h1>
+      <div class="columns is-multiline is-centered">
+
+        
+          
+        
+          
+            <div class="column is-one-third is-tablet">
+              
+              <div class="center">
+  
+  <a href="http://biotop.co/de/mission-statement/">
+  
+    <div class="image is-64x64 has-background-light center" style="border-radius:50%;">
+      <i class="fa fa-rocket has-text-primary center fa-2x is-rounded has-text-dark"></i>
+    </div>
+  </a>
+</div>
+<div class="center">
+  <div class="content has-text-centered">
+    <h1 class="title is-5">Leitbild</h1>
+    <h4 class="subtitle is-6"> Unser manifest</h4>
+  </div>
+</div>
+
+            </div>
+          
+        
+          
+        
+          
+        
+          
+            <div class="column is-one-third is-tablet">
+              
+              <div class="center">
+  
+  <a href="http://biotop.co/de/support/">
+  
+    <div class="image is-64x64 has-background-light center" style="border-radius:50%;">
+      <i class="fa fa-heart has-text-danger center fa-2x is-rounded has-text-dark"></i>
+    </div>
+  </a>
+</div>
+<div class="center">
+  <div class="content has-text-centered">
+    <h1 class="title is-5">Mitmachen &amp; Unterstützen</h1>
+    <h4 class="subtitle is-6"> Wie kann ich Biotop unterstüzen oder mitmachen?</h4>
+  </div>
+</div>
+
+            </div>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+          <div class="column is-one-third is-tablet">
+            
+            <div class="center">
+  
+  <a href="http://biotop.co/de/people/">
+  
+    <div class="image is-64x64 has-background-light center" style="border-radius:50%;">
+      <i class="fas fa-users has-text-success center fa-2x is-rounded has-text-dark"></i>
+    </div>
+  </a>
+</div>
+<div class="center">
+  <div class="content has-text-centered">
+    <h1 class="title is-5">Team</h1>
+    <h4 class="subtitle is-6"> Die Menschen hinter Biotop</h4>
+  </div>
+</div>
+
+          </div>
+        
+          <div class="column is-one-third is-tablet">
+            
+            <div class="center">
+  
+  <a href="http://biotop.co/de/projects/">
+  
+    <div class="image is-64x64 has-background-light center" style="border-radius:50%;">
+      <i class="fa fa-bolt has-text-warning center fa-2x is-rounded has-text-dark"></i>
+    </div>
+  </a>
+</div>
+<div class="center">
+  <div class="content has-text-centered">
+    <h1 class="title is-5">Projekte</h1>
+    <h4 class="subtitle is-6"> Woran wir arbeiten, gearbeitet haben und arbeiten werden.</h4>
+  </div>
+</div>
+
+          </div>
+        
+          <div class="column is-one-third is-tablet">
+            
+            <div class="center">
+  
+  <a href="http://biotop.co/de/blog/">
+  
+    <div class="image is-64x64 has-background-light center" style="border-radius:50%;">
+      <i class="far fa-newspaper center fa-2x is-rounded has-text-dark"></i>
+    </div>
+  </a>
+</div>
+<div class="center">
+  <div class="content has-text-centered">
+    <h1 class="title is-5">Neuigkeiten &amp; Veranstaltungen</h1>
+    <h4 class="subtitle is-6"> Ankündigungen, Berichte und Interessantes</h4>
+  </div>
+</div>
+
+          </div>
+        
+      </div>
+    </div>
+  </div>
+</section>
+
+  <nav class="navbar is-fixed-top">
+  <div class="container">
+    <div class="navbar-brand" style="z-index:50">
+      
+      <a id="logo" class="navbar-item" href="/de">
+        <img src="/img/biotoptext.svg">
+      </a>
+
+      <div class="navbar-item" id="breadcrumb">
+        <nav class="breadcrumb" aria-label="breadcrumbs">
+    <div class="navbar-start">
+      <ul>
+        
+
+<li class="active">
+  <a href="http://biotop.co/de/">Startseite</a>
+</li>
+
+      </ul>
+    </div>
+</nav>
+
+<ol  class="nav navbar-nav">
+</ol>
+
+
+      </div>
+
+      <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div class="navbar-menu" id="navMenu">
+      
+      <div class="navbar-end">
+        <div class="padded">
+          <ul id="sb-menu" class="menu-list">
+  
+  
+  
+  
+  
+  
+  <li>
+    <a class="anchor" href="http://biotop.co///de/#leitbild">
+      
+      <i class="fa fa-rocket has-text-primary"></i>
+      
+      Leitbild
+    </a>
+  </li>
+  
+  
+  
+  
+  
+  
+  
+  <li>
+    <a class="anchor" href="http://biotop.co///de/#mitmachen-unterst%25C3%25BCtzen">
+      
+      <i class="fa fa-heart has-text-danger"></i>
+      
+      Mitmachen &amp; Unterstützen
+    </a>
+  </li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/de/people/">
+      
+      <i class="fas fa-users has-text-success"></i>
+      
+      Team
+    </a>
+  </li>
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/de/projects/">
+      
+      <i class="fa fa-bolt has-text-warning"></i>
+      
+      Projekte
+    </a>
+  </li>
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/de/blog/">
+      
+      <i class="far fa-newspaper"></i>
+      
+      Neuigkeiten &amp; Veranstaltungen
+    </a>
+  </li>
   
 
+  
+  <p class="menu-label"> Übersetzungen</p>
+  <ul class="menu-list">
     
-        <section id="intro">
-            
-            
-                
-                    <img src="/img/main/logo.png" class="intro-circle" width="175px" alt="Biotop logo" />
-                
-            
-            <header>
-                <h2>biotop*</h2>
-                <p>Wissenschaftskollektiv</p>
-            </header>
-
-
-            <ul class="posts">
-
-                
-                    
-                
-
-                
-                    
-                
-                
-                
-                    <li>
-                        <header>
-                            <h4>Kürzlich gepostet</h4>
-                        </header>
-                        <article>
-                            <header>
-                                <h3><a href="http://biotop.co/de/blog/xmascal2018/">Biotop Adventkalender 2018</a></h3>
-                                
-                                    
-                                
-                                <time class="published" datetime=
-                                    '2018-12-01'>
-                                    December 1, 2018</time>
-                            </header>
-                        </article>
-                    </li>
-                
-
-                
-            </ul>
-            <h5><a href="/de/gratitude/"><i class = "fa fa-heart"></i> Dankbarkeit</a></h5>
-
-            <h5><a href="/de/imprint/"><i class = "fa fa-asterisk"></i> Impressum</a></h5>
-
-            <h5><a href="http://meta.biotop.co"><i class ="fa fa-comments-o"></i> Forum</a></h5>
-        </section>
-
+    <li>
+      <a  class="anchor" href="http://biotop.co/">English</a>
+    </li>
     
+  </ul>
+  
+
+
+  
+  
+</ul>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+
+        <section class="section">
+          <div id="content" class="columns is-centered">
+<div class="column is-hidden-mobile is-2">
+  <aside class="menu is-hidden-mobile has-padding-1em">
+  <div class="tabs">
+    <ul>
+      <li class="tab is-active" onclick="openTab(event,'content-sb-tab-menu')"><a class="menu-label">Menü</a></li>
+      <li class="tab" onclick="openTab(event,'content-sb-tab-calendar')"><a class="menu-label">Kalender</a></li>
+    </ul>
+  </div>
+
+  
+  <div class="tab-content">
+    <div class="content-tab" id="content-sb-tab-menu">
+      <ul id="sb-menu" class="menu-list">
+  
+  
+  
+  
+  
+  
+  <li>
+    <a class="anchor" href="http://biotop.co///de/#leitbild">
+      
+      <i class="fa fa-rocket has-text-primary"></i>
+      
+      Leitbild
+    </a>
+  </li>
+  
+  
+  
+  
+  
+  
+  
+  <li>
+    <a class="anchor" href="http://biotop.co///de/#mitmachen-unterst%25C3%25BCtzen">
+      
+      <i class="fa fa-heart has-text-danger"></i>
+      
+      Mitmachen &amp; Unterstützen
+    </a>
+  </li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/de/people/">
+      
+      <i class="fas fa-users has-text-success"></i>
+      
+      Team
+    </a>
+  </li>
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/de/projects/">
+      
+      <i class="fa fa-bolt has-text-warning"></i>
+      
+      Projekte
+    </a>
+  </li>
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/de/blog/">
+      
+      <i class="far fa-newspaper"></i>
+      
+      Neuigkeiten &amp; Veranstaltungen
+    </a>
+  </li>
+  
+
+  
+  <p class="menu-label"> Übersetzungen</p>
+  <ul class="menu-list">
+    
+    <li>
+      <a  class="anchor" href="http://biotop.co/">English</a>
+    </li>
+    
+  </ul>
+  
+
+
+  
+  
+</ul>
+
+    </div>
+    <div class="content-tab" id="content-sb-tab-calendar" style="display:none">
+      <ul id="sb-cal" class="menu-list">
+        <div class="columns is-centered is-multiline">
+  <div class="column is-full">
+    <input id="calendar" type="date" data-display-mode="inline" data-show-clear-button="false">
+  </div>
+  <div class="column is-full">
+    <div class="columns is-multiline">
+      <div class="column is-full">
+        <h1></h1>
+      </div>
+      <div class="calendar-search-results">
         
+        
+        <div class="search-item column is-full cls-2019-12-19">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/human-nature/">
+              <p class="title is-7 has-text-info ">19.12.2019</p>
+              <p class="title is-6 has-text-primary ">Human Nature</p>
+              <p class="subtitle is-7 has-text-grey ">Filmvorführung in Zusammenarbeit mit dem Filmstudio Villach mit anschließender Diskussionsrunde</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2019-12-07">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/vortex/">
+              <p class="title is-7 has-text-info ">07.12.2019</p>
+              <p class="title is-6 has-text-primary ">Vortex</p>
+              <p class="subtitle is-7 has-text-grey ">Komplexität verstehen lernen.</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2019-08-17">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/grabelsdorf/">
+              <p class="title is-7 has-text-info ">17.08.2019</p>
+              <p class="title is-6 has-text-primary ">Grabung - Grabelsdorf</p>
+              <p class="subtitle is-7 has-text-grey ">Grabung in Grabelsdorf (17. - 18.08.2019)</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2019-02-19">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/color-quest/">
+              <p class="title is-7 has-text-info ">19.02.2019</p>
+              <p class="title is-6 has-text-primary ">Die Suche nach den Farben</p>
+              <p class="subtitle is-7 has-text-grey ">Unser Beitrag für den Wettbewerb Wissenschaftscomic für Kids der Österreichischen Akademie der Wissenschaften</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-12">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/10/">
+              <p class="title is-7 has-text-info ">12.12.2018</p>
+              <p class="title is-6 has-text-primary ">Über die Geschichte des Rentiers</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Adventkalender Tag 10</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-09">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/09/">
+              <p class="title is-7 has-text-info ">09.12.2018</p>
+              <p class="title is-6 has-text-primary ">Weihnachten vor 1000 Jahren</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Adventkalender Tag 9</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-08">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/08/">
+              <p class="title is-7 has-text-info ">08.12.2018</p>
+              <p class="title is-6 has-text-primary ">Last Christmas I gave you my heart, but the very next day you gave it away...</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Adventkalender Tag 8</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-07">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/07/">
+              <p class="title is-7 has-text-info ">07.12.2018</p>
+              <p class="title is-6 has-text-primary ">Pinus Sylvestris</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Adventkalender Tag 7</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-06">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/06/">
+              <p class="title is-7 has-text-info ">06.12.2018</p>
+              <p class="title is-6 has-text-primary ">Die Wunderbare Physik der Schneeflocke</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Adventkalender Tag 6</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-05">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/05/">
+              <p class="title is-7 has-text-info ">05.12.2018</p>
+              <p class="title is-6 has-text-primary ">Krampus</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Adventkalender Tag 5</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-04">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/04/">
+              <p class="title is-7 has-text-info ">04.12.2018</p>
+              <p class="title is-6 has-text-primary ">Erinnerst du dich noch an diesen Geschmack?</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Adventkalender Tag 4</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-03">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/03/">
+              <p class="title is-7 has-text-info ">03.12.2018</p>
+              <p class="title is-6 has-text-primary ">Ein (ur)alter Keks</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Adventkalender Tag 3</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-02">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/02/">
+              <p class="title is-7 has-text-info ">02.12.2018</p>
+              <p class="title is-6 has-text-primary ">Ohrwurmologie</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Adventkalender Tag 2</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-01">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/01/">
+              <p class="title is-7 has-text-info ">01.12.2018</p>
+              <p class="title is-6 has-text-primary ">Eine Weihnachtsvorlesung als Wandzeitung</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Adventkalender Tag 1</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-30">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal2018/">
+              <p class="title is-7 has-text-info ">30.11.2018</p>
+              <p class="title is-6 has-text-primary ">Biotop Adventkalender</p>
+              <p class="subtitle is-7 has-text-grey ">Ein wissenschaftlicher Adventkalender</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-16">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/16/">
+              <p class="title is-7 has-text-info ">16.11.2018</p>
+              <p class="title is-6 has-text-primary ">Architekten verpacken Geschenke</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-15">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/15/">
+              <p class="title is-7 has-text-info ">15.11.2018</p>
+              <p class="title is-6 has-text-primary ">Leucht&#39; ein Licht Teil 2 - Spektrometerworkshop</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-14">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/14/">
+              <p class="title is-7 has-text-info ">14.11.2018</p>
+              <p class="title is-6 has-text-primary ">Das Lebkuchenhaus in der Architektur</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-13">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/13/">
+              <p class="title is-7 has-text-info ">13.11.2018</p>
+              <p class="title is-6 has-text-primary ">Das Lebkuchenhaus</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-12">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/12/">
+              <p class="title is-7 has-text-info ">12.11.2018</p>
+              <p class="title is-6 has-text-primary ">Leucht&#39; ein Licht</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-11">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/11/">
+              <p class="title is-7 has-text-info ">11.11.2018</p>
+              <p class="title is-6 has-text-primary ">Das Problem des Handelsreisenden oder wie man den Weihnachtsshoppingtrip optimiert</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/21/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Der Dunkelste Tag</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/31/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Die Feuerwerksrakete - Ein farbiges Schauspiel</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/22/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Die Funken des Sternspritzers</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/19/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Die Physik des Frierens – Wie man sich warm hält</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/18/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Ein nützliches zweites Leben für altes Geschenkspapier</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/17/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Ein Weihnachtsgeschenk für Frau Pinguin</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/20/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Meet Biotop</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/23/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Stress</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/xmascal/24/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Unsere Mission</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-10-22">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/meeting-october-2018/">
+              <p class="title is-7 has-text-info ">22.10.2018</p>
+              <p class="title is-6 has-text-primary ">Drittes Biotop Meeting</p>
+              <p class="subtitle is-7 has-text-grey ">18.-21.10.2018, Burg Groppenstein</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-10-06">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/biodesign_here_now/">
+              <p class="title is-7 has-text-info ">06.10.2018</p>
+              <p class="title is-6 has-text-primary ">Biodesign Here Now</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop am London Design Festival 2018</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-05-25">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/opencell/">
+              <p class="title is-7 has-text-info ">25.05.2018</p>
+              <p class="title is-6 has-text-primary ">Biotop X OpenCell</p>
+              <p class="subtitle is-7 has-text-grey ">In 10 Tagen zum fertigen Labor</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-04-26">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/invisible-behind-scenes/">
+              <p class="title is-7 has-text-info ">26.04.2018</p>
+              <p class="title is-6 has-text-primary ">(Un)Sichtbares - Ein Blick hinter die Kulissen der 1. Biotop-Ausstellung</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-04-25">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/invisible-catalogue/">
+              <p class="title is-7 has-text-info ">25.04.2018</p>
+              <p class="title is-6 has-text-primary ">(Un)Sichtbares</p>
+              <p class="subtitle is-7 has-text-grey ">Eine Ausstellung von Biotop</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2017-11-18">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/meeting-november-2017/">
+              <p class="title is-7 has-text-info ">18.11.2017</p>
+              <p class="title is-6 has-text-primary ">Zweites Biotop Treffen</p>
+              <p class="subtitle is-7 has-text-grey ">17.-19.-11.2017 / Wien</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2017-08-02">
+          <div class="content">
+            <a href="http://biotop.co/de/blog/meeting-july-2017/">
+              <p class="title is-7 has-text-info ">02.08.2017</p>
+              <p class="title is-6 has-text-primary ">Biotop Kick-Off Meeting</p>
+              <p class="subtitle is-7 has-text-grey ">28.-30.-07.2017 / Villach</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
 
+
+
+<script type="text/javascript">
+  
+  var eventDates = [  { title: "Human Nature", description: "Filmvorführung in Zusammenarbeit mit dem Filmstudio Villach mit anschließender Diskussionsrunde", date : "2019-12-19", type : "event", link : "http://biotop.co/de/blog/human-nature/" }, { title: "Vortex", description: "Komplexität verstehen lernen.", date : "2019-12-07", type : "blog", link : "http://biotop.co/de/blog/vortex/" }, { title: "Grabung - Grabelsdorf", description: "Grabung in Grabelsdorf (17. - 18.08.2019)", date : "2019-08-17", type : "blog", link : "http://biotop.co/de/blog/grabelsdorf/" }, { title: "Die Suche nach den Farben", description: "Unser Beitrag für den Wettbewerb Wissenschaftscomic für Kids der Österreichischen Akademie der Wissenschaften", date : "2019-02-19", type : "blog", link : "http://biotop.co/de/blog/color-quest/" }, { title: "Über die Geschichte des Rentiers", description: "Biotop Adventkalender Tag 10", date : "2018-12-12", type : "blog", link : "http://biotop.co/de/blog/xmascal/10/" }, { title: "Weihnachten vor 1000 Jahren", description: "Biotop Adventkalender Tag 9", date : "2018-12-09", type : "blog", link : "http://biotop.co/de/blog/xmascal/09/" }, { title: "Last Christmas I gave you my heart, but the very next day you gave it away...", description: "Biotop Adventkalender Tag 8", date : "2018-12-08", type : "blog", link : "http://biotop.co/de/blog/xmascal/08/" }, { title: "Pinus Sylvestris", description: "Biotop Adventkalender Tag 7", date : "2018-12-07", type : "blog", link : "http://biotop.co/de/blog/xmascal/07/" }, { title: "Die Wunderbare Physik der Schneeflocke", description: "Biotop Adventkalender Tag 6", date : "2018-12-06", type : "blog", link : "http://biotop.co/de/blog/xmascal/06/" }, { title: "Krampus", description: "Biotop Adventkalender Tag 5", date : "2018-12-05", type : "blog", link : "http://biotop.co/de/blog/xmascal/05/" }, { title: "Erinnerst du dich noch an diesen Geschmack?", description: "Biotop Adventkalender Tag 4", date : "2018-12-04", type : "blog", link : "http://biotop.co/de/blog/xmascal/04/" }, { title: "Ein (ur)alter Keks", description: "Biotop Adventkalender Tag 3", date : "2018-12-03", type : "blog", link : "http://biotop.co/de/blog/xmascal/03/" }, { title: "Ohrwurmologie", description: "Biotop Adventkalender Tag 2", date : "2018-12-02", type : "blog", link : "http://biotop.co/de/blog/xmascal/02/" }, { title: "Eine Weihnachtsvorlesung als Wandzeitung", description: "Biotop Adventkalender Tag 1", date : "2018-12-01", type : "blog", link : "http://biotop.co/de/blog/xmascal/01/" }, { title: "Biotop Adventkalender", description: "Ein wissenschaftlicher Adventkalender", date : "2018-11-30", type : "blog", link : "http://biotop.co/de/blog/xmascal2018/" }, { title: "Architekten verpacken Geschenke", description:  null , date : "2018-11-16", type : "blog", link : "http://biotop.co/de/blog/xmascal/16/" }, { title: "Leucht' ein Licht Teil 2 - Spektrometerworkshop", description:  null , date : "2018-11-15", type : "event", link : "http://biotop.co/de/blog/xmascal/15/" }, { title: "Das Lebkuchenhaus in der Architektur", description:  null , date : "2018-11-14", type : "blog", link : "http://biotop.co/de/blog/xmascal/14/" }, { title: "Das Lebkuchenhaus", description:  null , date : "2018-11-13", type : "blog", link : "http://biotop.co/de/blog/xmascal/13/" }, { title: "Leucht' ein Licht", description:  null , date : "2018-11-12", type : "blog", link : "http://biotop.co/de/blog/xmascal/12/" }, { title: "Das Problem des Handelsreisenden oder wie man den Weihnachtsshoppingtrip optimiert", description:  null , date : "2018-11-11", type : "blog", link : "http://biotop.co/de/blog/xmascal/11/" }, { title: "Der Dunkelste Tag", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/de/blog/xmascal/21/" }, { title: "Die Feuerwerksrakete - Ein farbiges Schauspiel", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/de/blog/xmascal/31/" }, { title: "Die Funken des Sternspritzers", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/de/blog/xmascal/22/" }, { title: "Die Physik des Frierens – Wie man sich warm hält", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/de/blog/xmascal/19/" }, { title: "Ein nützliches zweites Leben für altes Geschenkspapier", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/de/blog/xmascal/18/" }, { title: "Ein Weihnachtsgeschenk für Frau Pinguin", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/de/blog/xmascal/17/" }, { title: "Meet Biotop", description:  null , date : "2018-11-08", type : "event", link : "http://biotop.co/de/blog/xmascal/20/" }, { title: "Stress", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/de/blog/xmascal/23/" }, { title: "Unsere Mission", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/de/blog/xmascal/24/" }, { title: "Drittes Biotop Meeting", description: "18.-21.10.2018, Burg Groppenstein", date : "2018-10-22", type : "blog", link : "http://biotop.co/de/blog/meeting-october-2018/" }, { title: "Biodesign Here Now", description: "Biotop am London Design Festival 2018", date : "2018-10-06", type : "blog", link : "http://biotop.co/de/blog/biodesign_here_now/" }, { title: "Biotop X OpenCell", description: "In 10 Tagen zum fertigen Labor", date : "2018-05-25", type : "blog", link : "http://biotop.co/de/blog/opencell/" }, { title: "(Un)Sichtbares - Ein Blick hinter die Kulissen der 1. Biotop-Ausstellung", description: "", date : "2018-04-26", type : "blog", link : "http://biotop.co/de/blog/invisible-behind-scenes/" }, { title: "(Un)Sichtbares", description: "Eine Ausstellung von Biotop", date : "2018-04-25", type : "blog", link : "http://biotop.co/de/blog/invisible-catalogue/" }, { title: "Zweites Biotop Treffen", description: "17.-19.-11.2017 / Wien", date : "2017-11-18", type : "blog", link : "http://biotop.co/de/blog/meeting-november-2017/" }, { title: "Biotop Kick-Off Meeting", description: "28.-30.-07.2017 / Villach", date : "2017-08-02", type : "blog", link : "http://biotop.co/de/blog/meeting-july-2017/" },];
+
+  
+  var colormap = {"event" : "has-background-warning", "blog" : "has-background-link"}
+
+  function normaliseDatestring(datestring) {
+    var d = new Date(datestring).setHours(0,0,0,0)
+    return d
+  }
+
+  function findLink(datestring, eventDates) {
+    return eventDates.find(x => normaliseDatestring(x.date) === normaliseDatestring(datestring)).link
+  };
+
+  function findID(datestring, eventDates) {
+    return eventDates.find(x => normaliseDatestring(x.date) === normaliseDatestring(datestring)).date
+  };
+
+  
+  var calendars = bulmaCalendar.attach('[type="date"]');
+
+  
+  for(var i = 0; i < calendars.length; i++) {
+    
+    calendars[i].on('select', date => {
+      $(".calendar-search-results > .search-res").removeClass("search-res").addClass("search-item")
+      var id = findID(date.data.value(), eventDates);
+      var el = $(".cls-"+id)
+      $(el).removeClass("search-item").addClass("search-res")
+      console.log(el);
+
+    });
+  }
+
+  
+  function colorDates(eventDates, colormap) {
+    var days = $("div.datepicker-days > div.datepicker-date")
+
+    for ( var i = 0; i < days.length; i++ ){
+      for (var j = 0; j < eventDates.length; j++) {
+        var eventdate = new Date(eventDates[j].date).setHours(0,0,0,0);
+        var datestring = $(days[i]).data("date")
+        var datepickerdate = new Date(datestring).setHours(0,0,0,0)
+        
+        if ( eventdate == datepickerdate ){
+          $(days[i]).children("button").addClass(colormap[eventDates[j].type])
+        }
+      }
+    }
+  }
+
+  colorDates(eventDates, colormap);
+  
+  MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
+  var observer = new MutationObserver(function(mutations, observer) {colorDates(eventDates, colormap)});
+  observer.observe(document, {
+    subtree: true,
+    attributes: true
+    
+  });
+
+</script>
+
+      </ul>
+    </div>
+  </div>
+</aside>
+
+<script type="text/javascript">
+
+  
+  function openTab(evt, tabName) {
+    var i, x, tablinks;
+    x = document.getElementsByClassName("content-tab");
+    for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tab");
+    for (i = 0; i < x.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" is-active", "");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " is-active";
+  }
+</script>
+
+</div>
+
+<div class="column is-half has-navbar-fixed-top">
+  <section class="content" id="idx-content">
+    <div class="content">
+      <p>
+
+<h2 id="wissenschaft-geht-mich-nichts-an">Wissenschaft? - Geht mich nichts an!</h2>
+
+<p>Für viele  ist Wissenschaft ein Begriff, der bedeutet, dass Leute mit einer Vorliebe für Abkürzungen und weiße Laborkittel Dinge in sterilen Labors oder mit komplexen Gleichungen machen; Dinge, die wichtig anmuten; möglicherweise bahnbrechende Dinge; Dinge, die aber auch nur eine Handvoll Menschen weltweit wirklich verstehen. Und wenn, dann haben diese Leute sicher auch eine Vorliebe für exotisch klingende Akronyme, blütenweiße Arbeitsmäntel und vollgekritzelte Tafeln.</p>
+
+<p>Teilweise treffen diese Klischees sicherlich zu. Doch das Bild, das sie zeichnen, ist unvollständig, lässt es doch jene wichtigste aller Zutaten außen vor: Leidenschaft. Wer Wissenschaft betreibt, ist ein Getriebener - süchtig nach jenen Momenten in denen sich die Schönheit dessen, was ist, offenbart. Ob es die mikroskopische Welt der Zelle ist, in der sich Brücken selbst auf- und wieder abbauen, knubbelige Proteine in sagenhafter Geschwindigkeit darübergleiten und ständig alles im Fluss ist, oder rätselhafte Quantenwelten, die in vielerlei Hinsicht jenen Intuitionen widersprechen, welche die Welt im Großen geformt hat.
+Für diese Einblicke legen sich WissenschafterInnen mit ihrer Unwissenheit an, und nehmen es dabei in Kauf, unzählige Male gegen die sprichwörtliche Wand zu rennen, bevor sich ihr Horizont ein (sehr kleines) Stück weit erweitert.</p>
+
+<p>Doch damit wir alle von diesen Erweiterungen des Horizonts im Einzelnen profitieren können, um gemeinsam ein Stück besser mit der Komplexität unserer Welt umgehen zu können, muss Wissenschaft vermittelt werden. Nicht als reiner Selbstzweck, sondern - <em>lehrend lernt es sich am besten</em> - als natürlicher Bestandteil des Forschens, und in interaktiver Art und Weise.
+Dort sehen wir unsere Verantwortung als WissenschafterInnen gegenüber der Gesellschaft, sowie unseren Arbeitsauftrag als Wissenschaftskollektiv.
+Ihn wahrzunehmen verspricht aufregend zu werden, denn die Geschichten, die wir zu erzählen wissen, sind atemberaubend. Mit KünstlerInnen an unserer Seite, haben wir die besten PartnerInnen, um diese Geschichten spannend und auf vielfältige Weise erzählen zu können. Doch wir wollen uns nicht auf das reine Erzählen beschränken, sondern auch unsere Arbeit und unsere Werkstätte öffnen, unsere Ressourcen teilen, mit Rat und Tat zur Seite stehen, gemeinsam mit interessierten Laien forschen, und gemeinsam an Projekten tüfteln.</p>
+</p>
+    </div>
+    
+      <div class="timeline is-centered">
+  
+  
+    <header class="timeline-header">
+      <span class="tag is-medium is-primary"> 2017</span>
+    </header>
+    
+      <div class="timeline-item is-primary">
+        
+        <div class="timeline-marker is-primary">
+
+        </div>
+        <div class="timeline-content">
+          <a href="/de/blog/meeting-july-2017/">
+            <p class="heading">july</p>
+            <p>Biotop Kickoff Meeting</p>
+            <p class="heading has-text-grey">Villach</p>
+          </a>
+        </div>
+      </div>
+    
+      <div class="timeline-item is-primary">
+        
+        <div class="timeline-marker is-primary">
+
+        </div>
+        <div class="timeline-content">
+          <a href="/de/blog/meeting-november-2017/">
+            <p class="heading">November</p>
+            <p>Second Biotop Meeting</p>
+            <p class="heading has-text-grey">Vienna</p>
+          </a>
+        </div>
+      </div>
+    
+      <div class="timeline-item is-primary">
+        
+        <div class="timeline-marker is-primary">
+
+        </div>
+        <div class="timeline-content">
+          <a href="/de/blog/invisible-catalogue/">
+            <p class="heading">December</p>
+            <p>See the Invisible</p>
+            <p class="heading has-text-grey">Villach</p>
+          </a>
+        </div>
+      </div>
+    
+  
+    <header class="timeline-header">
+      <span class="tag is-medium is-primary"> 2018</span>
+    </header>
+    
+      <div class="timeline-item is-primary">
+        
+        <div class="timeline-marker is-primary">
+
+        </div>
+        <div class="timeline-content">
+          <a href="/de/blog/opencell/">
+            <p class="heading">May</p>
+            <p>Biotop x OpenCell</p>
+            <p class="heading has-text-grey">London</p>
+          </a>
+        </div>
+      </div>
+    
+      <div class="timeline-item is-primary">
+        
+        <div class="timeline-marker is-primary">
+
+        </div>
+        <div class="timeline-content">
+          <a href="/de/blog/biodesign_here_now/">
+            <p class="heading">September</p>
+            <p>Biotop @ London Design Festival</p>
+            <p class="heading has-text-grey">London</p>
+          </a>
+        </div>
+      </div>
+    
+      <div class="timeline-item is-primary">
+        
+        <div class="timeline-marker is-primary">
+
+        </div>
+        <div class="timeline-content">
+          <a href="/de/projects/containerlab">
+            <p class="heading">October</p>
+            <p>EFRE/KWF Funding: Containerlab</p>
+            <p class="heading has-text-grey">Villach</p>
+          </a>
+        </div>
+      </div>
+    
+      <div class="timeline-item is-primary">
+        
+        <div class="timeline-marker is-primary">
+
+        </div>
+        <div class="timeline-content">
+          <a href="/de/blog/meeting-october-2018/">
+            <p class="heading">November</p>
+            <p>Third Biotop Meeting</p>
+            <p class="heading has-text-grey">Groppenstein</p>
+          </a>
+        </div>
+      </div>
+    
+      <div class="timeline-item is-primary">
+        
+        <div class="timeline-marker is-primary">
+
+        </div>
+        <div class="timeline-content">
+          <a href="/de/blog/xmascal2018/">
+            <p class="heading">December</p>
+            <p>Biotop Christmascalendar</p>
+            <p class="heading has-text-grey">Villach</p>
+          </a>
+        </div>
+      </div>
+    
+  
+    <header class="timeline-header">
+      <span class="tag is-medium is-primary"> 2019</span>
+    </header>
+    
+      <div class="timeline-item is-primary">
+        
+        <div class="timeline-marker is-primary">
+
+        </div>
+        <div class="timeline-content">
+          <a href="/de/">
+            <p class="heading">February</p>
+            <p>Biotop x YesWeCamp</p>
+            <p class="heading has-text-grey">Marseille</p>
+          </a>
+        </div>
+      </div>
+    
+      <div class="timeline-item is-primary">
+        
+        <div class="timeline-marker is-primary">
+
+        </div>
+        <div class="timeline-content">
+          <a href="/de/">
+            <p class="heading">March</p>
+            <p>Science Comic</p>
+            <p class="heading has-text-grey">Vienna</p>
+          </a>
+        </div>
+      </div>
+    
+      <div class="timeline-item is-primary">
+        
+        <div class="timeline-marker is-primary">
+
+        </div>
+        <div class="timeline-content">
+          <a href="/de/">
+            <p class="heading">June</p>
+            <p>DNA Barcoding Project w/ BOKU</p>
+            <p class="heading has-text-grey">Villach</p>
+          </a>
+        </div>
+      </div>
+    
+  
+</div>
 
     
-        <section id="footer">
-            <ul class="icons">
-                
-                    <li><a href="http://biotop.co/de/index.xml" type="application/rss+xml"
-                        target="_blank" title="RSS" class="fa fa-rss"></a></li>
-                
-                
-                    
-<li><a href="//github.com/biotop" target="_blank" title="GitHub" class="fa fa-github"></a></li>
+
+  </section>
+
+  
+    
+  
+    
+      <section class = "section has-no-padding" id="leitbild">
+        
+        <div class="center">
+  
+  <a href="http://biotop.co/de/mission-statement/">
+  
+    <div class="image is-128x128 has-background-light center" style="border-radius:50%;">
+      <i class="fa fa-rocket has-text-primary center fa-3x is-rounded has-text-dark"></i>
+    </div>
+  </a>
+</div>
+<div class="center">
+  <div class="content has-text-centered">
+    <h1 class="title  ">Leitbild</h1>
+    <h4 class="subtitle  "> Unser manifest</h4>
+  </div>
+</div>
+
+        <div class="content">
+
+          
+          
+          <p>
+
+<h2 id="was">Was?</h2>
+
+<p>Biotop ist ein offenes Wissenschaftskollektiv, das sich der neugiergetriebenen, disziplinenübergreifenden und kollaborativen Erforschung, Umsetzung und Vermittlung wissenschaftlicher Ideen verschreibt. Es ist der Versuch, im Sinne eines Experimentes, die Art und Weise wie wir Wissenschaft betreiben neu zu erfinden.</p>
+
+<hr />
+
+<h4 id="was-bietet-mir-biotop-de-participate-was-bietet-mir-biotop"><a href="/de/participate/#was-bietet-mir-biotop">Was bietet mir biotop?</a></h4>
+
+<h4 id="wie-kann-ich-mitmachen-de-participate-wie-kann-ich-mitmachen"><a href="/de/participate/#wie-kann-ich-mitmachen">Wie kann ich mitmachen?</a></h4>
+
+<hr />
+
+<h2 id="warum">Warum?</h2>
+
+<p>Wissenschaft und Forschung sind Unterfangen, die vor Idealismus und Innovationsgeist strotzen sollten. Dennoch begegnen junge WissenschafterInnen einer Karriere in der Wissenschaft zunehmend mit Ernüchterung.
+Die dieser Entwicklung zugrunde liegenden Probleme sind systemisch:</p>
+
+<p>Die <strong>straffe institutionelle Struktur</strong> von Universitäten und Forschungszentren schafft ein Umfeld, in dem Linearität eines Karrierepfades zum Hauptselektionskriterium für Erfolg wird. Dies unterdrückt Innovation, hemmt den Blick über jenen Tellerrand, der eine Grundbedingung für das Eröffnen neuer Forschungsfelder darstellt, und ist Quell existentieller Angst für viele junge Forschende (
+
+  
+  
+  
+  
+  
+    
+    
+    
+      <a href="#Afonso2013">Afonso 2013 blogs.lse.ac.uk</a>
+    
+  
+
+, 
+
+  
+  
+  
+  
+  
+    
+    
+      <a href='#Woolston2016'>Woolston 2016 Nature</a>
+    
+    
+  
+
+).</p>
+
+<p>Das ständig anwachsende Spektrum wissenschaftlicher Disziplinen und Subdisziplinen führt zu einem schwerwiegenden <strong>Messbarkeitsproblem</strong> im Herzen der Wissenschaft: Wie beurteilen Fördergeber die Qualität der Forschungsleistungen einzelner WissenschafterInnen, deren Arbeit lediglich einer Handvoll ForscherInnen überhaupt zugänglich ist, welche oft in direkter Konkurrenz um dieselben Fördermittel stehen? Die Antwort liegt in einer Abhängigkeit von Maßzahlen, wie die Anzahl an Aufsätzen in prestigeträchtigen Journalen. Dies führt zu einer verzerrten Wissenschaftskultur, die vorzugsweise modische Forschung nährt, und Impulsen entbehrt, welche die Wiederholbarkeit von Studien und das offene Teilen von Ideen und Erkenntnissen sicherstellen.</p>
+
+<p>Angesichts des steigenden Spezialisierungsgrades führt ein Mangel an disziplinenübergreifendem Arbeiten und ein Fehlen von Strategien zur aktiven Einbindung der Öffentlichkeit in den Forschungsprozess zu einem schwerwiegendem <strong>Kommunikationsproblem</strong>. So wird es nicht nur zunehmend schwieriger, Forschungserkenntnisse Vertretern der eigenen Wissenschaftsdisziplin mitzuteilen, die Wissenschaft rückt damit auch weiter von der Öffentlichkeit ab.
+Scheitern wir Wissenschafter daran, die Tragweite und den Wert unserer Arbeit und die daraus resultierenden Erkenntnisse zu vermitteln, verschlimmert sich auch das oben genannte Messbarkeitsproblem. Die grundlegende Idee von öffentlich geförderter Wissenschaft  wird schließlich in Zweifel gezogen.</p>
+
+<h2 id="wie">Wie?</h2>
+
+<p>Als Gruppe junger Wissenschafter ist Biotop unser Versuch, die Zukunft der Wissenschaft - sowie unsere Zukunft in der Wissenschaft - selbst anzupacken.
+Diesem Versuch zugrunde liegt die Idee ein Forschungsnetzwerk im Sinne eines Ökosystems zu entwickeln, welches eine Kultur des Forschens pflegt, die diesen Namen auch wirklich verdient, und gleichsam Lösungen für die oben genannten Probleme liefert.</p>
+
+<h3 id="leitprinzipien">Leitprinzipien</h3>
+
+<p>Diesen Anspruch sehen wir nur durch einen integrativen Ansatz verwirklichbar, dem die Leitmotive <strong>disziplinenübergreifende, kollaborative Grundlagenforschung</strong> (
+
+  
+  
+  
+  
+  
+    
+    
+      <a href='#Brown2015'>Brown 2015 Nature</a>
+    
+    
+  
+
+, 
+
+  
+  
+  
+  
+  
+    
+    
+      <a href='#Eddy2005'>Eddy 2005 PLoS Comput. Biol.</a>
+    
+    
+  
+
+) sowie das auf Wissenschaft umgemünzte Open Source-Prinzip (<strong>Open Science</strong>) zugrunde liegen.</p>
+
+<p>In institutioneller Hinsicht spielt hier insbesondere die Schaffung einer flexiblen und flachen Organisationsstruktur eine entscheidende Rolle, die disziplinenübergreifendes Arbeiten in kleinen Teams fördert.
+Darüberhinaus sollen Wissenschaftsvermittlung und die Zusammenarbeit mit Künstlern zu Eckpfeilern im täglichen Arbeiten werden, die Öffentlichkeit aktiv im Rahmen von &ldquo;<strong>Citizen Science</strong>&rdquo; Projekten (
+
+  
+  
+  
+  
+  
+    
+    
+      <a href='#Editorial2015'>Editorial 2015 Nature</a>
+    
+    
+  
+
+, 
+
+  
+  
+  
+  
+  
+    
+    
+      <a href='#Bonney2014'>Bonney 2014 Science</a>
+    
+    
+  
+
+) in die Forschung eingebunden werden, und ihr durch die Bereitstellung emanzipatorischer Werkzeuge wie <strong>Datenvisualisierungsplattformen</strong> der Zugang zu komplexen Problemen erleichtert werden.</p>
+
+<p>Entscheidender Bestandteil der Idee ist darüber hinaus die Bildung von <strong>Innovationspartnerschaften</strong>. Diese sehen vor Mitglieder der Öffentlichkeit (Einzelpersonen, aber auch Vereine oder Firmen), die Kenntnisse praktischer Probleme aus ihrem Arbeitsalltag haben, mit Wissenschafts- und Designkompetenz aus dem Biotop-Team kurzzuschließen, um sich gemeinsam der Problemlösung zu widmen.</p>
+
+<h3 id="forschungsfelder">Forschungsfelder</h3>
+
+<p>Thematisch verorten wir uns an der Schnittstelle zwischen <strong>Biologie, Chemie, Physik, Computerwissenschaften</strong> und <strong>Angewandter Mathematik</strong>. Daraus ergeben sich mögliche Forschungsrichtungen, die sich mit Fragen aus den Bereichen der computergestützten Genomik, der Regelungsabläufe in biologischen Systemen und der Entwicklung von selbstorganisierenden Materialien, sowie mit der Untersuchung komplexer Systeme aus den Bereichen Biologie, Neurowissenschaften und Wirtschaft befassen.</p>
+
+<p>Der Open Science-Ansatz bedingt darüberhinaus, dass die Auseinandersetzung mit Problemstellungen des <strong>wissenschaftlichen Verlagswesens</strong>, sowie die <strong>Entwicklung offener Plattformen für den Laborbetrieb</strong> längerfristig unsere Forschungstätigkeit begleiten.</p>
+
+<h2 id="wo">Wo?</h2>
+
+<p>Wir streben an <strong>international und gleichsam betont regional</strong> wirksam zu werden. Auf regionaler Ebene planen wir einen festen Standort im Raum <strong>Villach</strong> aufzubauen, der als zentraler Knotenpunkt für unsere Aktivitäten dienen soll.</p>
+</p>
 
 
+        </div>
+      </section>
+    
+  
+    
+  
+    
+  
+    
+      <section class = "section has-no-padding" id="mitmachen-unterst%C3%BCtzen">
+        
+        <div class="center">
+  
+  <a href="http://biotop.co/de/support/">
+  
+    <div class="image is-128x128 has-background-light center" style="border-radius:50%;">
+      <i class="fa fa-heart has-text-danger center fa-3x is-rounded has-text-dark"></i>
+    </div>
+  </a>
+</div>
+<div class="center">
+  <div class="content has-text-centered">
+    <h1 class="title  ">Mitmachen &amp; Unterstützen</h1>
+    <h4 class="subtitle  "> Wie kann ich Biotop unterstüzen oder mitmachen?</h4>
+  </div>
+</div>
+
+        <div class="content">
+
+          
+          
+          <p>
+
+<h2 id="wie-kann-ich-mitmachen">Wie kann ich mitmachen?</h2>
+
+<h3 id="vor-ort">Vor Ort</h3>
+
+<h4 id="laufendes-programm">Laufendes Programm</h4>
+
+<p>Über unser laufendes Programm, das unter anderem Vorträge, Abendveranstaltungen und Meet-and-Greets umfasst, kannst Du Dich im Bereich <a href="/de/event/"><em>Veranstaltungen</em></a> informieren.</p>
+
+<h4 id="workshops">Workshops</h4>
+
+<p>Nie zuvor war es ein derart Leichtes sich spielerisch forschend zu betätigen. Gleichsam ist Wissenschaft in erster Linie ein Prozess, der sich einem wohl am Besten erschließt, wenn man wissenschaftlich arbeitet. Um diese Arbeitsweise  zu vermitteln, wollen wir regelmäßig Workshops anbieten, die sich an eine Reihe von Zielgruppen wie beispielsweise Schulklassen oder interessierte Laien wenden, und einen niederschwelligen, spielerischen Zugang zu komplexen und relevanten wissenschaftlichen Fragestellungen gewähren.</p>
+
+<p>Sobald wir über Räumlichkeiten verfügen, werden wir öffentliche Workshops im Bereich <a href="/de/event/"><em>Veranstaltungen</em></a> ankündigen.</p>
+
+<p>Für Schulen oder andere Organisationen bieten wir darüberhinaus maßgeschneiderte Workshops an. <a href="mailto:info@biotop.co">Melde dich bei Interesse via Email</a>!</p>
+
+<h4 id="projekte-gemeinsam-entwickeln-und-umsetzen">Projekte Gemeinsam Entwickeln und Umsetzen</h4>
+
+<p>Du hast eine Idee, doch dir fehlt wissenschaftliches Know-How oder ein Labor zur Umsetzung? Du kennst ein Problem aus deinem Arbeitsalltag und möchtest dich über Lösungsansätze unterhalten?
+<a href="mailto:info@biotop.co">Melde dich via Email bei uns</a> und wir unterstützen dich bei der Entwicklung und Umsetzung deines Projektes.</p>
+
+<h3 id="online">Online</h3>
+
+<h4 id="inhalte">Inhalte</h4>
+
+<p>Ob es darum geht, neueste wissenschaftliche Erkenntnisse einem breiten Publikum zugänglich zu machen, wundersame mikroskopische Welten zu beschreiben, oder über verwunderliche wissenschaftliche Erkenntnisse und deren schrullige Zu-Tage-Förderer ein paar Worte zu verlieren - Wir wollen dir eine Plattform bieten, um genau das zu tun und dieser Website damit Leben einzuhauchen.</p>
+
+<h5 id="übersetzen">Übersetzen</h5>
+
+<p>Wir haben es uns zum Ziel gesetzt, unsere Website in vielen Sprachen anzubieten, um Artikel, Kursmaterialen und Projekte möglichst vielen Menschen ohne große Hürden zugänglich zu machen. Dazu brauchen wir allerdings die Hilfe motivierter und kompetenter Leute, die uns bei der Übersetzung unterstützen.</p>
+
+<p>Solltest Du Interesse haben, Inhalte oder Deine Übersetzungskompetenz einzubringen, würden wir uns sehr freuen <a href="mailto:info@biotop.co">via Email von Dir zu hören</a>!</p>
+
+<h2 id="wie-kann-ich-biotop-unterstützen">Wie kann ich biotop unterstützen?</h2>
+
+<h3 id="micropayments">Micropayments</h3>
+
+<p>Wir wollen unsere Website frei von Werbung halten, dennoch finden wir, dass Du als LeserIn eine Möglichkeit haben solltest, UrheberInnen von Inhalten, die Dir besonders gefallen, dafür zu belohnen. Deshalb unterstützen wir das Micropayment-System <a href="http://flattr.com"><strong>flattr</strong></a>, wodurch Du AutorInnen von Beiträgen direkt eine kleine Spende zukommen lassen kannst, indem du auf das kleine Icon am Ende eines Beitrags klickst.</p>
+
+<h3 id="private-sponsoren">Private Sponsoren</h3>
+
+<p>Wir sind derzeit auf der Suche nach SponsorInnen und Fördermitteln, um unseren Standort in Villach aufzubauen, und Forschungsprojekte zu finanzieren. Dabei wollen wir sowohl öffentliche Fördermittel anwerben, als auch private Sponsoren finden, die unsere Vision teilen und unsere Arbeit aus ideellen Gesichtspunkten unterstützen wollen.</p>
+
+<p>Sollten Sie Interesse daran haben, Sponsor zu werden, würden wir uns freuen <a href="mailto:info@biotop.co">via Email von Ihnen zu hören</a>!</p>
+
+<h3 id="patenschaften">Patenschaften</h3>
+
+<p>Für den Aufbau eines Forschungslabors in Villach ist die Anschaffung von Laborgeräten ein entscheidender Kostenfaktor.
+Da diese Anschaffungen unmittelbar mit dem Standort in Villach verknüpft sind und uns das Anbieten von Workshops, sowie die Öffnung unseres Labors als <em>Fablab</em> ermöglichen, möchten wir Patenschaften für Laborgeräte als Möglichkeit des Sponsoring besonders für lokale Fördernde anbieten.
+Die Verwendung der Unterstützung ist so direkt mit der Anschaffung eines für die Laborarbeiten wichtigen Gerätes verknüpft und somit transparent. Förderer werden auf einer Dankestafel online und im Labor gewürdigt.</p>
+
+<p>Sollten Sie Interesse daran haben, eine Patenschaft zu übernehmen, würden wir uns freuen <a href="mailto:info@biotop.co">via Email von Ihnen zu hören</a>!</p>
+</p>
 
 
+        </div>
+      </section>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+</div>
+
+          </div>
+        </section><section class="section has-no-padding">
+
+  <footer class="footer has-background-grey-lighter has-text-centered footer-tags">
+    
 
 
+  
+    <a href="http://biotop.co///de/tags/archaeology/">
+      <span class="menu-label">#archaeology </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/barcoding/">
+      <span class="menu-label">#barcoding </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/citizen-science/">
+      <span class="menu-label">#citizen-science </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/containerlab/">
+      <span class="menu-label">#containerlab </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/discussion/">
+      <span class="menu-label">#discussion </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/exhibition/">
+      <span class="menu-label">#exhibition </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/groppenstein/">
+      <span class="menu-label">#groppenstein </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/london/">
+      <span class="menu-label">#london </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/meeting/">
+      <span class="menu-label">#meeting </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/science-comic/">
+      <span class="menu-label">#science-comic </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/sciencecomic/">
+      <span class="menu-label">#sciencecomic </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/vienna/">
+      <span class="menu-label">#vienna </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/villach/">
+      <span class="menu-label">#villach </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/vortex/">
+      <span class="menu-label">#vortex </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/workshop/">
+      <span class="menu-label">#workshop </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///de/tags/xmascal/">
+      <span class="menu-label">#xmascal </span>
+    </a>
+  
 
 
+  </footer>
 
+  <footer class="footer">
+    <div class="content">
+      <div class="level columns">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <div class="level-item column is-half center">
+          <div class="media">
+            <div class="media-left">
+              <a href="#impressum">
+                <div class="image is-64x64 has-background-light center" style="border-radius:50%;">
+                  <i class="fa fa-asterisk has-text-dark center fa-2x is-rounded has-text-dark"></i>
+                </div>
+              </a>
+            </div>
+            <div class="media-content">
+              <h1 class="title is-5">Impressum</h1>
+              <p> <p>Biotop Wissenschaftskollektiv </br>
+ZVR: 1849241330 <br>
+Eisenhammer Weg 2 / 58 </br>
+A-9500 Villach </br>
+AUSTRIA</br></p>
 
-
-
-
-
-
-
-
-
-
-<li><a href="//instagram.com/biotop_science" target="_blank" title="Instagram" class="fa fa-instagram"></a></li>
-
-
-
-
-
-<li><a href="//vimeo.com/user85375769" target="_blank" title="Vimeo" class="fa fa-vimeo"></a></li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li><a href="//facebook.com/biotopscience" target="_blank" title="Facebook" class="fa fa-facebook"></a></li>
-
-
-
-<li><a href="//twitter.com/biotop_co" target="_blank" title="Twitter" class="fa fa-twitter"></a></li>
-
-
-
-<li><a href="mailto:info@biotop.co" title="Email" class="fa fa-envelope"></a></li>
-
-
-                
-            </ul>
-
-
-            <p class="copyright">&copy; Biotop. Design: Built by biotop. Based on <a href="http://html5up.net" target="_blank">HTML5 UP</a>. Ported by <a href="//github.com/jpescador" target="_blank">Julio Pescador</a>. Powered by <a href="//gohugo.io" target="_blank">Hugo</a></p>
-        </section>
-
+<p><i class="fa fa-phone"></i> <a href="tel:00436644556076"></a>+43 664 455 60 76</br>
+<i class="fa fa-email"></i> <a href="mailto:info@biotop.co"> info@biotop.co</a></p>
+</p>
+            </div>
+          </div>
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <div class="level-item column is-half">
+        </div>
+      </div>
+    </div>
+  </footer>
 </section>
 
-    </div>
-    
-    <div id="main">
-    </div>
-    <script type="text/javascript">
-      if (window.innerWidth <= 1200) {
-      document.location = "\/de/blog/";
-      }
-    </script>
-    <script src="/js/vis/voronoi.js"></script>
-            </div>
-        <a id="back-to-top" href="#" class="fa fa-arrow-up fa-border fa-2x"></a>
-        
+<script src="https://d3js.org/d3.v3.min.js"></script>
 
-        
-        
-            
-        
+<script type="text/javascript" src="/voronoi.min.610b0b85bf5cef02b2779d5da70326b5fbd63b3f115610b8aca24e661c3db18b.js"></script>
 
-        
-        
-            <script src="/js/jquery.min.js"></script>
-            <script src="/js/materialize.js"></script>
-            <script src="/js/skel.min.js"></script>
-            <script src="/js/util.js"></script>
-            <script src="/js/main.js"></script>
-            
-            <script src="/js/highlight.pack.js"></script>
-        
-
-        
-
-            
-            <script>hljs.initHighlightingOnLoad();</script>
-            
     </body>
 </html>
-

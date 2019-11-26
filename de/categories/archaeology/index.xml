@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archaeology on Biotop Wissenschaftskollektiv</title>
+    <link>http://biotop.co/de/categories/archaeology/</link>
+    <description>Recent content in archaeology on Biotop Wissenschaftskollektiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/de/categories/archaeology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grabung - Grabelsdorf</title>
+      <link>http://biotop.co/de/blog/grabelsdorf/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/grabelsdorf/</guid>
+      <description>Biotop-Mitglied Martin ist in Grabelsdorf (Kärnten) aufgewachsen, einem Ort mit einer langen Geschichte. Im Dorf sind die Straßen nach Kelten und Etruskern benannt, es wurden dort bereits ein ganzes Gräberfeld ausgehoben, Teile einer eisenzeitlichen Siedlung (9.-6. Jh v. Chr.) wurden auch gefunden.
+Als Martin kürzlich daheim auf der Gracarca spazierenging, bemerkte er, dass der Wanderweg, der an der Kirche St. Daniel (bereits 1050 n.Chr. urkundlich erwähnt), vorbeiführt verbreitert wurde. Dabei kamen einige menschliche Knochen zum Vorschein, unter anderem ein Schädelknochen, der am Wegesrand aus der Erde ragte.</description>
+    </item>
+    
+  </channel>
+</rss>

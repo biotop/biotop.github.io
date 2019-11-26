@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>science-comic on Biotop Wissenschaftskollektiv</title>
+    <link>http://biotop.co/de/categories/science-comic/</link>
+    <description>Recent content in science-comic on Biotop Wissenschaftskollektiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/de/categories/science-comic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Die Suche nach den Farben</title>
+      <link>http://biotop.co/de/blog/color-quest/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/de/blog/color-quest/</guid>
+      <description>Fertig! Und gerade noch geschafft. Spät am Freitag (15. Februar 2019), haben wir unseren Beitrag für den Wettbewerb &amp;ldquo;Wissenschaftscomics für Kids&amp;rdquo; der Österreichischen Akademie der Wissenschaften (ÖAW) eingereicht.
+Unsere Geschichte dreht sich um ein kleines Mädchen, das es liebt zu malen. Eines Tages verschwinden durch einen dummen Unfall alle ihre Farben - ihre Umwelt erscheint nur noch in Graustufen. Also macht sie sich auf den Weg die Farben zurückzuholen und lernt dabei so manches über die Natur der Farben.</description>
+    </item>
+    
+  </channel>
+</rss>

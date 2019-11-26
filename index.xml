@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Biotop Science Collective</title>
+    <link>http://biotop.co/</link>
+    <description>Recent content in Home on Biotop Science Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2019 17:07:36 +0200</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lukas Hutter</title>
+      <link>http://biotop.co/people/lukas-hutter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/lukas-hutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mission Statement</title>
+      <link>http://biotop.co/mission-statement/</link>
+      <pubDate>Tue, 13 Aug 2019 09:17:28 +0200</pubDate>
+      
+      <guid>http://biotop.co/mission-statement/</guid>
+      <description>What? Biotop is an open collective of scientists engaging in the curiosity-driven, cross-disciplinary and collaborative translation of ideas; it is an experiment trying to reinvent the way we do science.
+Why? Science and research are endeavours that should be abound with idealism and innovative thinking. Yet many young researchers are becoming increasingly disillusioned by the prospect of pursueing a career in academia. The reasons driving this development are systemic:</description>
+    </item>
+    
+    <item>
+      <title>Anna Köferle</title>
+      <link>http://biotop.co/people/anna-koeferle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/anna-koeferle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ralf Bliem</title>
+      <link>http://biotop.co/people/ralf-bliem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/ralf-bliem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participate &amp; Support</title>
+      <link>http://biotop.co/support/</link>
+      <pubDate>Tue, 13 Aug 2019 09:17:28 +0200</pubDate>
+      
+      <guid>http://biotop.co/support/</guid>
+      <description>How can I participate? Locally Regular Programme Stay informed about our regular programme encompassing talks, evening events and meet-and-greets, by visiting the events section of our site.
+Workshops Never before has it been easier to playfully engage in research. At the same time, science is primarily a process, most accessible if one engages in the scientific method. Bringing the two together, we plan to offer workshops addressed at a variety of focus groups, such as school kids and interested members of the public, on a regular basis that provide a barrier-free and playful approach to complex and relevant scientific problems.</description>
+    </item>
+    
+    <item>
+      <title>Anna Ritscher</title>
+      <link>http://biotop.co/people/anna-ritscher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/anna-ritscher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>http://biotop.co/imprint/</link>
+      <pubDate>Tue, 13 Aug 2019 09:17:28 +0200</pubDate>
+      
+      <guid>http://biotop.co/imprint/</guid>
+      <description>Biotop Wissenschaftskollektiv  ZVR: 1849241330 Eisenhammer Weg 2 / 58  A-9500 Villach  AUSTRIA
+ +43 664 455 60 76  info@biotop.co</description>
+    </item>
+    
+    <item>
+      <title>Anna Wächter-Mittersteiner</title>
+      <link>http://biotop.co/people/anna-waechter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/anna-waechter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Fera</title>
+      <link>http://biotop.co/people/martin-fera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/martin-fera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolfgang Schütz</title>
+      <link>http://biotop.co/people/wolfi-schuetz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/wolfi-schuetz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariangela Panniello</title>
+      <link>http://biotop.co/people/mariangela-panniello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/mariangela-panniello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Maffulli</title>
+      <link>http://biotop.co/people/roberto-maffulli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/roberto-maffulli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human Nature</title>
+      <link>http://biotop.co/blog/human-nature/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/human-nature/</guid>
+      <description>When: 19.12.2019 20:15
+Where: Stadtkinocenter Villach
+&amp;ldquo;Human Nature&amp;rdquo; is a new documentary film about the development and applications of the genome editing tool CRISPR/CAS9. This novel technology enables the precise modification of genetic material inside an organism, allowing both changes to the biosphere as well as editing of the human genome. While this method has the potential to cure many genetic diseases, it also raises a plethora of ethical questions. What exactly is &amp;ldquo;normal&amp;rdquo; as opposed to &amp;ldquo;diseased&amp;rdquo;?</description>
+    </item>
+    
+    <item>
+      <title>Vortex</title>
+      <link>http://biotop.co/blog/vortex/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/vortex/</guid>
+      <description>When: 07th December 2019 - 25th January 2020; Thu, Fri, Sat, 5-8 pm and upon arrangement
+Where: Former “Rollin’ Skate Shop”, Oberer Kirchenplatz 4, Villach
+We are surrounded by and take part in complex systems. Yet, we struggle with the consequences of complexity. The global financial system and the climate are two examples of complex systems that inevitably affect our daily lives. Due to their apparent impenetrability, they make us feel insecure.</description>
+    </item>
+    
+    <item>
+      <title>Archaeological dig - Grabelsdorf</title>
+      <link>http://biotop.co/blog/grabelsdorf/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/grabelsdorf/</guid>
+      <description>Biotop member Martin grew up in Grabelsdorf, Carinthia (Austria), a beautiful area steeped in ancient history. In this town, the roads are named after ancient tribes such as &amp;ldquo;Etruscans&amp;rdquo; and &amp;ldquo;Celts &amp;ldquo;. Remnants of settlements dating back to the early Iron Age (9th-6th century BC) have been unearthed and there is evidence for a celtic settlement (2nd – 1st century BC) as well. One weekend, while on a visit home, archaeologist Martin went for a walk up the &amp;ldquo;Gracarca&amp;rdquo; hill (676 m above sea level).</description>
+    </item>
+    
+    <item>
+      <title>Exhibitions</title>
+      <link>http://biotop.co/projects/exhibitions/</link>
+      <pubDate>Tue, 13 Aug 2019 09:23:31 +0200</pubDate>
+      
+      <guid>http://biotop.co/projects/exhibitions/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>http://biotop.co/projects/workshops/</link>
+      <pubDate>Tue, 13 Aug 2019 09:23:10 +0200</pubDate>
+      
+      <guid>http://biotop.co/projects/workshops/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+    </item>
+    
+    <item>
+      <title>Our Services</title>
+      <link>http://biotop.co/projects/our-services/</link>
+      <pubDate>Tue, 13 Aug 2019 09:22:55 +0200</pubDate>
+      
+      <guid>http://biotop.co/projects/our-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Color Quest</title>
+      <link>http://biotop.co/blog/color-quest/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/color-quest/</guid>
+      <description>DONE! And just in time! Late on Friday 15th February 2019, we submitted our entry for the &amp;ldquo;Science Comics for Kids&amp;rdquo; competition by the Austrian Academy of Sciences (ÖAW).
+Our story is about a little girl who loves to draw. One day due to a weird accident all her colours disappear. She goes on a quest to bring her colours back, and learns something about the science behind colour along the way.</description>
+    </item>
+    
+    <item>
+      <title>The Natural History of Reindeer</title>
+      <link>http://biotop.co/blog/xmascal/10/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/10/</guid>
+      <description>&lt;p&gt;Rudolf, Dasher, Comet, Dancer, Cupid, Prancer, Donner, Blitzen and Vixen. They are the deer that help Santa carry his carriage full of presents on Christmas Eve. Specifically, they are reindeer (their scientific name is Rangifer tarandus), one of the forty or so species of deer that exist in the world and the only one that can be found living in the Arctic. But the fact that they are native close to his home is not the only reason that Santa might have chosen them as his companions. They also love travelling, some of them covering distances of up to 5000 km in a year, making their migration the farthest one of any terrestrial mammal.
+Reindeer are also very well equipped to cope with the cold. From the soles of their hooves to the tips of their noses, they are all covered in hair, which is so good at insulating their body heat that they can lie down on the snow without melting it.&lt;/p&gt;
+
+&lt;p&gt;Their noses are also very special—not only because of Rudolf’s red one. They have very intricate nostrils with an increased internal surface area to warm up the incoming cold air. Their nostril&amp;rsquo;s insides are also covered with thin hairs where water in the air can condense and then be sniffed in into the throat. Of course, being so good at maintaining their body temperature, they can also afford getting much of their water from eating snow.
+All species of deer belong to the &lt;em&gt;Artiodactyla&lt;/em&gt; order of mammals which includes all hoofed animals whose weight is supported by two toes, for example pigs, cattle, goats and sheep, as well as giraffes and hippos. The first deer might have appeared over 20 million years ago, the oldest known reindeer fossil has been dated to 400,000 years ago - the time that the last Ice Age started. So reindeer have been around for a long time and Santa has certainly not been the only one to use them for transportation. Archaeological evidence indicates that Siberian tribes were riding reindeer 2,000 years ago and many tribes today still ride them or use them to pull their sledges.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Christmas, 1000 years ago</title>
+      <link>http://biotop.co/blog/xmascal/09/</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/09/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Was Christmas celebrated 1000 years ago?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Christmas as a celebration of the birth of Jesus is one of the most important holidays of Christian communities. While it was already celebrated in Rome in the 4th century A.D., in the early Middle Ages it took a step back in favor of the celebration of the Epiphany of the Lord. With the coronation of Charlemagne as emperor at Christmas 800, it regained popularity.&lt;/p&gt;
+
+&lt;p&gt;But what was the situation like in Carinthia 1000 years ago? What were the secular and ecclesiastical conditions like and what do we know about the language in which any Christian liturgy took place?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Image 1:&lt;/strong&gt; Since the ninth century a village named Uillac, located at a bridge over the Drau river, was known in the March of Carantania. It belonged to the bishopric of Bamberg since 1007 and formed a part of the East Franconian Empire within the whole Duchy of Carinthia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Image 2:&lt;/strong&gt; The Christian faith was spread among the Carantan Slavs by Abraham of Freising (940-&lt;sup&gt;993&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt; AD), among others. Between 972 and 1039, in the course of the missionary work, the Freising monuments, religious texts in the Karantane/slovenian language, were created. The monasteries of St. Georgen (shortly after 1000) and Ossiach (1028) were built during this period.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Image 3:&lt;/strong&gt; As far as we know Christmas was also celebrated 1000 years ago. But until the 16th century gifts were rather offered on the day of St. Nicholas of Myra. Christmas trees (from the 16th century), Advent wreaths (from 1839) and Advent calendars (from about 1851) are later additions.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;about-the-authors&#34;&gt;About the authors&lt;/h3&gt;
+
+&lt;p&gt;As an archaeologist &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/martin-fera/&#34;&gt;Martin Fera&lt;/a&gt;&lt;/strong&gt; has researched pharaonic graves in Sudan, bronze age saltmines in Hallstatt or viking burials in Norway. Currently, his research is focused on using data from landscape scans to better understand early iron age cultures in Europe.&lt;/p&gt;
+
+&lt;p&gt;As an architect &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/ralf-bliem/&#34;&gt;Ralf Bliem&lt;/a&gt;&lt;/strong&gt; has a special interest in generative planing processes and modular design. He studied architecture at the UT Vienna and TU Berlin, also he worked at renowned architecture offices in Berlin and Vienna. Ralf is a co-founder of Biotop and at the moment he works with Biotop on the modular design of labs and some more interesting tasks.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Last Christmas I gave you my heart, but the very next day you gave it away...</title>
+      <link>http://biotop.co/blog/xmascal/08/</link>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/08/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Fig. 1: Google Books &lt;a href=&#34;https://books.google.com/ngrams/graph?content=christmas%2Cdivorce&amp;amp;case_insensitive=on&amp;amp;year_start=1800&amp;amp;year_end=1950&amp;amp;corpus=15&amp;amp;smoothing=3&amp;amp;share=&amp;amp;direct_url=t4%3B%2Cchristmas%3B%2Cc0%3B%2Cs0%3B%3BChristmas%3B%2Cc0%3B%3BCHRISTMAS%3B%2Cc0%3B.t4%3B%2Cdivorce%3B%2Cc0%3B%2Cs0%3B%3Bdivorce%3B%2Cc0%3B%3BDivorce%3B%2Cc0%3B%3BDIVORCE%3B%2Cc0&#34;&gt;Ngram data&lt;/a&gt; for the queries &amp;ldquo;Christmas&amp;rdquo; and &amp;ldquo;divorce&amp;rdquo; in the English corpus between 1850 and 1950. The two data series show a high &lt;a href=&#34;https://en.wikipedia.org/wiki/Pearson_correlation_coefficient&#34;&gt;Pearson correlation coefficient&lt;/a&gt; of R=0.93.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The plot above shows that “Christmas” and “divorce” are mentioned in books with frequencies that show very similar trends over a period of 100 years. So does this mean that people planned to divorce a lot around Christmas? Or did the relaxed atmosphere around Christmas with the whole family coming together in a crowded house full of alcoholic beverages somehow lead to a lot of divorces? Or is Christmas actually a holiday of divorce?&lt;/p&gt;
+
+&lt;p&gt;Looking only at these data might lead you to wrong conclusions about causal relationships between highly correlated data series such as the ones above. Correlation (e.g., two events occurring together), however, &lt;a href=&#34;https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation&#34;&gt;does not imply causation&lt;/a&gt;. (i.e., one is the cause of the other).&lt;/p&gt;
+
+&lt;p&gt;Some such cum hoc ergo propter hoc (Latin for “with this, therefore because of this”) fallacies can quite easily be excluded using common sense (Christmas was clearly not established to celebrate divorces) but others are a lot trickier (&lt;a href=&#34;https://www.wilson-nesbitt.com/news-updates/Divorce/7282/Why-do-divorce-rates-double-over-Christmas, for example, indeed argues that the atmosphere at Christmas leads to unusually high numbers of divorces&#34;&gt;this article&lt;/a&gt;). Additional experimentation and data can help to exclude some possible causal relationships or add additional evidence supporting others.&lt;/p&gt;
+
+&lt;p&gt;Other examples of so-called “spurious correlations” (i.e., correlated events without a direct causal relationship) are presented on &lt;a href=&#34;http://www.tylervigen.com/spurious-correlations&#34;&gt;this recommended website&lt;/a&gt;. There, it is for example uncovered that the consumption of margarine is correlated with the divorce rate in the US federal state of Maine. But it might be rather easy to see that there is no real causal relationship between these two events.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://biotop.co/xmascal/img/08/DivorceRateMaineMargarine.png&#34;/&gt; 
+&lt;/figure&gt;
+
+
+&lt;p&gt;A more serious discussion of the often-made mistake to conclude a causative relationship from highly correlated data can be found in this recommended video from Khan academy. &lt;a href=&#34;https://www.khanacademy.org/math/probability/scatterplots-a1/creating-interpreting-scatterplots/v/correlation-and-causality&#34;&gt;Here, it is discussed whether eating breakfast could be a possible solution to teen obesity?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So you might want to be extra careful to not mix up correlation and causation, which are indeed two very different things. Confusing them leads to a lot of false claims that are seemingly supported by real data.&lt;/p&gt;
+
+&lt;p&gt;One thing, however, is for sure: Christmas is also (highly correlates with) Egg Nog season. You might want to do some experimentation yourselves to work out whether there is a causal relationship between the two ;)&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://biotop.co/xmascal/img/08/eggnogg.png&#34;/&gt; 
+&lt;/figure&gt;
+
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;p&gt;Ps: The R scripts that were used to query Google ngrams/ trends and plot the respective correlations can be found in &lt;a href=&#34;https://github.com/biotop/spurious-correlations-christmas.git&#34;&gt;our Github repository&lt;/a&gt;.  Feel free to use them to search for other (spurious) correlations or have a look at the &lt;a href=&#34;https://www.google.com/trends/correlate&#34;&gt;Google correlate project&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pinus Sylvestris</title>
+      <link>http://biotop.co/blog/xmascal/07/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/07/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Pinus sylvestris&lt;/em&gt; is a common pine species that is native to Eurasia. You may recognise their scaly pine cone (the female), but in fact all pine trees have male cones too – usually smaller and less conspicuous than their female counterparts. The male cones produce pollen, which is brought by wind to the female cone, where it fertilises the egg, forming a seed.&lt;/p&gt;
+
+&lt;p&gt;All pines are Gymnosperms, which in its Greek origins means ‘naked seed’. Unlike the more common Angiosperms - flowering trees that produce seeds enclosed in an ovule (e.g. apples), Gymnosperms’ are exposed and form on the surface of the plant.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Wonderful Physics of Snowflakes</title>
+      <link>http://biotop.co/blog/xmascal/06/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/06/</guid>
+      <description>&lt;p&gt;This story is about a substance that couldn&amp;rsquo;t be any more contradictory: It is mundane in its omnipresence, while oozing with symbolism. It forms the basis of all life on this planet, while being capable of unleashing destructive forces of unrivalled power.&lt;/p&gt;
+
+&lt;p&gt;In spite of being formed from two of the three most common elements in the universe, pure, liquid water is an incredibly valuable good characterised by physical properties that are unusual to say the least. Water is a small molecule that occurs on earth in solid, liquid and gaseous form. This is remarkable, as most similarly small molecules would only occur in gaseous form under terrestrial conditions. Whether a substance occurs as solid, liquid or gas, is largely determined by temperature and pressure. If temperatures on Earth drop below 0°C the rules of the interplay between water molecules change substantially: Whereas water in liquid form is best described as a dancing frenzy of water molecules that only form connected groups for a short time, the dancing abates as water solidifies, and its molecules form tight formations.&lt;/p&gt;
+
+&lt;p&gt;If we take a close look at a snowflake, we have to take note of a certain &lt;em&gt;sixness&lt;/em&gt; to it. Though, to say they were six-sided would do them a grave injustice, for they have many more sides than that! To capture this essence of &lt;em&gt;sixness&lt;/em&gt;, we use the term &lt;em&gt;symmetry&lt;/em&gt;. In the case of the six-fold rotational symmetry of the snowflake, this simply states that after turning the snowflake one sixth of a whole rotation, it appears indistinguishable from the original configuration. The symmetry of a snowflake is visible to the naked eye, yet it manifests the interplay of individual water molecules that each measure less than a fifth of a billionth of a meter.&lt;/p&gt;
+
+&lt;p&gt;Depending on pressure and temperature, water molecules can gather in a variety of formations giving rise to no less than fifteen different types of ice. However, most of these types of ice only form under special pressures and temperatures. Snow and virtually all other forms of ice on earth are formed by so-called &lt;em&gt;ice I&lt;sub&gt;h&lt;/sub&gt;&lt;/em&gt;, which is characterised by hexagonal formations of water molecules that collectively give rise to a crystal lattice.&lt;/p&gt;
+
+&lt;p&gt;As opposed to molecules of liquid water, where the angle between two hydrogen atoms is 105°, in ice, the water molecule becomes stretched to better accommodate the molecules in the crystal lattice, resulting in a slightly larger bonding angle of 109.5°. Therefore, water molecules in ice need more space than the same number of molecules in liquid water. This accounts for the peculiar expansion of water as it is cooled. This behaviour that is very uncommon in the molecular world, and it contributes to the fact that earth is such a hospitable planet for life. For, were it not for its lower density, ice would not float on water, bodies of water would freeze from bottom to top. However, ice does float and aquatic organisms can spend cold periods in liquid water.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Krampus</title>
+      <link>http://biotop.co/blog/xmascal/05/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/05/</guid>
+      <description>&lt;p&gt;#What can a scary furry devil figure like the Krampus have to do with romanticism?&lt;/p&gt;
+
+&lt;p&gt;Sometime between the 16th and 19th century, &amp;ldquo;Nikolo&amp;rdquo; and &amp;ldquo;Krampus&amp;rdquo; appeared as an unequal couple at treating rites on the eve of the feast of Saint Nicholas on 6th December. While one brings gifts the other one threatens the children with chain, rod and butte. In the Baroque period, Saint Nicholas games in the vicinity of monasteries developed into sacred plays that were performed in courtyards and inns. They included catechetical scenes between good and evil, often angels and devils fought over the soul of a dying man.
+From the 18th century onwards, such games were forbidden by both the church and secular authorities.They were considered outdated and called &amp;ldquo;pagan and unworthy of a true Christian&amp;rdquo;. However, exactly this &amp;ldquo;pagan&amp;rdquo; nature was of particular interest for romanticists a century later. They related the figures to germanic myths and wanted to find their ancient origins, overlooking the fact that the texts of the traditional St. Nicholas games, in which the devilish armies appear, had theological roots.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;about-the-authors&#34;&gt;About the authors&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.stulowitz.at&#34;&gt;Wolfgang Schütz&lt;/a&gt;&lt;/strong&gt;, is an illustrator and game developer from Villach. His studies of multimedia art led him to Salzburg where he&amp;rsquo;s been living for the past ten years. He started to work as a freelancer under the synonym &lt;strong&gt;&lt;a href=&#34;http://www.stulowitz.at&#34;&gt;Stulowitz&lt;/a&gt;&lt;/strong&gt; in 2018.&lt;/p&gt;
+
+&lt;p&gt;As an archaeologist &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/martin-fera/&#34;&gt;Martin Fera&lt;/a&gt;&lt;/strong&gt; has researched pharaonic graves in Sudan, bronze age saltmines in Hallstatt or viking burials in Norway. Currently, his research is focused on using data from landscape scans to better understand early iron age cultures in Europe.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Do you remember that taste?</title>
+      <link>http://biotop.co/blog/xmascal/04/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/04/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s Christmas time! Your eyes are full with winking colourful lights, soft white snow covers the streets and your taste buds awaken when you think about that sweet, fragrant gingerbread you are used to having every year! But wait&amp;hellip; How can you remember it so well?
+Scents and flavours are powerful time machines and can, more than images and sounds, throw us back to the past. Neuroscientists have always been fascinated by this phenomenon and tried to understand more about it.&lt;/p&gt;
+
+&lt;p&gt;When biting into a gingerbread cookie, its smell travels to the so called &lt;em&gt;glomeruli&lt;/em&gt; in our nasal cavity and its sweet taste reaches thousands of taste buds on our tongue. Both these structures contain hundreds of thousands of tiny nerve endings that, once activated by scents and flavours, send messages straight up to the brain. These signals run much faster than your car! At a speed of about 50m/s (180km/h), they travel through two relay stations in the central nervous system, the &lt;em&gt;medulla&lt;/em&gt; and &lt;em&gt;thalamus&lt;/em&gt;, before reaching their final destination, the gustatory cortex. Here, millions of neurons are ready to receive and process the messages sent by the tongue and assign them an identity. This is when you realise that your cookie is sweet, not too gingery, and has a nice hint of cinnamon! Neuroscientists at the Columbia University in New York, have now demonstrated that the perception of different tastes is mediated by different areas in the gustatory cortex. Using a technique called &lt;em&gt;optogenetics&lt;/em&gt;, they were able to artificially activate or shut down what they thought were the bitter and sweet areas in the gustatory cortex of laboratory mice. Then, they trained mice to lick from a water bottle while their cortex was artificially activated. Mice whose bitter area was activated when licking progressively reduced their licking. On the other hand, mice whose sweet cortical area was activated during the task showed a marked increase of the licking behaviour [1].&lt;/p&gt;
+
+&lt;p&gt;But this has got nothing to do with remembering the familiar and delicious taste of our grandmother&amp;rsquo;s gingerbread cookies, right? Correct! The message in the gustatory cortex keeps travelling though our nervous system, and reaches the so called limbic system. This is the most ancient part of our brain and contains areas that are strongly implicated in processing emotions and memories. In particular, the &lt;em&gt;hippocampus&lt;/em&gt; (from the Latin sea horse, for its shape) receives signals from the gustatory cortex and matches them to signals that have already travelled through our brain, and for which a memory has been established. This is how your brain safely keeps the secret of your grandma&amp;rsquo;s cookies. Be reassured, you will never forget it!&lt;/p&gt;
+
+&lt;p&gt;[1] Peng, Y. et al. Sweet and bitter taste in the brain of awake behaving animals. Nature 527, 512–515 (2015)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;about-the-authors&#34;&gt;About the authors&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/person/mariangela-panniello/&#34;&gt;Mariangela Panniello&lt;/a&gt;&lt;/strong&gt; (Text) is a neuroscientist based in Oxford, where she studies the neuronal basis of perception. She’s interested in telling everyone how cool the brain is, in finding out new ways to make scientists from different disciplines work together, and in making science more friendly for the general public.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.linkedin.com/in/andrea-ferrari-trecate-ba1a42b1/?originalSubdomain=it&#34;&gt;Andrea Ferrari Trecate&lt;/a&gt;&lt;/strong&gt; (Illustration) is an environmental journalist based in La Spezia (Italy) and a brilliant amateur illustrator.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Oldest Cookie Recipe</title>
+      <link>http://biotop.co/blog/xmascal/03/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/03/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;title: &amp;ldquo;The Oldest Cookie Recipe&amp;rdquo;
+date: 2018-12-03
+draft: false
+author: &amp;ldquo;Martin Fera (Text) Ralf Bliem (Video)&amp;rdquo;
+number: &amp;ldquo;3&amp;rdquo;
+type: &amp;ldquo;blog&amp;rdquo;
+postUrl: &amp;ldquo;&lt;a href=&#34;http://biotop.co/xmascal/days/03&amp;quot;&#34;&gt;http://biotop.co/xmascal/days/03&amp;quot;&lt;/a&gt;
+headervideo: &amp;ldquo;/03/CookieRecipe_540p.mp4&amp;rdquo;
+featured: &amp;ldquo;/img/blog/xmascal/03/RamsesIIIBakery_Upload.jpg&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;call-the-whole-recipe-can-be-found-on-our-website-have-a-smell-and-taste-ever-taken-you-back-in-time-read-more-tomorrow&#34;&gt;call: &amp;ldquo;The whole recipe can be found on our website. / Have a smell and taste ever taken you back in time? Read more tomorrow&amp;rdquo;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;The baker can deliver sweet foods to you in a thousand forms, for the bee works for him. (M. V. Martialis, XIV, 222)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;What would Christmas be like without cookies? The small portioned biscuits sweeten our everyday life, especially during the advent season. For some time now, eating them has not been about nutrition but about self-indulgence, which is regretted by some after the holidays. It was a very different story around 7000 years ago when people in Mesopotamia built the first agricultural settlements and in doing so, took the decisive step on the way to the world we live in today. The cultivation and processing of grain was one of the basic prerequisites for settlement, and it was hard-earned bread, literally, until the harvested grain could be used to make porridge, beer or bread for daily consumption. Our ancestors regularly suffered from malnutrition, and their skeletons show wear and tear from the monotonous grinding process of the grain to flour, one of the main ingredients for bakery.
+Even from these very early civilizations, such as the Sumerians or Egyptians, recipes of pastries sweetened with spices, fruits and honey have survived over the ages. These treats were probably reserved only for members of the highest social classes. The Romans already knew the profession of the confectioner, the Pistor Dulcarius, who made honey bakery for feast tables of the rich and for offerings.
+Ever since sweet cookies were introduced to more and more households during the 19th century, the number of recipes has greatly expanded. What is the &amp;ldquo;oldest cookie recipe&amp;rdquo; we know? A likely candidate is a recipe from Sumer from the 3rd dynasty of Ur (dating from around 4000 years before today) which can be derived from administrative texts found on cuneiform tablets (see graphic).&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;about-the-author&#34;&gt;About the author&lt;/h3&gt;
+
+&lt;p&gt;As an archaeologist &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/martin-fera/&#34;&gt;Martin Fera&lt;/a&gt;&lt;/strong&gt; has researched pharaonic graves in Sudan, bronze age saltmines in Hallstatt or viking burials in Norway. Currently, his research is focused on using data from landscape scans to better understand early iron age cultures in Europe.
+As an architect &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/ralf-bliem/&#34;&gt;Ralf Bliem&lt;/a&gt;&lt;/strong&gt; has a special interest in generative planing processes and modular design. He studied architecture at the UT Vienna and TU Berlin, also he worked at renowned architecture offices in Berlin and Vienna. Ralf is a co-founder of Biotop and at the moment he works with Biotop on the modular design of labs and some more interesting tasks.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Earwormology</title>
+      <link>http://biotop.co/blog/xmascal/02/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/02/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;At this time of the year, have you already had the song “Last Christmas” by 80’s band Wham! stuck in your head? Earworms - or Involuntary musical imagery (INMI) as science calls them - surely are familiar to everyone. In his book “Musicophilia”, Oliver Sacks refers to them as “brainworms” or “cognitively infectious musical agents” [1]. They constitute musical fragments 15-20 seconds in length corresponding to a theme of 3-4 bars that keep on circling round and round in one’s mind.&lt;/p&gt;
+
+&lt;p&gt;Most studies have focused on what structures within music cause earworms and who is susceptible to them. The answer is almost everyone seems to be getting earworms [2]. Sometimes, earworms are induced by a memory. But they can occur spontaneously too. They are favoured if a song is simple and contains a lot of repeating elements or if the song itself is re-played again and again. Much of this seems like common sense, but a group of psychologists did a study with 3,000 participants to confirm this. They compared the structure of 200 songs that frequently cause INMI with songs that were never mentioned to induce earworms and concluded that earworms occur more frequently when a song is faster, has a generic (easy-to-remember) melody that also contains some unique, unexpected twist such as leaps or repetitions that sets it apart from the “average” song [3].&lt;/p&gt;
+
+&lt;p&gt;Strategies to combat earworms include consciously singing or listening to the song in full, trying to displace the earworm with another song, or trying to engage in some more demanding activity (e.g. reading) [4]. We haven’t found much sound, convincing scientific evidence that any of these actually work, however, feel free to try them at your own discretion!&lt;/p&gt;
+
+&lt;p&gt;To date, little is known about the neuronal basis of earworms. The phenomenon is not studied a lot, probably because it’s is not really a disease, though it can be annoying. We found one experiment in the scientific literature that we thought we explain to you in a bit more detail [5]. It is trying to figure out where in the brain earworms are formed. The scientists asked several trained musicians to either (a) listen to music or (b) imagine music. They then identified the brain areas that are active in both listening to and imagining music. This is a first step. But is voluntarily imagining a piece of music really the same as having an earworm? And what about the regions that are only active in imagining music but not during listening to music? It is not possible to identify those with the current study design. Furthermore, what is the cellular basis for earworms? Which type of brain cells are involved? Where do the triggering signals come from, do they originate from within the brain? As always, attempting to answer one simple question (“Where in the brain do earworms reside?”), leads us down the rabbit hole, and reveals how little we understand about how music interacts with our brains.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Christmas Lecture As Wall Newspaper</title>
+      <link>http://biotop.co/blog/xmascal/01/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/01/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Picture: The &lt;a href=&#34;https://www.thinglink.com/scene/459318726211141635?buttonSource=viewLimits&#34;&gt;phycisist Sir Lawrence Bragg at the Royal Institution Christmas lecutre in 1961&lt;/a&gt; - Oil on Canvas, Terence Cuneo, 1962&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The weeks leading up to Christmas have always had a special appeal to many students of the natural sciences; mulled wine sold at every corner, an abundance of occasions to socialise, but also a distinct notion that science should not only be taught, but should be actively engaged with. This notion is conveyed by numerous exciting, entertaining, as well as educational Christmas lectures that leave a lasting impression.&lt;/p&gt;
+
+&lt;p&gt;In fact, Christmas lectures have a long tradition. Many of them are accessible to the public, and are highly popular due to their spectacular experimental demonstrations. Hence, many Christmas lectures, such as those by the London Royal Institution, have become institutions in their own right, attracting huge audiences that marvel at the many wonders presented by world-class scientists about their disciplines.&lt;/p&gt;
+
+&lt;p&gt;This Christmas calendar was conceived with this tradition in mind. It represents our attempt at taking science out of the lab and into the pre-Christmas buzz, and to entertain and educate. In the course of the next twenty-four days, we will present a topic related to Christmas every day from a science perspective. On some days, to spice things up, we will mix in contributions from the areas such as design and history as well. Today, to launch this project, the personal level and some hands-on science shall take centre stage. You are cordially invited to join us &lt;strong&gt;today from 4pm in our temporary office space at Gerbergasse 3 in Villach&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;d like watch a Christmas lecture online, we&amp;rsquo;d highly recommend those by the Royal Institution. &lt;a href=&#34;http://www.rigb.org/christmas-lectures&#34;&gt;Their website&lt;/a&gt; gives you access to many lectures from past years. If you speak German, you might also want to tune into the &lt;a href=&#34;https://www.facebook.com/events/207325456862661/?active_tab=about&#34;&gt;Christmas lecture by TU Graz phycisist Gernot Pottlacher&lt;/a&gt;, who will present a journey through the phase diagram. It will be streamed live under starting at 16:15 on 12.12.18.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Biotop Christmas Calendar</title>
+      <link>http://biotop.co/blog/xmascal2018/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal2018/</guid>
+      <description>Our &amp;ldquo;advent calendar&amp;rdquo; is finally on!
+Every day, another aspect of Christmas will be used to explain science and design in an exciting and entertaining way. One will be able to discover what makes snowflakes scientifically exciting, why earworms such as “Last Christmas” drill so deep into our brains, what archaeologists find fascinating about gingerbread, and how architects approach gift-wrapping.
+All the content will also be on display in the shop window of our office space at Gerbergasse 3 in Villach.</description>
+    </item>
+    
+    <item>
+      <title>Giftwrapping with Architects</title>
+      <link>http://biotop.co/blog/xmascal/16/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/16/</guid>
+      <description>&lt;p&gt;Origami is an awesome artform! In transforming flat paper into intricate three dimensional shapes, it marries craftsmanship with a beautiful sort of mathematical ingenuity. To an architect, origami is not only a source of inspiration, but also a reflection of the very essence of architecture itself. It is the perfect metaphor to express what we try to achieve with Biotop: ideas, rigor and accessible materials that are transformed into things of beauty as well as practical use.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;about-the-authors&#34;&gt;About the authors&lt;/h4&gt;
+
+&lt;p&gt;As an architect &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/ralf-bliem/&#34;&gt;Ralf Bliem&lt;/a&gt;&lt;/strong&gt; has a special interest in generative planing processes and modular design. He studied architecture at the UT Vienna and TU Berlin, also he worked at renowned architecture offices in Berlin and Vienna. Ralf is a co-founder of Biotop and at the moment he works with Biotop on the modular design of labs and some more interesting tasks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/lukas-hutter/&#34;&gt;Lukas Hutter&lt;/a&gt;&lt;/strong&gt; studied chemistry in Graz and Systems Biology at the University of Oxford. He is a co-founder of Biotop and works as a teacher in Villach.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shine A Light pt. 2 - Spectroscopy Workshop</title>
+      <link>http://biotop.co/blog/xmascal/15/</link>
+      <pubDate>Thu, 15 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/15/</guid>
+      <description>&lt;p&gt;As the days get shorter, we turn to candles and artificial light to illuminate our evenings. We perceive a stark difference between these light sources, but what makes the light of the candle warm, and the light of a white LED cool? Looking into the matter from a physical perspective, white light is the combination of electromagnetic radiation of different wavelengths. For visible light, the wavelength of the light corresponds to its colour. If we can manage to separate white light into its components, we can artificially create a rainbow, where the colour spectrum is separated from red to blue.&lt;/p&gt;
+
+&lt;p&gt;It is precisely this artificial generation of rainbows that we use spectrometers for. We can use it to investigate and compare the composition of light from different sources. A simple spectrometer is composed of a light source, a beam rectifier, an refractive grid and a detector. Using these components and a bit of black paper, one can easily build their own spectrometer: A beam rectifier is simply a small slit, and a refractive grid can be scavenged from an old DVD-R. As detector, we can use the omnipresent camera of a smartphone. &lt;strong&gt;You are cordially invited to join us today from 4pm in our office at Gerbergasse 3 in Villach, to build your very own spectrometer and learn how to use it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you are interested, but you cannot make it to our workshop, you can find the design at &lt;a href=&#34;http://spectralworkbench.org&#34;&gt;spectralworkbench.org&lt;/a&gt; and watch &lt;a href=&#34;https://www.youtube.com/watch?v=hZkVYuw4pJ4&#34;&gt;a video with detailed instructions&lt;/a&gt; online.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;about-the-author&#34;&gt;About the author&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/anna-waechter/&#34;&gt;Anna Wächter-Mittersteiner&lt;/a&gt;&lt;/strong&gt; is a molecular biologist. She studied in Vienna and Zurich and conducted research on signal processing in immune system. At the moment she is in charge of science communication workshops at Biotop.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gingerbreadhouses and Architecture</title>
+      <link>http://biotop.co/blog/xmascal/14/</link>
+      <pubDate>Wed, 14 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/14/</guid>
+      <description>&lt;p&gt;In yesterday&amp;rsquo;s post, you read about the legendary gingerbread house in the fairytale Hansel and Gretel. But did you know that there is also a term called &amp;ldquo;Gingerbread architecture&amp;rdquo;? And no, unfortunately this doesn’t mean buildings actually made of gingerbread&amp;hellip; The definition of gingerbread house architecture originates from the building style of the late 19th century in Haiti.
+The gingerbread movement began in 1881, with the construction of the Haitian National Palace. This building served as a model and set new standards of construction in the region. The majority of the gingerbread buildings in Haiti are located in Port-o-Prince and are planned by just three Haitian architects, who found inspiration during their studies in Paris. In 1895, Georges Baussan, Léon Mathon, and Joseph-Eugène Maximilien wanted to take advantage of the nascent architectural movement by adapting the contemporary style of French holiday homes to the tropical climate of Haiti.&lt;/p&gt;
+
+&lt;p&gt;The gingerbread houses are usually constructed out of wood, masonry, or stone and clay. Characteristics of this architectural style are vibrant patterns, flamboyant colors and richly ornamented balustrades. The houses were constructed with tall doors, high ceilings and large windows opening on vast galleries in order to take advantage of the prevailing winds. The gingerbread expression was adopted in the 1950s by American tourists, who compared the style to that of Victorian-era buildings in the US.
+As the houses are expensive to maintain, today many of them fall into disrepair by natural aging, although they withstood the the 2010 earthquake better than modern concrete buildings. In 2010, the Gingerbread Houses of Haiti were included on the World Monuments Watch.&lt;/p&gt;
+
+&lt;p&gt;If you want to stroll around in a city that is actually made out of gingerbread you have to visit the Museum of Architecture in London. Every year a group of architects, designers and engineers create an entire gingerbread city, with “&amp;hellip;the aim [&amp;hellip;] to connect the public with architecture through an innovative display designed for the holiday season.” This year&amp;rsquo;s exhibition &amp;lsquo;Imagining the Future City&amp;rsquo; is on from the 8th of December 2018 to the 6th of January 2019, if you happen to be in the vicinity. Enjoy without tasting!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;about-the-authors&#34;&gt;About the authors&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/anna-ritscher/&#34;&gt;Anna Ritscher&lt;/a&gt;&lt;/strong&gt; studied chemistry in Vienna and completed her PhD in Berlin, focusing on solid state chemistry. Currently, she is working at Biotop, of which she is a co-founder, developing modular lab spaces and citizen science projects.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;references&#34;&gt;References:&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.thegingerbreadcity.com/&#34;&gt;https://www.thegingerbreadcity.com/&lt;/a&gt;
+&lt;a href=&#34;https://web.archive.org/web/20130320172232/http://www.wmf.org/sites/default/files/wmf_publication/WMF%20Haiti%20Mission%20Report.pdf&#34;&gt;https://web.archive.org/web/20130320172232/http://www.wmf.org/sites/default/files/wmf_publication/WMF%20Haiti%20Mission%20Report.pdf&lt;/a&gt;
+&lt;a href=&#34;https://www.wmf.org/project/gingerbread-neighborhood&#34;&gt;https://www.wmf.org/project/gingerbread-neighborhood&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Gingerbread House</title>
+      <link>http://biotop.co/blog/xmascal/13/</link>
+      <pubDate>Tue, 13 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/13/</guid>
+      <description>&lt;p&gt;Especially around Christmas time we encounter a special form of pastry - the gingerbread house. It is common in many cultures. But what kind of ideas are behind a sweet edible house and how far can they be traced back?&lt;/p&gt;
+
+&lt;p&gt;Much to our archaeologists&amp;rsquo; delight, we have found model houses from the material remains of different cultures. They help us to piece together a better picture of the architecture of that time, since the remains of settlements from different periods that can be examined during excavations provide only small insights. Built of wood and clay, only the floor areas of most houses are preserved and the clay models of houses allow us to get a better idea of architectural styles. Model houses from Pharaonic Egypt (about 3900 years ago), Bronze Age Greece (about 3700 years ago) or Iron Age Central Europe (about 2600 years ago) have been found. But even if their shape is reminiscent of gingerbread houses, these clay models naturally have nothing to do with today&amp;rsquo;s Christmas tradition.&lt;/p&gt;
+
+&lt;p&gt;There are also finds of honey biscuits in the form of plants, animals and people that were used as sacrificial cakes and grave goods in ancient Egypt. This use continues through antiquity and according to legend &amp;ldquo;Psyche&amp;rdquo; even managed to bribe &amp;ldquo;Kerberos&amp;rdquo; with honey cake when entering and leaving the underworld. The German name &amp;ldquo;Lebkuchen&amp;rdquo; might be derived from the Latin name &amp;ldquo;libum&amp;rdquo; for the sacrificial breads, which were offered in sacrificial rituals to the Roman house gods at the Lararium. The exotic spices that were necessary for the production of ginger bread became increasingly available in Central Europe during the time of the crusades and so the pastry experienced a new high point of popularity. Gingerbread was very much in demand as a long-lasting &amp;ldquo;power food&amp;rdquo; for on the road and also popular as festive pastries. Due to the laborious procurement of the ingredients, however, it was considered a luxury.&lt;/p&gt;
+
+&lt;p&gt;This brings us closer to the origin of the gingerbread house, because in times of famine (as in Europe at the beginning of the 14th century) the idea of the land of milk and honey, the land of abundance, developed. Pieter Bruegel the Elder referred to it in two works, &amp;ldquo;Flemish Proverbs&amp;rdquo; (1559) and &amp;ldquo;The Land of Cockaigne&amp;rdquo; (1567). In the first one, one of the proverbs depicted in a scene of 80, refers to the saying: &amp;ldquo;There the roof is covered with flat cakes (there is abundance)&amp;rdquo;. The idea that a &amp;ldquo;&amp;hellip;little house was made of bread [&amp;hellip;] and covered with cake&amp;hellip;&amp;rdquo; found expression in fairy tales and stories and was written down by the Brothers Grimm in their Children&amp;rsquo;s and Household Tales as the story of Hansel and Gretel in 1812. The main focus here is the poverty in the parental home and the decision to abandon the children. In contrast, the lavish gingerbread house of the anthropophagous witch serves as a symbol of abundance.&lt;/p&gt;
+
+&lt;p&gt;The great popularity of the fairy tale led to the spread of gingerbread houses in many German-speaking, Eastern European, Scandinavian and English-speaking countries, even though the historical background of the ideas is usually no longer appreciated.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;about-the-author&#34;&gt;About the author&lt;/h3&gt;
+
+&lt;p&gt;As an archaeologist &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/martin-fera/&#34;&gt;Martin Fera&lt;/a&gt;&lt;/strong&gt; has researched pharaonic graves in Sudan, bronze age saltmines in Hallstatt or viking burials in Norway. Currently, his research is focused on using data from landscape scans to better understand early iron age cultures in Europe.&lt;/p&gt;
+
+&lt;p&gt;As an architect &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/ralf-bliem/&#34;&gt;Ralf Bliem&lt;/a&gt;&lt;/strong&gt; has a special interest in generative planing processes and modular design. He studied architecture at the UT Vienna and TU Berlin, also he worked at renowned architecture offices in Berlin and Vienna. Ralf is a co-founder of Biotop and at the moment he works with Biotop on the modular design of labs and some more interesting tasks.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shine A Light</title>
+      <link>http://biotop.co/blog/xmascal/12/</link>
+      <pubDate>Mon, 12 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/12/</guid>
+      <description>&lt;p&gt;In the northern hemisphere, daylight dwindles as we approach Christmas - or winter solstice to be more precise. Therefore, it should come as no surprise that we&amp;rsquo;ve developed the custom of putting up nice incandescent decorations to combat the darkness: city centres bathed in Christmas lights, houses adorned with - or at times disfigured by - glowing Christmas decorations; candles lit on the Christmas tree or advent wreath. There&amp;rsquo;s really no shortage of occasions to ponder the magnificence, the warmth, or indeed the physics of light!&lt;/p&gt;
+
+&lt;p&gt;Yet, today, we shall take a rather unusual perspective. Rather than looking into what makes a burning candle glow, or investigating how we can make a wire light up by sending electrons through it, we are turning to a more unusual, but nonetheless fascinating curiosity - the phenomenon of molecules that emit light without the involvement of heat, more accurately referred to as luminescence.&lt;/p&gt;
+
+&lt;p&gt;All molecules are made of atoms, which, in turn, are composed of protons and neutrons that form a nucleus, and electrons that surround it. When atoms form molecules, electrons are shared between the nuclei of different atoms, thereby satisfying the thirst for electrons of each nucleus. In very simple terms, that&amp;rsquo;s what chemical bonds are all about. These shared electrons are negatively charged and attracted by the positively charged nuclei. However, it depends on the nature of the chemical elements that make up the molecule how strong this attraction is. Depending on how strongly electrons are attracted, they can be said to have a different energy.&lt;/p&gt;
+
+&lt;p&gt;The beginning of the 20th century marked a turning point in the physics of very small things - and by extension molecules. The work of the pioneers of quantum mechanics has led us to realise that energy comes in very small, clearly defined packages rather than in a continuum. The energy of electrons in a molecule is no exception: Electrons in a chemical bond sit at a very clearly defined energy level, called the ground-state, and it is only the lowest of many possible ones.&lt;/p&gt;
+
+&lt;p&gt;By shining a light of a particular colour - or, put more precisely, of a defined wavelength - onto a molecule, we can provide the electrons in the chemical bond of this molecule with just the right amount of energy to lift them to the next level. Once there, they&amp;rsquo;ll generally stay up there for a short time, before they fall back to their ground state. Energy can&amp;rsquo;t be lost, though, it can only be converted. So, what happens with the energy that we put into the molecule by shining a light at it? Some of it makes molecules jiggle a lot and is ultimately converted into heat, while some of it may be in turn released in the form of light, but with less energy - or in other words a more reddish colour than the light we originally used to &amp;ldquo;excite&amp;rdquo; the molecule. This is one form of luminescence in a nutshell. It is the reason why your G&amp;amp;T glows in a pale blue when you&amp;rsquo;re in a club, which has UV lights on, it is the reason why glow-in-the-dark paint works and it is but a small taste of the many wonders that await in the world of glowing matter&amp;hellip;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;about-the-author&#34;&gt;About the author&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/lukas-hutter/&#34;&gt;Lukas Hutter&lt;/a&gt;&lt;/strong&gt; studied chemistry in Graz and Systems Biology at the University of Oxford. He is a co-founder of Biotop and works as a teacher in Villach.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Travelling Salesman Problem or How to optimise your Christmas shopping trip</title>
+      <link>http://biotop.co/blog/xmascal/11/</link>
+      <pubDate>Sun, 11 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/11/</guid>
+      <description>&lt;p&gt;The travelling salesman problem is about finding the shortest route between a number of places, visiting each place only once before returning to the starting position. In the attached video, we show the result of a simple algorithm that uses one of many available optimisation approaches to find the shortest route between the central points of all countries. The shortest route can mean shortest by distance or travelling time, or the most cost-effective (or any other measurable quantity or combinations thereof that should be minimised). For a small number of places one wants to visit, it is still relatively easy to calculate all possible round-trips and rank them to find the shortest/best one. However, with a growing number of “cities” on the itinerary, the problem gets very hard to solve indeed. For example given 10 places to visit, there are already a staggering 10! = 3,628,800 number of possible routes. Trying to solve these kind of problems exactly for a large number of position would take much too long even with good computers. Therefore, approximations to solving the travelling salesman problem have been worked out.&lt;/p&gt;
+
+&lt;p&gt;Finding good approaches to address this problem are important in many areas: logistics - the efficient and timely delivery of goods -  is an obvious one. When drilling holes in circuit boards, which requires the drilling of many, many thousands of holes, having an efficient ways of doing so can save a company time and money. On a more personal level, you can also use solutions to the travelling salesman problem to optimise your Christmas shopping route. The “Christkind” must have a particularly neat solution at hand, given that it manages to visit every single household in Austria in just a single night.&lt;/p&gt;
+
+&lt;h4 id=&#34;about-the-authors&#34;&gt;About the authors&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/anna-koeferle/&#34;&gt;Anna Köferle&lt;/a&gt;&lt;/strong&gt; studied Molecular and Cellular Biochemistry at the University of Oxford and then completed a PhD at University College London. She is interested in gene regulation, epigenetics and everything to do with the gene editing tool &amp;ldquo;CRISPR&amp;rdquo;. Since starting as a researcher at Ludwig-Maximilians-Universität in Munich two years ago, she has also developed some interest in topics relating to neurobiology.&lt;/p&gt;
+
+&lt;p&gt;As an architect &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/ralf-bliem/&#34;&gt;Ralf Bliem&lt;/a&gt;&lt;/strong&gt; has a special interest in generative planing processes and modular design. He studied architecture at the UT Vienna and TU Berlin, also he worked at renowned architecture offices in Berlin and Vienna. Ralf is a co-founder of Biotop and at the moment he works with Biotop on the modular design of labs and some more interesting tasks.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h4&gt;
+
+&lt;p&gt;10 Lines Of Coding (as shown in video): &lt;a href=&#34;https://ericphanson.com/blog/2016/the-traveling-salesman-and-10-lines-of-python/&#34;&gt;https://ericphanson.com/blog/2016/the-traveling-salesman-and-10-lines-of-python/&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Useful Second Life for Gift-Wrapping Paper</title>
+      <link>http://biotop.co/blog/xmascal/18/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/18/</guid>
+      <description>&lt;p&gt;Gift-wrapping paper has a curious existence! It is designed to impress, without ever taking centre-stage. It is meant to appeal and to radiate a sense of quality. It is carefully creased and folded, only to by separated from its contents in a few coarse gestures, and to land in the bin, once unwrapping has come. We demand a second life for gift-wrapping paper! Watch our video to learn a useful Origami fold that turns old gift wrapping paper into  an incredibly useful collapsible mobile phone stand!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://biotop.co/xmascal/img/18/LeftoverWrapping_Print.pdf&#34;&gt;Download the instructions as pdf here!&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;about-the-authors&#34;&gt;About the authors&lt;/h4&gt;
+
+&lt;p&gt;As an architect &lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/ralf-bliem/&#34;&gt;Ralf Bliem&lt;/a&gt;&lt;/strong&gt; has a special interest in generative planing processes and modular design. He studied architecture at the UT Vienna and TU Berlin, also he worked at renowned architecture offices in Berlin and Vienna. Ralf is a co-founder of Biotop and at the moment he works with Biotop on the modular design of labs and some more interesting tasks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/lukas-hutter/&#34;&gt;Lukas Hutter&lt;/a&gt;&lt;/strong&gt; studied chemistry in Graz and Systems Biology at the University of Oxford. He is a co-founder of Biotop and works as a teacher in Villach.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fireworks: Colorful Glow</title>
+      <link>http://biotop.co/blog/xmascal/31/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/31/</guid>
+      <description>&lt;p&gt;According to legend, the monk Li Tian of Liu Yang (Hunan region, China) is said to have developed the first fire cracker. Even today, the city of Liu Yang is the capital of fireworks, with approximately 900 factories accounting for two thirds of the global production. And still to this day, most of the local pyrotechnic products are made by hand.&lt;/p&gt;
+
+&lt;p&gt;What would a firework be without the whistling sound of an ascending rocket followed by a display of brilliant colors that illuminate the night sky? Creating an imposing fireworks display is an art form of its own, it is no coincidence that the technical term for creating fireworks - &lt;strong&gt;pyrotechnics&lt;/strong&gt; - comes from the Greek words &lt;em&gt;pyr&lt;/em&gt; (fire) and &lt;em&gt;tekhnikos&lt;/em&gt; (art). Without the knowledge of the physics and chemistry behind pyrotechnics, none of this would be possible. Fireworks are rather complex products. It is possible to think of them as missiles designed to explode in a controlled way.
+A rocket consists of an outer shell, normally made of cardboard, plastic, wood or clay. This shell encloses the pyrotechnic mixture which is responsible for the effect. The long wooden or plastic stick at the bottom of the rocket is used to ensure the firework shoots upwards in a straight line in the intended direction. When igniting the rocket the fuse reacts first and starts the main part of the firework, the charge and the effect. In a complex public firework display, fuses are lit by electrical contacts, called wirebridge fuseheads.&lt;/p&gt;
+
+&lt;p&gt;The charger is usually made of tightly packed, coarse gunpowder that is designed to send the firework up into the sky. It is a rather simple explosive and has nothing to do with the colorful spectacle in the dark. This is the result of the so called “effect load”. The firework rocket can either have one load or multiple loads that are packed into separated compartments and are causing a series of smaller explosions. The pyrotechnic substance consists of a metal salt and an oxidizer that provides the oxygen for combustion.
+During the burning of the mixture enough energy is produced to raise an electron to a higher energy state. When the electron falls back to its ground state, the energy is released in form of light energy, a photon is emitted. This reaction is responsible for the colorful glow in the sky.&lt;/p&gt;
+
+&lt;p&gt;The color of the flare depends on the metal substances used. Sodium, for example, shows a yellow light (590 nm), whereas strontium salts can be used for red light (605 - 682 nm). Barium salts emit light at a wavelength of 490 - 560 nm, giving them a green hue. Blue (435 - 440 nm) is mostly generated using copper salts. In Europe, people traditionally light fireworks for the turn of the year. Why is that? This probably goes back to the ancient Teutons. They believed that during the so called “Rauhnächten” (25.Dec - 6.Jan) evil spirits came to haunt them. They especially feared New Year’s Eve and with loud noise and light they aimed to drive out the darkness and the evil ghosts. Hopefully it worked!&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;about-the-author&#34;&gt;About the author&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/anna-ritscher/&#34;&gt;Anna Ritscher&lt;/a&gt;&lt;/strong&gt; studied chemistry in Vienna and completed her PhD in Berlin, focusing on solid state chemistry. Currently, she is working at Biotop, of which she is a co-founder, developing modular lab spaces and citizen science projects.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gift giving in the animal kingdom</title>
+      <link>http://biotop.co/blog/xmascal/17/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/17/</guid>
+      <description>&lt;p&gt;The tradition of giving each other gifts for Christmas is said to come from the pagan festival of &amp;ldquo;Saturnalia&amp;rdquo;, celebrated by the ancient Romans during December. Romans would give each other inexpensive pottery or wax figurines — probably the Roman equivalent of giving socks for Christmas, although kids would often receive toys instead. They, like all those who will be giving each other a present this Christmas, are engaging in a behaviour that is a lot more ancient than the festival of Saturnalia and even pottery figurines: the act of forfeiting some of your own resources in order to give to somebody else.&lt;/p&gt;
+
+&lt;p&gt;Gift giving is common in every modern culture and was likely present all throughout human history. What&amp;rsquo;s more, looking at the behaviour of many animal species reveals how giving gifts is far from a uniquely human trait. Take our closest living relative, the bonobo. They have been observed sharing food with strangers from different bonobo groups when living in the wild. &lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051922&#34;&gt;Such behaviour has also been studied in individuals living in animal sanctuaries&lt;/a&gt; and it is thought to promote the formation of new social bonds.&lt;/p&gt;
+
+&lt;p&gt;Giving gifts to strangers is a form of altruism that is only observed in highly social animals. Most animals limit their gift giving to their close relatives (kin selection), their sexual partners (courtship behaviour) or members of their own group who might reciprocate later (reciprocal altruism). Many cat owners would have experienced first hand displays of kin selection from their pets. In the wild, cat mothers teach their kittens how to eat their prey by bringing them a small animal catch. And it is female cats who are more likely to bring this form of gifts to their owners. But it is not only mammals who can give gifts. Corvids, which include &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0003347217301161&#34;&gt;ravens and crows, have been shown to display reciprocal altruistic behaviour and remember if an exchange was fair or not, even one month after the fact&lt;/a&gt;. Plenty of folk stories and even some modern media reports tell of &lt;a href=&#34;https://www.bbc.co.uk/news/magazine-31604026&#34;&gt;crows bringing presents to people in exchange for food&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Courtship gifts are undoubtedly the most common form of gift-giving in the animal kingdom. We all have heard of how male penguins use pebbles to court females. It is not, however, some form of penguin wedding ring: penguins use these pebbles to build their nests. This is not to say that animals only care about the practical usefulness of their gifts. Experiments with Eurasian jays have shown that males would present their partners with either moths or worms, depending on what the females have been eating. If the male had seen the female eating moths, she’d be given a worm. &lt;a href=&#34;https://www.pnas.org/content/110/10/4123&#34;&gt;If he saw her eating worms, she’d get a moth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are countless more examples of gift-giving behaviour in the animal kingdom most of which have evolved independently. Gift-giving in humans then, including Christmas gifts, could then be seen as the manifestation of our natural drive to strengthen relationships through sharing.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Meet Biotop</title>
+      <link>http://biotop.co/blog/xmascal/20/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/20/</guid>
+      <description>2018 has been an exciting and eventful year for Biotop. To celebrate this occasion and to provide a sneek peek into 2019, we&amp;rsquo;d like to cordially invite you to visit us in our temporary office at Gerbergasse 3 in Villach.
+Starting at 6 pm, you can expect a program composed of a little look back at Biotop in 2018, and science slams by a neuroscientist, a molecular biologist, a fluid dynamics engineer and an archaeologist, who are coming to Villach especially for this occasion.</description>
+    </item>
+    
+    <item>
+      <title>Our Mission</title>
+      <link>http://biotop.co/blog/xmascal/24/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/24/</guid>
+      <description>&lt;p&gt;To many, science means that people with a liking of acronyms and white coats do things in sterile labs or with complex formulae; things with an air of importance; potentially groundbreaking things; things, which but a handful of people in the world understand. And surly these people also share a love of clumsy acronyms, white lab coats and blackboards full of scribbles.&lt;/p&gt;
+
+&lt;p&gt;At least some of these cliches are somewhat grounded in truth. However, the picture they paint has a key ingredient missing: passion!
+Whoever does science is haunted; addicted to those moments when they catch a glimpse of the beauty of that which is - be it the microscopic world of the cell, where bridges self-assemble and disassemble themselves, while knobbly proteins wobble across at phenomenal speeds; the mysterious quantum world, where thing generally run counter to our intuitions fostered by the &amp;ldquo;big world&amp;rdquo;; or cosmic ballets, where celestial bodies are formed from stardust, and bend space and time. For these glimpses, they take it on with their own ignorance, and pay the price of hitting the proverbial wall over and over again, before they broaden their horizon (just a little bit).&lt;/p&gt;
+
+&lt;p&gt;Yet, for us all to profit from these singular events of broadening of one&amp;rsquo;s horizon, in order to better cope with the complex world that surrounds us, science needs to be communicated. Not as an end in itself, but in a manner that&amp;rsquo;s integrated into the research process.
+This is where we see our responsibility as scientists towards society, and our mission as a science collective.
+Following this route promises to be fascinating, for the stories we know to tell are breathtaking. With artists at our side, we&amp;rsquo;re certain to be able to tell them in exciting ways. Yet, we do not intent to focus on telling stories alone, but plan to open our workshop and work process, share our resources, be a source of advice and help, conduct research alongside interested members of the public, and be a partner in all sorts of tinkering projects.&lt;/p&gt;
+
+&lt;p&gt;There are a lot of exciting projects in store for 2019! To stay in touch, &lt;a href=&#34;https://mailchi.mp/762223d8965a/biotop-newsletter&#34;&gt;subscribe to our brand new newsletter&lt;/a&gt;, or even become a supporting member by emailing &lt;a href=&#34;mailto:joinus@biotop.co&#34;&gt;joinus@biotop.co&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;about-the-authors&#34;&gt;About the authors&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/anna-koeferle/&#34;&gt;Anna Köferle&lt;/a&gt;&lt;/strong&gt; studied Molecular and Cellular Biochemistry at the University of Oxford and then completed a PhD at University College London. She is interested in gene regulation, epigenetics and everything to do with the gene editing tool &amp;ldquo;CRISPR&amp;rdquo;. Since starting as a researcher at Ludwig-Maximilians-Universität in Munich two years ago, she has also developed some interest in topics relating to neurobiology.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://www.stulowitz.at&#34;&gt;Wolfgang Schütz&lt;/a&gt;&lt;/strong&gt;, is an illustrator and game developer from Villach. His studies of multimedia art led him to Salzburg where he&amp;rsquo;s been living for the past ten years. He started to work as a freelancer under the synonym &lt;strong&gt;&lt;a href=&#34;http://www.stulowitz.at&#34;&gt;Stulowitz&lt;/a&gt;&lt;/strong&gt; in 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/lukas-hutter/&#34;&gt;Lukas Hutter&lt;/a&gt;&lt;/strong&gt; studied chemistry in Graz and Systems Biology at the University of Oxford. He is a co-founder of Biotop and works as a teacher in Villach.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sparklers: Hot or Not</title>
+      <link>http://biotop.co/blog/xmascal/22/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/22/</guid>
+      <description>&lt;p&gt;It all started 1400 years ago with a legend. For months there has been a storm with torrential rainfall in the city of Liu Yang (Hunan region, China). People suffered from hunger and disease. To put an end to the misery, the monk Li Tian used bamboo pipes filled with saltpetre, charcoal and sulphur to drive out evil spirits and the dreadful thunderstorms. The first firecracker was developed. There is no scientific evidence as to whether this myth actually occurred, but to this day the monk is revered in the area. Today, we want to talk about the probably simplest form of a firework: The sparkler.&lt;/p&gt;
+
+&lt;p&gt;It usually consists of a long steel wire coated with an ignitable paste composed of metal powder, an oxidizer and a binder. While the grain size of the powder is crucial for the characteristic sparkling, barium nitrate is usually used as an oxidizing agent to provide the oxygen that is necessary for the reaction. When the sparkler is ignited, the metallic component produces small glowing sparks that are fired in all directions. Depending on the metal powder used, these sparks light up in different colours and can reach temperatures of up to 2000 °C. That means the sparks are extremely hot.&lt;/p&gt;
+
+&lt;p&gt;But why not burn yourself if you get hit by a spark? The reason is the difference between temperature and heat. Every object has a so-called thermal energy which depends on its temperature, its mass and the specific heat capacity, i.e. the type of material. The larger the mass of a body, the higher its thermal energy. The heat capacity indicates how well a material can store heat. The sparks of a sparkler have a very small mass. As a result, their thermal energy is relatively low. The tiny sparks cannot store the heat for a long time and cool down on the skin so quickly that they cannot cause severe damage. A sparkler is not dangerous when used safely. So nothing gets in the way of a sparkling Christmas eve.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;about-the-author&#34;&gt;About the author&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/anna-ritscher/&#34;&gt;Anna Ritscher&lt;/a&gt;&lt;/strong&gt; studied chemistry in Vienna and completed her PhD in Berlin, focusing on solid state chemistry. Currently, she is working at Biotop, of which she is a co-founder, developing modular lab spaces and citizen science projects.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stress</title>
+      <link>http://biotop.co/blog/xmascal/23/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/23/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s a matter of common sense that the festive season is amongst the least healthy times of the year. Statistically, it is characterised by a significant increase in circulatory diseases, which is likely caused by a combination of a delay in seeking healthcare advice, overindulgence in the course of festive meals and Christmas parties, and increased emotional stress. Whereas the former two make sense, but may not be perceived as a burden as such, stress definitely is.&lt;/p&gt;
+
+&lt;p&gt;Reduced hours of daylight have a well-documented effect on mood. Yet, the short hours of daylight around Christmas are no more than icing on the cake. The days preceding Christmas are a minefield of stressors, ranging from increased workload towards the end of the year to various social duties, such as buying gifts and attending celebrations. Spending time with one&amp;rsquo;s family may help combat stress, but is also abound with factors that can make things even worse: The idyllic Christmas - a perfect time with one&amp;rsquo;s family, respectful conversations and great food - is not only a marketing trope that&amp;rsquo;s hard to evade these days, it also fuels expectation overload that will cause stress, once we realise that our unrealistic expectations are confronted by a well-intentioned mess of social complexity.&lt;/p&gt;
+
+&lt;p&gt;We have to thank a little molecule called cortisol for the fact that we can get stressed out in the first place. It is produced by our adrenal cortex and signals to the body that it&amp;rsquo;s time to divert resources to deal with a potentially life-threatening situation, entailing a so-called fight or flight response. From an evolutionary perspective this makes perfect sense of course! When you encounter a hungry bear in the wild, it makes perfect sense to get stressed by it, for this will focus your body&amp;rsquo;s resources on either facing the bear, or making a dash for it and getting away as quickly as possible.&lt;/p&gt;
+
+&lt;p&gt;Our animal brains are not attuned to life in modern society, where many, not in the least life-threatening situations trigger stress. The result can be chronic stress, which has numerous negative effects on our health. Apart from increasing the risk for suffering from cardiovascular diseases, chronic stress can cause or contribute to depression, panic attacks and deteriorating cognitive abilities. An extreme example of the latter has been demonstrated in several studies, where chronic stress triggered a reduction in the volume of certain brain areas in genetically predisposed individuals.&lt;/p&gt;
+
+&lt;p&gt;Of course, this does not mean that Christmas will make your brain shrink! However, we should consider it a cautionary tale of the dangers of prolonged stress. Christmas doesn&amp;rsquo;t have to contribute, and we should probably pause more often to free ourselves from unrealistic expectations and focus on the good intentions rather than on the resulting mess of social complexity.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;about-the-author&#34;&gt;About the author&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://biotop.co/en/person/lukas-hutter/&#34;&gt;Lukas Hutter&lt;/a&gt;&lt;/strong&gt; studied chemistry in Graz and Systems Biology at the University of Oxford. He is a co-founder of Biotop and works as a teacher in Villach.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Darkest Day</title>
+      <link>http://biotop.co/blog/xmascal/21/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/21/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s the 21st of December today - the darkest, the shortest day of the year measured in hours of sunshine. Why do the days have different lengths, why are there seasons and when are we closest to the sun? Questions like these will be answered in today&amp;rsquo;s Advent calendar article.&lt;/p&gt;
+
+&lt;p&gt;Already in school one learns from the division of the year into four seasons, spring, summer, autumn and winter. Nature and man have always adapted to this annual rhythm. Since Nicolaus Copernicus [1] and Johannes Kepler [2] we know also in Europe that the earth moves around the sun and that its orbit, inclination and self-rotation are decisive for our time measurement.&lt;/p&gt;
+
+&lt;p&gt;What is the reason for this?
+The sun, as a large glowing gas ball, forms the centre of our solar system and has an attracting effect (gravitational force) on all nearby objects, e.g. the earth and all planets, as well as rocks (asteroids) in our solar system.
+These mentioned objects are attracted by the sun, but (most of them) do not fall into it, because they move on elliptical orbits around the sun.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Do it yourself:&lt;/strong&gt; Ellipses constructed by yourself. Take a cork plate, place a sheet of paper over it and fix two drawing pins (the so-called focal points) on the cork plate (at a distance of about 10 cm). Tie the two ends of an approx. 15 cm long yarn to it. Now tighten the yarn with a pencil and move the pencil around the drawing pins with the string tightened. This should create an ellipse (see figure 1).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure&gt;
+    &lt;img src=&#34;http://biotop.co/xmascal/img/21/Ellipse.gif&#34;/&gt; 
+&lt;/figure&gt;
+
+
+&lt;p&gt;This is a fragile equilibrium that has developed over the billions of years.
+If you randomly place objects around a star with random initial velocity, most of them collide or fall into the star. Only very few find a stable orbit, like our planets and moons.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The science of freezing - How to keep warm</title>
+      <link>http://biotop.co/blog/xmascal/19/</link>
+      <pubDate>Thu, 08 Nov 2018 17:02:52 +0100</pubDate>
+      
+      <guid>http://biotop.co/blog/xmascal/19/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Image: Frank E. Kleinschmidt - Library of Congress Prints and Photographs Division, Washington, DC 20540&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Winter is coming and it is getting cold. How does the human body react to cold, what mechanisms help the body to keep its operating temperature and how can you keep warm in winter? To answer these questions, today&amp;rsquo;s Christmas calendar entry deals with the topic of warmth and humans. What is heat, how much heat does the human body produce and how does it give off heat?&lt;/p&gt;
+
+&lt;p&gt;The human body can be regarded as a thermodynamic machine that produces heat during its movements and molecular biological processes (thinking also requires energy). This heat output amounts approximately to 150 watts, i.e. about the output of two and a half classic 60 watt light bulbs (or about 15 new LED filament lamps). In general, this heat must be emitted to the outside. For this purpose the human body provides some sophisticated techniques:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Heat dissipation via the skin: Each body emits heat via convection to its environment (air). The air near the warm skin is heated and absorbs the heat of the human body. Air flows always bring fresh (cooler) air to the skin and can thus absorb further heat.
+This heat transfer can be imagined in detail: If a cool air molecule collides with a warm human skin molecule (the skin molecule swings strongly according to its temperature), the air molecule is literally thrown away, and has a much higher speed and thus higher energy than before (it is warmer).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Radiant heat: Every body emits heat rays (so-called infrared radiation) at different frequencies depending on the temperature. One knows these completely harmless rays from thermal imaging cameras, in which these can be made visible and one recognizes objects by their heat output. People cannot see these infrared rays, but they can feel them, just think of a so-called infrared cabin.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Emission of matter: Human bodies absorb and release matter (food, excreta) through his metabolism. The released substances are usually warmer than the absorbed ones. Just think of the breathing air.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sweating: This represents an ingenious cooling method used by the body when the outside temperature or human heat production (during physical exertion) is so high that the heat emission via the air and radiation is no longer sufficient to cool the body. When sweating, the human being emits water, which then evaporates on the surface of the skin. In order to make water evaporate, it requires a lot of heat, which the human body can then emit (2.4 kilojoules per millilitre of sweat).&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    
+    <item>
+      <title>Third Biotop Meeting</title>
+      <link>http://biotop.co/blog/meeting-october-2018/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/meeting-october-2018/</guid>
+      <description>On a sunny weekend at the end of October, we gathered at Groppenstein castle near Mallnitz-Obervellach in Carinthia for our third meeting.
+ We welcomed three new additions to the group: Gerhard Dorn, Dieter Gutschi, and Ugne Greivyte. We started off with a recap of recent developments regarding the Container Lab project, as well as our participation in the London Design Festival. This was followed by a discussion of future plans.</description>
+    </item>
+    
+    <item>
+      <title>Biodesign Here Now</title>
+      <link>http://biotop.co/blog/biodesign_here_now/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/biodesign_here_now/</guid>
+      <description>We recently had the chance to be a part of the London Design Festival, by contributing to the &amp;ldquo;Biodesign Here Now&amp;rdquo; exhibition at the OpenCell campus in Shepherd&amp;rsquo;s Bush. We installed our exhibition &amp;ldquo;See the invisible&amp;rdquo;, which we already had on display in Villach last Christmas.
+ In addition, we conducted workshops in the Open Cell container lab that we designed the interior layout for and helped build back in May.</description>
+    </item>
+    
+    <item>
+      <title>Biotop X OpenCell</title>
+      <link>http://biotop.co/blog/opencell/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/opencell/</guid>
+      <description>We just got back from London, where we helped our friends at OpenCell furnish their first container lab.
+How did this happen? Well, about a month ago we were contacted by Helene Steiner, who, together with Thomas Meany, is in the process of setting up a container village for small biotech startups in the heart of London. The idea is to provide a professional workspace (10 biolabs, 20 offices, 10 studios for artists and designers, 4 workshop containers, 1 store) to small businesses and startups.</description>
+    </item>
+    
+    <item>
+      <title>See the invisible</title>
+      <link>http://biotop.co/blog/invisible-behind-scenes/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/invisible-behind-scenes/</guid>
+      <description>Here we would like to give you a peek behind the scenes of how we put together our exhibition &amp;ldquo;See the invisible&amp;rdquo;. We came up with the concept and gathered together the individual contributions during our November meeting (read about it in this blog post).
+Given that we all live in separate places, we had to find a good way of orangising and coordinating tasks remotely. We decided to use the project planning app &amp;ldquo;Trello&amp;rdquo; for this purpose and created an in silico plan for our exhibition.</description>
+    </item>
+    
+    <item>
+      <title>See the invisible</title>
+      <link>http://biotop.co/blog/invisible-catalogue/</link>
+      <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/invisible-catalogue/</guid>
+      <description>We are in the process of putting together a catalogue for our exhibition &amp;ldquo;See the invisible&amp;rdquo;, which was on display in Villach from 22/12/2017 until 3/2/2018.
+Watch this space.
+Meanwhile, here are some pictures of the exhibits:
+         Photos: Andreas Körner &amp;amp; Anna Köferle</description>
+    </item>
+    
+    <item>
+      <title>Containerlab</title>
+      <link>http://biotop.co/projects/containerlab/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/projects/containerlab/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+    </item>
+    
+    <item>
+      <title>DNA Barcoding</title>
+      <link>http://biotop.co/projects/barcoding/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/projects/barcoding/</guid>
+      <description>What is DNA-barcoding?  DNA-barcoding is a method that is uses a small section of the DNA to specify an organism. The chosen section has to be unique for every species. It is called barcode because it can be assigned distinctively like a supermarket barcode to a product.
+DNA stores genetic information like computercode only instead of the numbers 0 and 1 DNA uses four bases as &amp;lsquo;letters&amp;rsquo;: adenine, thymine, cytosine and guanine.</description>
+    </item>
+    
+    <item>
+      <title>Second Biotop Meeting</title>
+      <link>http://biotop.co/blog/meeting-november-2017/</link>
+      <pubDate>Sat, 18 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/meeting-november-2017/</guid>
+      <description>The second meeting of Biotopists took place in Vienna from 17th-19th November 2017. Over the course of three days we met at Spazio Pulpo to discuss progress and plan the Biotop Christmas event. Friday evening was dedicated to catching up. People arrived from various places - quite a few Biotop members live in Vienna, others had to travel from London, Oxford, Munich, and Villach. For those who hadn&amp;rsquo;t been able to attend the first Biotop meeting in July, this was the first time they met the other members of Biotop in person.</description>
+    </item>
+    
+    <item>
+      <title>Biotop Kick-Off Meeting</title>
+      <link>http://biotop.co/blog/meeting-july-2017/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/meeting-july-2017/</guid>
+      <description>So, this happened. The first ever Biotop meeting took place in Villach last weekend (28th-30th July 2017). Around 20 people who had each individually voiced their interest in joining the Biotop family but had (bar a few exceptions) never met in person descended on our small town to forge new friendships, set up collaborations and get some projects off the ground.
+ People came to Villach from various different places including London, Oxford, Munich, Vienna, Graz, Salzburg (some participants from New York and Oxford joined the meeting online) and brought expertise in a variety of backgrounds with them.</description>
+    </item>
+    
+    <item>
+      <title>Science Comic</title>
+      <link>http://biotop.co/projects/sciencecomic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/projects/sciencecomic/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
+Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+    </item>
+    
+    <item>
+      <title>Andreas Körner</title>
+      <link>http://biotop.co/people/andreas-koerner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/andreas-koerner/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

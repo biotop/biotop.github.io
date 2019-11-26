@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on Biotop Science Collective</title>
+    <link>http://biotop.co/people/</link>
+    <description>Recent content in People on Biotop Science Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Aug 2019 09:22:36 +0200</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lukas Hutter</title>
+      <link>http://biotop.co/people/lukas-hutter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/lukas-hutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Köferle</title>
+      <link>http://biotop.co/people/anna-koeferle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/anna-koeferle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ralf Bliem</title>
+      <link>http://biotop.co/people/ralf-bliem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/ralf-bliem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Ritscher</title>
+      <link>http://biotop.co/people/anna-ritscher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/anna-ritscher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Wächter-Mittersteiner</title>
+      <link>http://biotop.co/people/anna-waechter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/anna-waechter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Fera</title>
+      <link>http://biotop.co/people/martin-fera/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/martin-fera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wolfgang Schütz</title>
+      <link>http://biotop.co/people/wolfi-schuetz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/wolfi-schuetz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariangela Panniello</title>
+      <link>http://biotop.co/people/mariangela-panniello/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/mariangela-panniello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Maffulli</title>
+      <link>http://biotop.co/people/roberto-maffulli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/roberto-maffulli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreas Körner</title>
+      <link>http://biotop.co/people/andreas-koerner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/people/andreas-koerner/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

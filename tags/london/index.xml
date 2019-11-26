@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>london on Biotop Science Collective</title>
+    <link>http://biotop.co/tags/london/</link>
+    <description>Recent content in london on Biotop Science Collective</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://biotop.co/tags/london/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Biodesign Here Now</title>
+      <link>http://biotop.co/blog/biodesign_here_now/</link>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/biodesign_here_now/</guid>
+      <description>We recently had the chance to be a part of the London Design Festival, by contributing to the &amp;ldquo;Biodesign Here Now&amp;rdquo; exhibition at the OpenCell campus in Shepherd&amp;rsquo;s Bush. We installed our exhibition &amp;ldquo;See the invisible&amp;rdquo;, which we already had on display in Villach last Christmas.
+ In addition, we conducted workshops in the Open Cell container lab that we designed the interior layout for and helped build back in May.</description>
+    </item>
+    
+    <item>
+      <title>Biotop X OpenCell</title>
+      <link>http://biotop.co/blog/opencell/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/opencell/</guid>
+      <description>We just got back from London, where we helped our friends at OpenCell furnish their first container lab.
+How did this happen? Well, about a month ago we were contacted by Helene Steiner, who, together with Thomas Meany, is in the process of setting up a container village for small biotech startups in the heart of London. The idea is to provide a professional workspace (10 biolabs, 20 offices, 10 studios for artists and designers, 4 workshop containers, 1 store) to small businesses and startups.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1567 @@
+<!DOCTYPE html>
+<html><head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>The Wonderful Physics of Snowflakes - Biotop Science Collective</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="http://biotop.co/favicon.png">
+
+  
+  <link rel="stylesheet" href="http://biotop.co/bundle.min.css">
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+  
+  <script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+  MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+  });
+  MathJax.Hub.Queue(function() {
+    
+    
+    
+    var all = MathJax.Hub.getAllJax(), i;
+    for(i = 0; i < all.length; i += 1) {
+        all[i].SourceElement().parentNode.className += ' has-jax';
+    }
+  });
+
+  MathJax.Hub.Config({
+  
+  TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+
+  MathJax.Ajax.config.path["mhchem"] =
+  "https://cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.3.2";
+  MathJax.Hub.Config({
+    TeX: {
+      extensions: ["[mhchem]/mhchem.js"]
+    }
+  });
+</script>
+
+
+  
+  <script type="text/javascript" src="https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js"></script>
+
+  
+  <script type="text/javascript" src="/bundle.min.js"></script>
+
+  <script type="text/javascript">
+
+  </script>
+
+
+</head>
+<body class="">
+  <nav class="navbar is-fixed-top">
+  <div class="container">
+    <div class="navbar-brand" style="z-index:50">
+      
+      <a id="logo" class="navbar-item" href="/">
+        <img src="/img/biotoptext.svg">
+      </a>
+
+      <div class="navbar-item" id="breadcrumb">
+        <nav class="breadcrumb" aria-label="breadcrumbs">
+    <div class="navbar-start">
+      <ul>
+        
+
+
+
+
+
+<li>
+  <a href="http://biotop.co/">Home</a>
+</li>
+
+
+<li>
+  <a href="http://biotop.co/blog/">Blog, News &amp; Events</a>
+</li>
+
+
+<li class="active">
+  <a href="http://biotop.co/blog/xmascal/06/">The Wonderful Physics of Snowflakes</a>
+</li>
+
+      </ul>
+    </div>
+</nav>
+
+<ol  class="nav navbar-nav">
+</ol>
+
+
+      </div>
+
+      <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+    <div class="navbar-menu" id="navMenu">
+      
+      <div class="navbar-end">
+        <div class="padded">
+          <ul id="sb-menu" class="menu-list">
+  
+  
+  
+  
+  
+  
+  <li>
+    <a class="anchor" href="http://biotop.co///#mission-statement">
+      
+      <i class="fa fa-rocket has-text-primary"></i>
+      
+      Mission Statement
+    </a>
+  </li>
+  
+  
+  
+  
+  
+  
+  
+  <li>
+    <a class="anchor" href="http://biotop.co///#participate-support">
+      
+      <i class="fa fa-heart has-text-danger"></i>
+      
+      Participate &amp; Support
+    </a>
+  </li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/people/">
+      
+      <i class="fas fa-users has-text-success"></i>
+      
+      People
+    </a>
+  </li>
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/projects/">
+      
+      <i class="fa fa-bolt has-text-warning"></i>
+      
+      Projects
+    </a>
+  </li>
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/blog/">
+      
+      <i class="far fa-newspaper"></i>
+      
+      Blog, News &amp; Events
+    </a>
+  </li>
+  
+
+  
+  <p class="menu-label"> Translations</p>
+  <ul class="menu-list">
+    
+    <li>
+      <a  class="anchor" href="http://biotop.co/de/blog/xmascal/06/">Deutsch</a>
+    </li>
+    
+  </ul>
+  
+
+
+  
+  
+  <p class="menu-label">See Also</p>
+  <ul class="menu-list">
+    
+    <li><a  class="anchor" href="/blog/xmascal/05/">Krampus</a></li>
+    
+    <li><a  class="anchor" href="/blog/xmascal/04/">Do you remember that taste?</a></li>
+    
+    <li><a  class="anchor" href="/blog/xmascal/03/">The Oldest Cookie Recipe</a></li>
+    
+    <li><a  class="anchor" href="/blog/xmascal/02/">Earwormology</a></li>
+    
+    <li><a  class="anchor" href="/blog/xmascal/01/">A Christmas Lecture As Wall Newspaper</a></li>
+    
+  </ul>
+  
+</ul>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</nav>
+
+  
+<section class="hero is-fullheight has-background feature-hero top-hero">
+  <img class="hero-background" src="/"  alt="">
+  <div class="hero-body">
+  </div>
+  <div class="hero-foot has-padding">
+    <div class="next-prev">
+      <div class="next">
+      
+        <a class="button is-light" href="http://biotop.co/blog/xmascal/07/">
+          <i class="fas fa-chevron-left fa-lg"></i>
+        </a>
+      
+    </div>
+    <div class="prev">
+      
+        <a class="button is-light" href="http://biotop.co/blog/xmascal/05/">
+          <i class="fas fa-chevron-right fa-lg"></i>
+        </a>
+      
+    </div>
+    </div>
+    <div class="container section">
+  <div class="columns">
+    <div class="column is-9 has-text-left meta">
+      
+      <a href="http://biotop.co///tags/exhibition/">
+        <span class="menu-label">
+          #exhibition
+        </span>
+      </a>
+      
+      <a href="http://biotop.co///tags/villach/">
+        <span class="menu-label">
+          #villach
+        </span>
+      </a>
+      
+      <a href="http://biotop.co///tags/xmascal/">
+        <span class="menu-label">
+          #xmascal
+        </span>
+      </a>
+      
+    </div>
+    <div class="column is-3 has-text-right meta">
+      
+      <span class="menu-label has-text-info">06.12.2018</span>
+      
+    </div>
+  </div>
+  <div class="columns">
+    <div class="column is-8 has-text-left has-margin-bottom">
+      <h1 class="title has-little-margin">
+        The Wonderful Physics of Snowflakes
+      </h1>
+      <h2 class="subtitle">
+        Biotop Christmas Calendar Day 6
+      </h2>
+    </div>
+    <div class="column is-4">
+      <div class="columns is-mobile">
+        
+        
+        
+          <div class="column is-half">
+    <div class="is-flex has-text-centered" style="justify-content:center">
+      <a href="">
+        <div class="is-flex" style="justify-content:center">
+          <figure class="image is-32x32 ov-img is-hidden-mobile">
+            <img class="is-rounded" src="/img/person/luki.jpg">
+          </figure>
+        </div>
+        <h2 class="hero-quote ov"> Lukas Hutter</h2>
+        <h3 class="hero-quote ov"></h3>
+      </a>
+    </div>
+  </div>
+
+        
+        
+        
+          <div class="column is-half">
+    <div class="is-flex has-text-centered" style="justify-content:center">
+      <a href="">
+        <div class="is-flex" style="justify-content:center">
+          <figure class="image is-32x32 ov-img is-hidden-mobile">
+            <img class="is-rounded" src="/img/person/roberto.jpg">
+          </figure>
+        </div>
+        <h2 class="hero-quote ov"> Roberto Maffulli</h2>
+        <h3 class="hero-quote ov"></h3>
+      </a>
+    </div>
+  </div>
+
+        
+      </div>
+    </div>
+
+  </div>
+</div>
+
+  </div>
+</section>
+
+
+        <section class="section">
+          <div id="content" class="columns is-centered">
+<div class="column is-hidden-mobile is-2">
+  <aside class="menu is-hidden-mobile has-padding-1em">
+  <div class="tabs">
+    <ul>
+      <li class="tab is-active" onclick="openTab(event,'content-sb-tab-menu')"><a class="menu-label">Menu</a></li>
+      <li class="tab" onclick="openTab(event,'content-sb-tab-calendar')"><a class="menu-label">Calendar</a></li>
+    </ul>
+  </div>
+
+  
+  <div class="tab-content">
+    <div class="content-tab" id="content-sb-tab-menu">
+      <ul id="sb-menu" class="menu-list">
+  
+  
+  
+  
+  
+  
+  <li>
+    <a class="anchor" href="http://biotop.co///#mission-statement">
+      
+      <i class="fa fa-rocket has-text-primary"></i>
+      
+      Mission Statement
+    </a>
+  </li>
+  
+  
+  
+  
+  
+  
+  
+  <li>
+    <a class="anchor" href="http://biotop.co///#participate-support">
+      
+      <i class="fa fa-heart has-text-danger"></i>
+      
+      Participate &amp; Support
+    </a>
+  </li>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/people/">
+      
+      <i class="fas fa-users has-text-success"></i>
+      
+      People
+    </a>
+  </li>
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/projects/">
+      
+      <i class="fa fa-bolt has-text-warning"></i>
+      
+      Projects
+    </a>
+  </li>
+  
+  <li>
+    <a  class="anchor" href="http://biotop.co/blog/">
+      
+      <i class="far fa-newspaper"></i>
+      
+      Blog, News &amp; Events
+    </a>
+  </li>
+  
+
+  
+  <p class="menu-label"> Translations</p>
+  <ul class="menu-list">
+    
+    <li>
+      <a  class="anchor" href="http://biotop.co/de/blog/xmascal/06/">Deutsch</a>
+    </li>
+    
+  </ul>
+  
+
+
+  
+  
+  <p class="menu-label">See Also</p>
+  <ul class="menu-list">
+    
+    <li><a  class="anchor" href="/blog/xmascal/05/">Krampus</a></li>
+    
+    <li><a  class="anchor" href="/blog/xmascal/04/">Do you remember that taste?</a></li>
+    
+    <li><a  class="anchor" href="/blog/xmascal/03/">The Oldest Cookie Recipe</a></li>
+    
+    <li><a  class="anchor" href="/blog/xmascal/02/">Earwormology</a></li>
+    
+    <li><a  class="anchor" href="/blog/xmascal/01/">A Christmas Lecture As Wall Newspaper</a></li>
+    
+  </ul>
+  
+</ul>
+
+    </div>
+    <div class="content-tab" id="content-sb-tab-calendar" style="display:none">
+      <ul id="sb-cal" class="menu-list">
+        <div class="columns is-centered is-multiline">
+  <div class="column is-full">
+    <input id="calendar" type="date" data-display-mode="inline" data-show-clear-button="false">
+  </div>
+  <div class="column is-full">
+    <div class="columns is-multiline">
+      <div class="column is-full">
+        <h1></h1>
+      </div>
+      <div class="calendar-search-results">
+        
+        
+        <div class="search-item column is-full cls-2019-12-19">
+          <div class="content">
+            <a href="http://biotop.co/blog/human-nature/">
+              <p class="title is-7 has-text-info ">19.12.2019</p>
+              <p class="title is-6 has-text-primary ">Human Nature</p>
+              <p class="subtitle is-7 has-text-grey ">Film screening in collaboration with Filmstudio Villach followed by a panel discussion</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2019-12-07">
+          <div class="content">
+            <a href="http://biotop.co/blog/vortex/">
+              <p class="title is-7 has-text-info ">07.12.2019</p>
+              <p class="title is-6 has-text-primary ">Vortex</p>
+              <p class="subtitle is-7 has-text-grey ">Understanding complexity</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2019-08-17">
+          <div class="content">
+            <a href="http://biotop.co/blog/grabelsdorf/">
+              <p class="title is-7 has-text-info ">17.08.2019</p>
+              <p class="title is-6 has-text-primary ">Archaeological dig - Grabelsdorf</p>
+              <p class="subtitle is-7 has-text-grey ">Archaeological dig in Grabelsdorf, Austria (17th-18th August 2019)</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2019-02-19">
+          <div class="content">
+            <a href="http://biotop.co/blog/color-quest/">
+              <p class="title is-7 has-text-info ">19.02.2019</p>
+              <p class="title is-6 has-text-primary ">Color Quest</p>
+              <p class="subtitle is-7 has-text-grey ">Our entry for the Science Comics for Kids competition by the Austrian Academy of Sciences</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-12">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/10/">
+              <p class="title is-7 has-text-info ">12.12.2018</p>
+              <p class="title is-6 has-text-primary ">The Natural History of Reindeer</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Adventkalender Tag 10</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-09">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/09/">
+              <p class="title is-7 has-text-info ">09.12.2018</p>
+              <p class="title is-6 has-text-primary ">Christmas, 1000 years ago</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Christmas Calendar Day 9</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-08">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/08/">
+              <p class="title is-7 has-text-info ">08.12.2018</p>
+              <p class="title is-6 has-text-primary ">Last Christmas I gave you my heart, but the very next day you gave it away...</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Christmas Calendar Day 8</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-07">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/07/">
+              <p class="title is-7 has-text-info ">07.12.2018</p>
+              <p class="title is-6 has-text-primary ">Pinus Sylvestris</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Christmas Calendar Day 7</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-06">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/06/">
+              <p class="title is-7 has-text-info ">06.12.2018</p>
+              <p class="title is-6 has-text-primary ">The Wonderful Physics of Snowflakes</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Christmas Calendar Day 6</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-05">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/05/">
+              <p class="title is-7 has-text-info ">05.12.2018</p>
+              <p class="title is-6 has-text-primary ">Krampus</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Christmas Calendar Day 5</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-04">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/04/">
+              <p class="title is-7 has-text-info ">04.12.2018</p>
+              <p class="title is-6 has-text-primary ">Do you remember that taste?</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Christmas Calendar Day 4</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-03">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/03/">
+              <p class="title is-7 has-text-info ">03.12.2018</p>
+              <p class="title is-6 has-text-primary ">The Oldest Cookie Recipe</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Christmas Calendar Day 3</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-02">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/02/">
+              <p class="title is-7 has-text-info ">02.12.2018</p>
+              <p class="title is-6 has-text-primary ">Earwormology</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Christmas Calendar Day 2</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-12-01">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/01/">
+              <p class="title is-7 has-text-info ">01.12.2018</p>
+              <p class="title is-6 has-text-primary ">A Christmas Lecture As Wall Newspaper</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop Christmas Calendar Day 1</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-30">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal2018/">
+              <p class="title is-7 has-text-info ">30.11.2018</p>
+              <p class="title is-6 has-text-primary ">Biotop Christmas Calendar</p>
+              <p class="subtitle is-7 has-text-grey ">A scientific christmas calendar</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-16">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/16/">
+              <p class="title is-7 has-text-info ">16.11.2018</p>
+              <p class="title is-6 has-text-primary ">Giftwrapping with Architects</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-15">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/15/">
+              <p class="title is-7 has-text-info ">15.11.2018</p>
+              <p class="title is-6 has-text-primary ">Shine A Light pt. 2 - Spectroscopy Workshop</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-14">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/14/">
+              <p class="title is-7 has-text-info ">14.11.2018</p>
+              <p class="title is-6 has-text-primary ">Gingerbreadhouses and Architecture</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-13">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/13/">
+              <p class="title is-7 has-text-info ">13.11.2018</p>
+              <p class="title is-6 has-text-primary ">The Gingerbread House</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-12">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/12/">
+              <p class="title is-7 has-text-info ">12.11.2018</p>
+              <p class="title is-6 has-text-primary ">Shine A Light</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-11">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/11/">
+              <p class="title is-7 has-text-info ">11.11.2018</p>
+              <p class="title is-6 has-text-primary ">The Travelling Salesman Problem or How to optimise your Christmas shopping trip</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/18/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">A Useful Second Life for Gift-Wrapping Paper</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/31/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Fireworks: Colorful Glow</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/17/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Gift giving in the animal kingdom</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/20/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Meet Biotop</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/24/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Our Mission</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/22/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Sparklers: Hot or Not</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/23/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">Stress</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/21/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">The Darkest Day</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-11-08">
+          <div class="content">
+            <a href="http://biotop.co/blog/xmascal/19/">
+              <p class="title is-7 has-text-info ">08.11.2018</p>
+              <p class="title is-6 has-text-primary ">The science of freezing - How to keep warm</p>
+              <p class="subtitle is-7 has-text-grey "></p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-10-22">
+          <div class="content">
+            <a href="http://biotop.co/blog/meeting-october-2018/">
+              <p class="title is-7 has-text-info ">22.10.2018</p>
+              <p class="title is-6 has-text-primary ">Third Biotop Meeting</p>
+              <p class="subtitle is-7 has-text-grey ">19th-21st October 2018, Burg Groppenstein</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-10-06">
+          <div class="content">
+            <a href="http://biotop.co/blog/biodesign_here_now/">
+              <p class="title is-7 has-text-info ">06.10.2018</p>
+              <p class="title is-6 has-text-primary ">Biodesign Here Now</p>
+              <p class="subtitle is-7 has-text-grey ">Biotop @ London Design Festival 2018</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-05-25">
+          <div class="content">
+            <a href="http://biotop.co/blog/opencell/">
+              <p class="title is-7 has-text-info ">25.05.2018</p>
+              <p class="title is-6 has-text-primary ">Biotop X OpenCell</p>
+              <p class="subtitle is-7 has-text-grey ">How to build a biolab in 10 days</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-04-26">
+          <div class="content">
+            <a href="http://biotop.co/blog/invisible-behind-scenes/">
+              <p class="title is-7 has-text-info ">26.04.2018</p>
+              <p class="title is-6 has-text-primary ">See the invisible</p>
+              <p class="subtitle is-7 has-text-grey ">A peek behind the scenes</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2018-04-25">
+          <div class="content">
+            <a href="http://biotop.co/blog/invisible-catalogue/">
+              <p class="title is-7 has-text-info ">25.04.2018</p>
+              <p class="title is-6 has-text-primary ">See the invisible</p>
+              <p class="subtitle is-7 has-text-grey ">An exhibition by Biotop</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2017-11-18">
+          <div class="content">
+            <a href="http://biotop.co/blog/meeting-november-2017/">
+              <p class="title is-7 has-text-info ">18.11.2017</p>
+              <p class="title is-6 has-text-primary ">Second Biotop Meeting</p>
+              <p class="subtitle is-7 has-text-grey ">17th-19th November 2017 / Vienna</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+        <div class="search-item column is-full cls-2017-08-02">
+          <div class="content">
+            <a href="http://biotop.co/blog/meeting-july-2017/">
+              <p class="title is-7 has-text-info ">02.08.2017</p>
+              <p class="title is-6 has-text-primary ">Biotop Kick-Off Meeting</p>
+              <p class="subtitle is-7 has-text-grey ">8th-30th July 2017 / Villach</p>
+            </a>
+            <hr>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<script type="text/javascript">
+  
+  var eventDates = [  { title: "Human Nature", description: "Film screening in collaboration with Filmstudio Villach followed by a panel discussion", date : "2019-12-19", type : "event", link : "http://biotop.co/blog/human-nature/" }, { title: "Vortex", description: "Understanding complexity", date : "2019-12-07", type : "blog", link : "http://biotop.co/blog/vortex/" }, { title: "Archaeological dig - Grabelsdorf", description: "Archaeological dig in Grabelsdorf, Austria (17th-18th August 2019)", date : "2019-08-17", type : "blog", link : "http://biotop.co/blog/grabelsdorf/" }, { title: "Color Quest", description: "Our entry for the Science Comics for Kids competition by the Austrian Academy of Sciences", date : "2019-02-19", type : "blog", link : "http://biotop.co/blog/color-quest/" }, { title: "The Natural History of Reindeer", description: "Biotop Adventkalender Tag 10", date : "2018-12-12", type : "blog", link : "http://biotop.co/blog/xmascal/10/" }, { title: "Christmas, 1000 years ago", description: "Biotop Christmas Calendar Day 9", date : "2018-12-09", type : "blog", link : "http://biotop.co/blog/xmascal/09/" }, { title: "Last Christmas I gave you my heart, but the very next day you gave it away...", description: "Biotop Christmas Calendar Day 8", date : "2018-12-08", type : "blog", link : "http://biotop.co/blog/xmascal/08/" }, { title: "Pinus Sylvestris", description: "Biotop Christmas Calendar Day 7", date : "2018-12-07", type : "blog", link : "http://biotop.co/blog/xmascal/07/" }, { title: "The Wonderful Physics of Snowflakes", description: "Biotop Christmas Calendar Day 6", date : "2018-12-06", type : "blog", link : "http://biotop.co/blog/xmascal/06/" }, { title: "Krampus", description: "Biotop Christmas Calendar Day 5", date : "2018-12-05", type : "blog", link : "http://biotop.co/blog/xmascal/05/" }, { title: "Do you remember that taste?", description: "Biotop Christmas Calendar Day 4", date : "2018-12-04", type : "blog", link : "http://biotop.co/blog/xmascal/04/" }, { title: "The Oldest Cookie Recipe", description: "Biotop Christmas Calendar Day 3", date : "2018-12-03", type : "blog", link : "http://biotop.co/blog/xmascal/03/" }, { title: "Earwormology", description: "Biotop Christmas Calendar Day 2", date : "2018-12-02", type : "blog", link : "http://biotop.co/blog/xmascal/02/" }, { title: "A Christmas Lecture As Wall Newspaper", description: "Biotop Christmas Calendar Day 1", date : "2018-12-01", type : "blog", link : "http://biotop.co/blog/xmascal/01/" }, { title: "Biotop Christmas Calendar", description: "A scientific christmas calendar", date : "2018-11-30", type : "blog", link : "http://biotop.co/blog/xmascal2018/" }, { title: "Giftwrapping with Architects", description:  null , date : "2018-11-16", type : "blog", link : "http://biotop.co/blog/xmascal/16/" }, { title: "Shine A Light pt. 2 - Spectroscopy Workshop", description:  null , date : "2018-11-15", type : "event", link : "http://biotop.co/blog/xmascal/15/" }, { title: "Gingerbreadhouses and Architecture", description:  null , date : "2018-11-14", type : "blog", link : "http://biotop.co/blog/xmascal/14/" }, { title: "The Gingerbread House", description:  null , date : "2018-11-13", type : "blog", link : "http://biotop.co/blog/xmascal/13/" }, { title: "Shine A Light", description:  null , date : "2018-11-12", type : "blog", link : "http://biotop.co/blog/xmascal/12/" }, { title: "The Travelling Salesman Problem or How to optimise your Christmas shopping trip", description:  null , date : "2018-11-11", type : "blog", link : "http://biotop.co/blog/xmascal/11/" }, { title: "A Useful Second Life for Gift-Wrapping Paper", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/blog/xmascal/18/" }, { title: "Fireworks: Colorful Glow", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/blog/xmascal/31/" }, { title: "Gift giving in the animal kingdom", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/blog/xmascal/17/" }, { title: "Meet Biotop", description:  null , date : "2018-11-08", type : "event", link : "http://biotop.co/blog/xmascal/20/" }, { title: "Our Mission", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/blog/xmascal/24/" }, { title: "Sparklers: Hot or Not", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/blog/xmascal/22/" }, { title: "Stress", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/blog/xmascal/23/" }, { title: "The Darkest Day", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/blog/xmascal/21/" }, { title: "The science of freezing - How to keep warm", description:  null , date : "2018-11-08", type : "blog", link : "http://biotop.co/blog/xmascal/19/" }, { title: "Third Biotop Meeting", description: "19th-21st October 2018, Burg Groppenstein", date : "2018-10-22", type : "blog", link : "http://biotop.co/blog/meeting-october-2018/" }, { title: "Biodesign Here Now", description: "Biotop @ London Design Festival 2018", date : "2018-10-06", type : "blog", link : "http://biotop.co/blog/biodesign_here_now/" }, { title: "Biotop X OpenCell", description: "How to build a biolab in 10 days", date : "2018-05-25", type : "blog", link : "http://biotop.co/blog/opencell/" }, { title: "See the invisible", description: "A peek behind the scenes", date : "2018-04-26", type : "blog", link : "http://biotop.co/blog/invisible-behind-scenes/" }, { title: "See the invisible", description: "An exhibition by Biotop", date : "2018-04-25", type : "blog", link : "http://biotop.co/blog/invisible-catalogue/" }, { title: "Second Biotop Meeting", description: "17th-19th November 2017 / Vienna", date : "2017-11-18", type : "blog", link : "http://biotop.co/blog/meeting-november-2017/" }, { title: "Biotop Kick-Off Meeting", description: "8th-30th July 2017 / Villach", date : "2017-08-02", type : "blog", link : "http://biotop.co/blog/meeting-july-2017/" },];
+
+  
+  var colormap = {"event" : "has-background-warning", "blog" : "has-background-link"}
+
+  function normaliseDatestring(datestring) {
+    var d = new Date(datestring).setHours(0,0,0,0)
+    return d
+  }
+
+  function findLink(datestring, eventDates) {
+    return eventDates.find(x => normaliseDatestring(x.date) === normaliseDatestring(datestring)).link
+  };
+
+  function findID(datestring, eventDates) {
+    return eventDates.find(x => normaliseDatestring(x.date) === normaliseDatestring(datestring)).date
+  };
+
+  
+  var calendars = bulmaCalendar.attach('[type="date"]');
+
+  
+  for(var i = 0; i < calendars.length; i++) {
+    
+    calendars[i].on('select', date => {
+      $(".calendar-search-results > .search-res").removeClass("search-res").addClass("search-item")
+      var id = findID(date.data.value(), eventDates);
+      var el = $(".cls-"+id)
+      $(el).removeClass("search-item").addClass("search-res")
+      console.log(el);
+
+    });
+  }
+
+  
+  function colorDates(eventDates, colormap) {
+    var days = $("div.datepicker-days > div.datepicker-date")
+
+    for ( var i = 0; i < days.length; i++ ){
+      for (var j = 0; j < eventDates.length; j++) {
+        var eventdate = new Date(eventDates[j].date).setHours(0,0,0,0);
+        var datestring = $(days[i]).data("date")
+        var datepickerdate = new Date(datestring).setHours(0,0,0,0)
+        
+        if ( eventdate == datepickerdate ){
+          $(days[i]).children("button").addClass(colormap[eventDates[j].type])
+        }
+      }
+    }
+  }
+
+  colorDates(eventDates, colormap);
+  
+  MutationObserver = window.MutationObserver || window.WebKitMutationObserver;
+  var observer = new MutationObserver(function(mutations, observer) {colorDates(eventDates, colormap)});
+  observer.observe(document, {
+    subtree: true,
+    attributes: true
+    
+  });
+
+</script>
+
+      </ul>
+    </div>
+  </div>
+</aside>
+
+<script type="text/javascript">
+
+  
+  function openTab(evt, tabName) {
+    var i, x, tablinks;
+    x = document.getElementsByClassName("content-tab");
+    for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tab");
+    for (i = 0; i < x.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" is-active", "");
+    }
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " is-active";
+  }
+</script>
+
+</div>
+
+<div class="column is-half has-navbar-fixed-top">
+  <div class="content">
+
+    <div id="contents">
+      <p><p>This story is about a substance that couldn&rsquo;t be any more contradictory: It is mundane in its omnipresence, while oozing with symbolism. It forms the basis of all life on this planet, while being capable of unleashing destructive forces of unrivalled power.</p>
+
+<p>In spite of being formed from two of the three most common elements in the universe, pure, liquid water is an incredibly valuable good characterised by physical properties that are unusual to say the least. Water is a small molecule that occurs on earth in solid, liquid and gaseous form. This is remarkable, as most similarly small molecules would only occur in gaseous form under terrestrial conditions. Whether a substance occurs as solid, liquid or gas, is largely determined by temperature and pressure. If temperatures on Earth drop below 0°C the rules of the interplay between water molecules change substantially: Whereas water in liquid form is best described as a dancing frenzy of water molecules that only form connected groups for a short time, the dancing abates as water solidifies, and its molecules form tight formations.</p>
+
+<p>If we take a close look at a snowflake, we have to take note of a certain <em>sixness</em> to it. Though, to say they were six-sided would do them a grave injustice, for they have many more sides than that! To capture this essence of <em>sixness</em>, we use the term <em>symmetry</em>. In the case of the six-fold rotational symmetry of the snowflake, this simply states that after turning the snowflake one sixth of a whole rotation, it appears indistinguishable from the original configuration. The symmetry of a snowflake is visible to the naked eye, yet it manifests the interplay of individual water molecules that each measure less than a fifth of a billionth of a meter.</p>
+
+<p>Depending on pressure and temperature, water molecules can gather in a variety of formations giving rise to no less than fifteen different types of ice. However, most of these types of ice only form under special pressures and temperatures. Snow and virtually all other forms of ice on earth are formed by so-called <em>ice I<sub>h</sub></em>, which is characterised by hexagonal formations of water molecules that collectively give rise to a crystal lattice.</p>
+
+<p>As opposed to molecules of liquid water, where the angle between two hydrogen atoms is 105°, in ice, the water molecule becomes stretched to better accommodate the molecules in the crystal lattice, resulting in a slightly larger bonding angle of 109.5°. Therefore, water molecules in ice need more space than the same number of molecules in liquid water. This accounts for the peculiar expansion of water as it is cooled. This behaviour that is very uncommon in the molecular world, and it contributes to the fact that earth is such a hospitable planet for life. For, were it not for its lower density, ice would not float on water, bodies of water would freeze from bottom to top. However, ice does float and aquatic organisms can spend cold periods in liquid water.</p>
+
+<p>It is not a question of the crystal lattice if freezing water turns into snowflakes or ice, but depends on the environmental conditions of freezing. Snowflakes form from tiny droplets of supercooled water (water, free from impurities, that can remain liquid way below 0°C). Water molecules in supercooled water in a sense forget to freeze. However, if they encounter a speck of dust or a grain of sand, things take a quick turn. The surface of the impurity helps the water molecules to get into their hexagonal formation and if the surrounding air is full of tiny droplets of supercooled water, the snowflake can continue to grow. Quintillions (one followed by eighteen zeroes or 10<sup>18</sup> for short) of water molecules try to get into formation as quickly as possible. In the crystal lattice, a water molecule can take up one of six distinct orientations. As the freezing of supercooled water happens very quickly, and the molecules in the droplets don&rsquo;t have access to every possible site, the molecules will occupy the most accessible site in the lattice. This causes rays to form that grow faster along their tips. As the orientation and position of water molecules is random prior to solidifying, the appearance of shapes along the hexagonal lattice is governed by randomness, and small initial differences may give rise to large differences later on in the growth process. As the snowflake begins to fall towards the ground, the atmospheric conditions around it change Each snowflake experiences a subtly different journey.</p>
+
+<p>All of these factors cause the snowflake itself to become a little symphony about its own existence, carved by pressure and temperature into its crystal lattice. Hence, it is little wonder that one commonly hears that each snowflake is unique! For compared to the number of theoretically possible snowflakes (a number that hard to put in words and even harder to write down, as it has a quintillion digits and is larger than the number of atoms in the universe), makes even the number of snowflakes that fall each year - roughly one septillion (10<sup>24</sup>) appear tiny. Still, the common wisdom about snowflakes is to be taken with a grain of salt, as the number of possible snowflakes is considerably smaller for smaller snowflakes, thereby rendering it more likely for <a href="http://www.snowcrystals.com/identicaltwins/identicaltwins.html">two to be alike</a>.</p>
+
+<p>Even this slight rebuff of a romantic idea associated with snowflakes does little to break their spell. The sheer variety of small, differently sized surfaces in a manifold of orientations imbues snowflakes with that soothing capacity to drench a freshly snowed upon landscape in silence - a common theme among Christmas carols. It is also this very multifacetedness that makes the millions of snowflakes that form a little heap of snow appear completely white, in spite of them each individually being colourless. Snowflakes and ice fromed from compacted snow reflect white light almost entirely and thereby influence the capacity of our planet to reflect sunlight. As part of this so-called albedo, they are not only an expression of global climate, but play an important role in determining it. The melting of the pole caps reduces the capacity of the earth to reflect incoming sunlight and thereby its ability to stay cool&hellip;</p>
+
+<p>This tale of the grain of dust that turned into the epitome of purity is as rich in facets as the snowflake itself. It is an epic journey that takes us from dancing particles so small that even the best microscopes cannot see them to processes of global scale. Yet it ends in a bittersweet tone: for all the beauty it encapsulates, the story of the common snowflake in all its complexity and fragility also serves as cenotaph of a looming climate catastrophe.</p>
+
+<blockquote>
+<p>* To estimate the number of possible snowflakes, we can imagine a crazy bike lock, that is equipped with a little number wheel for each of the quintillion water molecules. Every wheel has six numbers on it that represent the six different orientations a water molecule can have in the crystal lattice. All we have to do is to calculate the number of possible combinations of this crazy bike lock. The number of combinations increases six fold with every wheel that is considered. In our case it increases six fold one quintillion times.</p>
+
+<p>** Roughly a million billion kilogram of snow fall per year. An approximate weight of a billionth kilogram per snowflake allows us to estimate the number of snowflakes that fall every year to be on the order of one septillion (10<sup>24</sup>).</p>
+</blockquote>
+
+<h1 id="further-reading">Further Reading:</h1>
+
+<ul>
+<li><em>Philip Ball</em> - <strong>H<sub>2</sub>O A Biography of Water</strong>, 5.10.2000, ISBN: 9780753810927</li>
+<li><em>Kenneth G. Libbrecht</em> - <strong><a href="http://www.snowcrystals.com">snowcrystals.com</a></strong> The definitive resource by one of the world&rsquo;s leading experts on snowflakes.</li>
+<li><em>Ryo Kobayashi</em> <strong>&ldquo;Modeling and numerical simulations of dendritic crystal growth.&rdquo;</strong> Physica D: Nonlinear Phenomena 63.3-4 (1993): 410-423. - Paper providing the theoretical basis for the simulations of snowflake growth.</li>
+<li><em>Roberto Maffulli</em> - <strong><a href="https://github.com/rmaffulli/iSeeing">iSeeing</a></strong> - Github repository with python library to produce simulations.</li>
+</ul>
+
+<blockquote>
+<h3 id="about-the-authors">About the authors</h3>
+
+<p><strong><a href="http://biotop.co/en/person/lukas-hutter/">Lukas Hutter</a></strong> studied chemistry in Graz and Systems Biology at the University of Oxford. He is a co-founder of Biotop and works as a teacher in Villach.</p>
+
+<p><strong><a href="http://biotop.co/en/person/roberto-maffulli/">Roberto Maffulli</a></strong> is a specialist in fluid dynamics and currently works as a lecturer at Balliol College, University of Oxford.</p>
+</blockquote></p>
+    </div>
+  </div>
+</div>
+<div class="">
+    <div class="references content">
+  <hr>
+  
+  
+</div>
+
+</div>
+
+          </div>
+        </section><section class="section has-no-padding">
+
+  <footer class="footer has-background-grey-lighter has-text-centered footer-tags">
+    
+
+
+  
+    <a href="http://biotop.co///tags/archaeology/">
+      <span class="menu-label">#archaeology </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/barcoding/">
+      <span class="menu-label">#barcoding </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/citizen-science/">
+      <span class="menu-label">#citizen-science </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/containerlab/">
+      <span class="menu-label">#containerlab </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/discussion/">
+      <span class="menu-label">#discussion </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/exhibition/">
+      <span class="menu-label has-text-success">#exhibition </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/groppenstein/">
+      <span class="menu-label">#groppenstein </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/london/">
+      <span class="menu-label">#london </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/meeting/">
+      <span class="menu-label">#meeting </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/science-comic/">
+      <span class="menu-label">#science-comic </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/sciencecomic/">
+      <span class="menu-label">#sciencecomic </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/vienna/">
+      <span class="menu-label">#vienna </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/villach/">
+      <span class="menu-label has-text-success">#villach </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/vortex/">
+      <span class="menu-label">#vortex </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/workshop/">
+      <span class="menu-label">#workshop </span>
+    </a>
+  
+
+  
+    <a href="http://biotop.co///tags/xmascal/">
+      <span class="menu-label has-text-success">#xmascal </span>
+    </a>
+  
+
+
+  </footer>
+
+  <footer class="footer">
+    <div class="content">
+      <div class="level columns">
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <div class="level-item column is-half center">
+          <div class="media">
+            <div class="media-left">
+              <a href="#imprint">
+                <div class="image is-64x64 has-background-light center" style="border-radius:50%;">
+                  <i class="fa fa-asterisk has-text-dark center fa-2x is-rounded has-text-dark"></i>
+                </div>
+              </a>
+            </div>
+            <div class="media-content">
+              <h1 class="title is-5">Imprint</h1>
+              <p> <p>Biotop Wissenschaftskollektiv </br>
+ZVR: 1849241330 <br>
+Eisenhammer Weg 2 / 58 </br>
+A-9500 Villach </br>
+AUSTRIA</br></p>
+
+<p><i class="fa fa-phone"></i> <a href="tel:00436644556076"></a>+43 664 455 60 76</br>
+<i class="fa fa-email"></i> <a href="mailto:info@biotop.co"> info@biotop.co</a></p>
+</p>
+            </div>
+          </div>
+        </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <div class="level-item column is-half">
+        </div>
+      </div>
+    </div>
+  </footer>
+</section>
+
+<script>
+  mermaid.initialize({
+    startOnLoad:true,
+    theme:'neutral',
+    fontFamily: 'Source Code Pro'
+  });
+</script>
+
+    </body>
+</html>
