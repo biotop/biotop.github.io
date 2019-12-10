@@ -17,7 +17,7 @@
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/de/blog/opencell/</guid>
-      <description>Wir sind gerade aus London zurückgekehrt, wo wir der Initiative OpenCell geholfen haben, ihr erstes Container-Labor einzurichten.
+      <description>Wir sind gerade aus London zurückgekehrt, wo wir der Initiative [OpenCell] (http://opencell.webflow.io/) geholfen haben, ihr erstes Container-Labor einzurichten.
 Wie kam es dazu? Ungefähr vor einem Monat wurden wir von Helene Steiner kontaktiert, die gemeinsam mit Thomas Meany im Herzen von London Container-Infrastruktur für kleine Biotech-Startup-Unternehmen bereitstellen will. Geplant sind 10 Molekularbiologie-Labore, 20 Büros, 10 Studios, 4 Werkstätten, sowie 1 Lager.
 &amp;ldquo;Ich hab gesehen, dass ihr Container-Labore bauen wollt. Wir hätten 10 Container hier in London, die wir zu Laboren umbauen wollen.</description>
     </item>
@@ -28,10 +28,10 @@ Wie kam es dazu? Ungefähr vor einem Monat wurden wir von Helene Steiner kontakt
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/de/projects/containerlab/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
-Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
-Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Paragraph text Inline Code text Mistaken text. Italics Bold
+ Tasks
+ a task list item list syntax required normal formatting incomplete completed   Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&amp;#39;Sunday&amp;#39;,&amp;#39;Monday&amp;#39;,&amp;#39;Tuesday&amp;#39;,&amp;#39;Wednesday&amp;#39;,&amp;#39;Thursday&amp;#39;,&amp;#39;Friday&amp;#39;,&amp;#39;Saturday&amp;#39;); var months = new Array(&amp;#39;January&amp;#39;,&amp;#39;February&amp;#39;,&amp;#39;March&amp;#39;,&amp;#39;April&amp;#39;,&amp;#39;May&amp;#39;,&amp;#39;June&amp;#39;,&amp;#39;July&amp;#39;,&amp;#39;August&amp;#39;,&amp;#39;September&amp;#39;,&amp;#39;October&amp;#39;,&amp;#39;November&amp;#39;,&amp;#39;December&amp;#39;); var date = ((now.getDate()&amp;lt;10) ? &amp;#34;0&amp;#34; : &amp;#34;&amp;#34;)+ now.</description>
     </item>
     
   </channel>

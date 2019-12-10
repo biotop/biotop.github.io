@@ -153,6 +153,15 @@
   
   
   
+  <li>
+    <a class="anchor" href="http://biotop.co///#newsletter">
+      
+      <i class="fa fa-paper-plane-o has-text-dark"></i>
+      
+      Newsletter
+    </a>
+  </li>
+  
   
   
   
@@ -599,6 +608,15 @@
   
   
   
+  
+  <li>
+    <a class="anchor" href="http://biotop.co///#newsletter">
+      
+      <i class="fa fa-paper-plane-o has-text-dark"></i>
+      
+      Newsletter
+    </a>
+  </li>
   
   
   
@@ -1313,113 +1331,83 @@
   <div class="content">
 
     <div id="contents">
-      <p>
-
-<h1 id="heading-1">Heading 1</h1>
-
+      <p><h1 id="heading-1">Heading 1</h1>
 <h2 id="heading-2">Heading 2</h2>
-
 <h3 id="heading-3">Heading 3</h3>
-
 <h4 id="heading-4">Heading 4</h4>
-
 <h5 id="heading-5">Heading 5</h5>
-
 <h6 id="heading-6">Heading 6</h6>
-
-<hr />
-
+<hr>
 <p>Paragraph
 text <code>Inline Code</code> text
 <del>Mistaken text.</del>
 <em>Italics</em>
 <strong>Bold</strong></p>
-
-<hr />
-
-<p>Tasks
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal <strong>formatting</strong>
-- [ ] incomplete
-- [x] completed</p>
-
-<hr />
-
+<hr>
+<p>Tasks</p>
+<ul>
+<li><input disabled="" type="checkbox">a task list item</li>
+<li><input disabled="" type="checkbox">list syntax required</li>
+<li><input disabled="" type="checkbox">normal <strong>formatting</strong></li>
+<li><input disabled="" type="checkbox">incomplete</li>
+<li><input checked="" disabled="" type="checkbox">completed</li>
+</ul>
+<hr>
 <p>Code Blocks</p>
-
 <pre><code>4 space indention
 makes full-width
 standard code blocks
 </code></pre>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#66d9ef">var</span> <span style="color:#a6e22e">now</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> Date();
 
-<pre><code class="language-js">var now = new Date();
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">days</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> Array(<span style="color:#e6db74">&#39;Sunday&#39;</span>,<span style="color:#e6db74">&#39;Monday&#39;</span>,<span style="color:#e6db74">&#39;Tuesday&#39;</span>,<span style="color:#e6db74">&#39;Wednesday&#39;</span>,<span style="color:#e6db74">&#39;Thursday&#39;</span>,<span style="color:#e6db74">&#39;Friday&#39;</span>,<span style="color:#e6db74">&#39;Saturday&#39;</span>);
 
-var days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">months</span> <span style="color:#f92672">=</span> <span style="color:#66d9ef">new</span> Array(<span style="color:#e6db74">&#39;January&#39;</span>,<span style="color:#e6db74">&#39;February&#39;</span>,<span style="color:#e6db74">&#39;March&#39;</span>,<span style="color:#e6db74">&#39;April&#39;</span>,<span style="color:#e6db74">&#39;May&#39;</span>,<span style="color:#e6db74">&#39;June&#39;</span>,<span style="color:#e6db74">&#39;July&#39;</span>,<span style="color:#e6db74">&#39;August&#39;</span>,<span style="color:#e6db74">&#39;September&#39;</span>,<span style="color:#e6db74">&#39;October&#39;</span>,<span style="color:#e6db74">&#39;November&#39;</span>,<span style="color:#e6db74">&#39;December&#39;</span>);
 
-var months = new Array('January','February','March','April','May','June','July','August','September','October','November','December');
+<span style="color:#66d9ef">var</span> <span style="color:#a6e22e">date</span> <span style="color:#f92672">=</span> ((<span style="color:#a6e22e">now</span>.<span style="color:#a6e22e">getDate</span>()<span style="color:#f92672">&lt;</span><span style="color:#ae81ff">10</span>) <span style="color:#f92672">?</span> <span style="color:#e6db74">&#34;0&#34;</span> <span style="color:#f92672">:</span> <span style="color:#e6db74">&#34;&#34;</span>)<span style="color:#f92672">+</span> <span style="color:#a6e22e">now</span>.<span style="color:#a6e22e">getDate</span>();
 
-var date = ((now.getDate()&lt;10) ? &quot;0&quot; : &quot;&quot;)+ now.getDate();
-
-function fourdigits(number)	{
-	return (number &lt; 1000) ? number + 1900 : number;
+<span style="color:#66d9ef">function</span> <span style="color:#a6e22e">fourdigits</span>(<span style="color:#a6e22e">number</span>)	{
+	<span style="color:#66d9ef">return</span> (<span style="color:#a6e22e">number</span> <span style="color:#f92672">&lt;</span> <span style="color:#ae81ff">1000</span>) <span style="color:#f92672">?</span> <span style="color:#a6e22e">number</span> <span style="color:#f92672">+</span> <span style="color:#ae81ff">1900</span> <span style="color:#f92672">:</span> <span style="color:#a6e22e">number</span>;
 								}
-today =  days[now.getDay()] + &quot;, &quot; +
-         months[now.getMonth()] + &quot; &quot; +
-         date + &quot;, &quot; +
-         (fourdigits(now.getYear())) ;
+<span style="color:#a6e22e">today</span> <span style="color:#f92672">=</span>  <span style="color:#a6e22e">days</span>[<span style="color:#a6e22e">now</span>.<span style="color:#a6e22e">getDay</span>()] <span style="color:#f92672">+</span> <span style="color:#e6db74">&#34;, &#34;</span> <span style="color:#f92672">+</span>
+         <span style="color:#a6e22e">months</span>[<span style="color:#a6e22e">now</span>.<span style="color:#a6e22e">getMonth</span>()] <span style="color:#f92672">+</span> <span style="color:#e6db74">&#34; &#34;</span> <span style="color:#f92672">+</span>
+         <span style="color:#a6e22e">date</span> <span style="color:#f92672">+</span> <span style="color:#e6db74">&#34;, &#34;</span> <span style="color:#f92672">+</span>
+         (<span style="color:#a6e22e">fourdigits</span>(<span style="color:#a6e22e">now</span>.<span style="color:#a6e22e">getYear</span>())) ;
 
-document.write(today);
-</code></pre>
-
-<pre><code class="language-css">#sc_drag_area {
-  height:100px;
-  left:150px;
-  position: absolute;
-  top:100px;
-  width:250px;
-  z-index: 9999;
+document.<span style="color:#a6e22e">write</span>(<span style="color:#a6e22e">today</span>);
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-css" data-lang="css">#sc_drag_area {
+  <span style="color:#66d9ef">height</span>:<span style="color:#ae81ff">100</span><span style="color:#66d9ef">px</span>;
+  <span style="color:#66d9ef">left</span>:<span style="color:#ae81ff">150</span><span style="color:#66d9ef">px</span>;
+  <span style="color:#66d9ef">position</span>: <span style="color:#66d9ef">absolute</span>;
+  <span style="color:#66d9ef">top</span>:<span style="color:#ae81ff">100</span><span style="color:#66d9ef">px</span>;
+  <span style="color:#66d9ef">width</span>:<span style="color:#ae81ff">250</span><span style="color:#66d9ef">px</span>;
+  <span style="color:#66d9ef">z-index</span>: <span style="color:#ae81ff">9999</span>;
 }
-</code></pre>
-
-<hr />
-
+</code></pre></div><hr>
 <ul>
 <li>List item one</li>
 <li>List item two</li>
 <li>A nested item</li>
 </ul>
-
-<hr />
-
+<hr>
 <ol>
 <li>Number list item one
 1.1. A nested item</li>
 <li>Number list item two</li>
 <li>Number list item three</li>
 </ol>
-
-<hr />
-
+<hr>
 <blockquote>
 <p>Quote</p>
-
 <p>Second line Quote</p>
 </blockquote>
-
-<hr />
-
+<hr>
 <p>Standard link =  <a href="http://ghost.org">http://ghost.org</a>
 <a href="http://ghost.org">Custom Text Link</a></p>
-
-<hr />
-
-<p><img src="https://dl.dropboxusercontent.com/u/41297054/Pic.jpeg" alt="Image" /></p>
-
-<hr />
-
+<hr>
+<p><img src="https://dl.dropboxusercontent.com/u/41297054/Pic.jpeg" alt="Image"></p>
+<hr>
 <p>Table</p>
-
 <table>
 <thead>
 <tr>
@@ -1428,20 +1416,17 @@ document.write(today);
 <th align="right">Right Aligned</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td align="left">col 3 is</td>
 <td align="center">some wordy text</td>
 <td align="right">$1600</td>
 </tr>
-
 <tr>
 <td align="left">col 2 is</td>
 <td align="center">centered</td>
 <td align="right">$12</td>
 </tr>
-
 <tr>
 <td align="left">zebra stripes</td>
 <td align="center">are neat</td>
@@ -1553,14 +1538,6 @@ document.write(today);
       
         <div class="">
           
-          <a href="http://biotop.co///tags/science-comic/">
-            <span class="hero-quote">#science-comic </span>
-          </a>
-          
-        </div>
-      
-        <div class="">
-          
           <a href="http://biotop.co///tags/sciencecomic/">
             <span class="hero-quote">#sciencecomic </span>
           </a>
@@ -1610,6 +1587,50 @@ document.write(today);
     </div>
   </section>
   <section class="hero is-medium">
+    
+      
+        
+
+        
+<section class="content-ov">
+    <section class="section has-no-padding">
+      <div class="columns is-centered">
+        <div class="column is-6">
+
+          <div class="media is-mobile-column">
+            <figure class="media-left">
+              <a href="http://biotop.co/blog/opencell/">
+                <div class="image is-square is-128x128 ov-img">
+                  <img src="/img/blog/open_cell/1_logo.jpg">
+                </div>
+              </a>
+            </figure>
+            <div class="media-content has-margin-top is-mobile-wide">
+              <a href="http://biotop.co/blog/opencell/">
+                <h3 class="hero-quote ov has-text-grey has-text-right">
+                  
+                    25.05.2018
+                  
+                </h3>
+                <h3 class="hero-quote ov has-text-link">
+                  #containerlab #london
+                </h3>
+                <h1 class="hero-quote ov">Biotop X OpenCell</h1>
+                <h2 class="hero-quote ov">How to build a biolab in 10 days</h2>
+                <h3 class="hero-quote ov">
+                  
+                    anna-koeferle
+                  
+                </h3>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+</section>
+
+      
     
   </section>
 
@@ -1673,12 +1694,6 @@ document.write(today);
   
     <a href="http://biotop.co///tags/meeting/">
       <span class="menu-label">#meeting </span>
-    </a>
-  
-
-  
-    <a href="http://biotop.co///tags/science-comic/">
-      <span class="menu-label">#science-comic </span>
     </a>
   
 
@@ -1749,18 +1764,19 @@ document.write(today);
             </div>
             <div class="media-content">
               <h1 class="title is-5">Imprint</h1>
-              <p> <p>Biotop Wissenschaftskollektiv </br>
-ZVR: 1849241330 <br>
-Eisenhammer Weg 2 / 58 </br>
-A-9500 Villach </br>
-AUSTRIA</br></p>
-
-<p><i class="fa fa-phone"></i> <a href="tel:00436644556076"></a>+43 664 455 60 76</br>
-<i class="fa fa-email"></i> <a href="mailto:info@biotop.co"> info@biotop.co</a></p>
+              <p> <p>Biotop Wissenschaftskollektiv <!-- raw HTML omitted -->
+ZVR: 1849241330 <!-- raw HTML omitted -->
+Eisenhammer Weg 2 / 58 <!-- raw HTML omitted -->
+A-9500 Villach <!-- raw HTML omitted -->
+AUSTRIA<!-- raw HTML omitted --></p>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --> <!-- raw HTML omitted --><!-- raw HTML omitted -->+43 664 455 60 76<!-- raw HTML omitted -->
+<!-- raw HTML omitted --><!-- raw HTML omitted --> <!-- raw HTML omitted --> <a href="mailto:info@biotop.co">info@biotop.co</a><!-- raw HTML omitted --></p>
 </p>
             </div>
           </div>
         </div>
+        
+        
         
         
         

@@ -17,10 +17,8 @@
       <pubDate>Tue, 13 Aug 2019 09:23:31 +0200</pubDate>
       
       <guid>http://biotop.co/projects/exhibitions/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
-Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
-Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+      <description>We are passionate about making science accessible. Exhibitions on scientific topics that would allow people to just &amp;ldquo;drop by&amp;rdquo; or accidentally stroll in, have been a key part of our activities.
+ Thus far, we&#39;ve organised exhibitions in Villach and London and have put together a christmas calendar that bridged the virtual and the real. We design and build our exhibits ourselves and love the creative and transdisciplinary process involved in every aspect of putting an exhibition together</description>
     </item>
     
     <item>
@@ -29,10 +27,11 @@ Code Blocks
       <pubDate>Tue, 13 Aug 2019 09:23:10 +0200</pubDate>
       
       <guid>http://biotop.co/projects/workshops/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
-Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
-Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+      <description>At Biotop*, we develop a variety of workshop concepts for everyone who would like to gain a hands-on experience of science.
+Microscopes  If you are interested in building your own microscope and want to learn how to use it, join us for one of our Foldscope workshops.
+ Dates upon arrangement
+Cost: 15€ incl. your own paper microscope
+ Spectroscopes  If you&#39;re curious about how light can be separated into its spectral colors, join us for a workshop aimed at building paper-based spectroscopes.</description>
     </item>
     
     <item>
@@ -50,10 +49,10 @@ Code Blocks
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/projects/containerlab/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
-Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
-Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Paragraph text Inline Code text Mistaken text. Italics Bold
+ Tasks
+ a task list item list syntax required normal formatting incomplete completed   Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&amp;#39;Sunday&amp;#39;,&amp;#39;Monday&amp;#39;,&amp;#39;Tuesday&amp;#39;,&amp;#39;Wednesday&amp;#39;,&amp;#39;Thursday&amp;#39;,&amp;#39;Friday&amp;#39;,&amp;#39;Saturday&amp;#39;); var months = new Array(&amp;#39;January&amp;#39;,&amp;#39;February&amp;#39;,&amp;#39;March&amp;#39;,&amp;#39;April&amp;#39;,&amp;#39;May&amp;#39;,&amp;#39;June&amp;#39;,&amp;#39;July&amp;#39;,&amp;#39;August&amp;#39;,&amp;#39;September&amp;#39;,&amp;#39;October&amp;#39;,&amp;#39;November&amp;#39;,&amp;#39;December&amp;#39;); var date = ((now.getDate()&amp;lt;10) ? &amp;#34;0&amp;#34; : &amp;#34;&amp;#34;)+ now.</description>
     </item>
     
     <item>
@@ -72,10 +71,7 @@ DNA stores genetic information like computercode only instead of the numbers 0 a
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/projects/sciencecomic/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
-Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
-Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+      <description>Comics and graphic novels are an amazing way of communicating science, and have become increasingly popular over the years. Comics tell stories in a way that&#39;s neither just picture, nor pure text and thereby engage our brains in wonderful ways.</description>
     </item>
     
   </channel>

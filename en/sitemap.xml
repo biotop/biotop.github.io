@@ -119,6 +119,11 @@
   </url>
   
   <url>
+    <loc>http://biotop.co/newsletter/</loc>
+    <lastmod>2019-08-13T09:17:28+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://biotop.co/people/anna-waechter/</loc>
     <xhtml:link
                 rel="alternate"
@@ -494,21 +499,6 @@
   </url>
   
   <url>
-    <loc>http://biotop.co/tags/science-comic/</loc>
-    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://biotop.co/de/tags/science-comic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://biotop.co/tags/science-comic/"
-                />
-  </url>
-  
-  <url>
     <loc>http://biotop.co/categories/science-comic/</loc>
     <lastmod>2019-02-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -520,6 +510,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://biotop.co/categories/science-comic/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/tags/sciencecomic/</loc>
+    <lastmod>2019-02-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/tags/sciencecomic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/tags/sciencecomic/"
                 />
   </url>
   
@@ -1165,21 +1170,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://biotop.co/projects/sciencecomic/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://biotop.co/tags/sciencecomic/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://biotop.co/de/tags/sciencecomic/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://biotop.co/tags/sciencecomic/"
                 />
   </url>
   

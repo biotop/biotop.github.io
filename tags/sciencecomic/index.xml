@@ -6,10 +6,20 @@
     <description>Recent content in sciencecomic on Biotop Science Collective</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://biotop.co/tags/sciencecomic/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Color Quest</title>
+      <link>http://biotop.co/blog/color-quest/</link>
+      <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://biotop.co/blog/color-quest/</guid>
+      <description>DONE! And just in time! Late on Friday 15th February 2019, we submitted our entry for the &amp;ldquo;Science Comics for Kids&amp;rdquo; competition by the Austrian Academy of Sciences (ÖAW).
+Our story is about a little girl who loves to draw. One day due to a weird accident all her colours disappear. She goes on a quest to bring her colours back, and learns something about the science behind colour along the way.</description>
+    </item>
     
     <item>
       <title>Science Comic</title>
@@ -17,10 +27,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/projects/sciencecomic/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
-Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
-Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+      <description>Comics and graphic novels are an amazing way of communicating science, and have become increasingly popular over the years. Comics tell stories in a way that&#39;s neither just picture, nor pure text and thereby engage our brains in wonderful ways.</description>
     </item>
     
   </channel>

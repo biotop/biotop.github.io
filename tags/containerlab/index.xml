@@ -17,7 +17,7 @@
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/blog/opencell/</guid>
-      <description>We just got back from London, where we helped our friends at OpenCell furnish their first container lab.
+      <description>We just got back from London, where we helped our friends at [OpenCell] (http://opencell.webflow.io/) furnish their first container lab.
 How did this happen? Well, about a month ago we were contacted by Helene Steiner, who, together with Thomas Meany, is in the process of setting up a container village for small biotech startups in the heart of London. The idea is to provide a professional workspace (10 biolabs, 20 offices, 10 studios for artists and designers, 4 workshop containers, 1 store) to small businesses and startups.</description>
     </item>
     
@@ -27,10 +27,10 @@ How did this happen? Well, about a month ago we were contacted by Helene Steiner
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/projects/containerlab/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
-Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
-Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Paragraph text Inline Code text Mistaken text. Italics Bold
+ Tasks
+ a task list item list syntax required normal formatting incomplete completed   Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&amp;#39;Sunday&amp;#39;,&amp;#39;Monday&amp;#39;,&amp;#39;Tuesday&amp;#39;,&amp;#39;Wednesday&amp;#39;,&amp;#39;Thursday&amp;#39;,&amp;#39;Friday&amp;#39;,&amp;#39;Saturday&amp;#39;); var months = new Array(&amp;#39;January&amp;#39;,&amp;#39;February&amp;#39;,&amp;#39;March&amp;#39;,&amp;#39;April&amp;#39;,&amp;#39;May&amp;#39;,&amp;#39;June&amp;#39;,&amp;#39;July&amp;#39;,&amp;#39;August&amp;#39;,&amp;#39;September&amp;#39;,&amp;#39;October&amp;#39;,&amp;#39;November&amp;#39;,&amp;#39;December&amp;#39;); var date = ((now.getDate()&amp;lt;10) ? &amp;#34;0&amp;#34; : &amp;#34;&amp;#34;)+ now.</description>
     </item>
     
   </channel>

@@ -17,10 +17,8 @@
       <pubDate>Tue, 13 Aug 2019 09:23:31 +0200</pubDate>
       
       <guid>http://biotop.co/de/projects/exhibitions/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
-Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
-Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+      <description>Wir machen Wissenschaft leidenschaftlich gerne zugänglich. Ausstellungen, die wissenschaftliche Themen einem breiten Publikum erschließen, und es möglich machen einfach &amp;ldquo;hinein zu schneien&amp;rdquo; sind seit unseren Anfangstagen ein wichtiger Teil unseres Tätigkeitsfeldes.
+ Bisher haben wir Ausstellung in Villach und London organisiert und einen Adventkalender gestaltet, der das Virtuelle mit dem Realen verknüpft. Wir gestalten und bauen unsere Exponate selbst und lieben den kreativen und disziplinenübergreifenden Prozess, der jedem Aspekt des Ausstellungsdesigns zugrunde liegt.</description>
     </item>
     
     <item>
@@ -29,10 +27,11 @@ Code Blocks
       <pubDate>Tue, 13 Aug 2019 09:23:10 +0200</pubDate>
       
       <guid>http://biotop.co/de/projects/workshops/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
-Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
-Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+      <description>Für alle die Wissenschaft hautnah erleben wollen entwickelt Biotop unterschiedliche Workshopkonzepte.
+Mikroskopie  Du möchtest gerne einmal dein eigenes Mikroskop basteln und lernen wie man damit arbeitet? - Komm zu einem unserer Foldscope Workshops.
+ Termine auf Anfrage
+Kosten: 15€ inkl. Papier-Mikroskop zum mitnehmen
+ Spektroskopie  Du willst erfahren was ein Spektrometer ist, wie es Licht in verschiedene Farben auftrennt, dann baue dir doch dein eigenes aus Papier in unserem Spektrometer Workshop.</description>
     </item>
     
     <item>
@@ -41,10 +40,10 @@ Code Blocks
       <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/de/projects/containerlab/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
-Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
-Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Paragraph text Inline Code text Mistaken text. Italics Bold
+ Tasks
+ a task list item list syntax required normal formatting incomplete completed   Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&amp;#39;Sunday&amp;#39;,&amp;#39;Monday&amp;#39;,&amp;#39;Tuesday&amp;#39;,&amp;#39;Wednesday&amp;#39;,&amp;#39;Thursday&amp;#39;,&amp;#39;Friday&amp;#39;,&amp;#39;Saturday&amp;#39;); var months = new Array(&amp;#39;January&amp;#39;,&amp;#39;February&amp;#39;,&amp;#39;March&amp;#39;,&amp;#39;April&amp;#39;,&amp;#39;May&amp;#39;,&amp;#39;June&amp;#39;,&amp;#39;July&amp;#39;,&amp;#39;August&amp;#39;,&amp;#39;September&amp;#39;,&amp;#39;October&amp;#39;,&amp;#39;November&amp;#39;,&amp;#39;December&amp;#39;); var date = ((now.getDate()&amp;lt;10) ? &amp;#34;0&amp;#34; : &amp;#34;&amp;#34;)+ now.</description>
     </item>
     
     <item>
@@ -63,10 +62,10 @@ In DNA sind Erbinformationen gespeichert wie in einem Computercode, doch statt d
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://biotop.co/de/projects/sciencecomic/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
-Tasks - [ ] a task list item - [ ] list syntax required - [ ] normal formatting - [ ] incomplete - [x] completed
-Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&#39;Sunday&#39;,&#39;Monday&#39;,&#39;Tuesday&#39;,&#39;Wednesday&#39;,&#39;Thursday&#39;,&#39;Friday&#39;,&#39;Saturday&#39;); var months = new Array(&#39;January&#39;,&#39;February&#39;,&#39;March&#39;,&#39;April&#39;,&#39;May&#39;,&#39;June&#39;,&#39;July&#39;,&#39;August&#39;,&#39;September&#39;,&#39;October&#39;,&#39;November&#39;,&#39;December&#39;); var date = ((now.</description>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Paragraph text Inline Code text Mistaken text. Italics Bold
+ Tasks
+ a task list item list syntax required normal formatting incomplete completed   Code Blocks
+4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&amp;#39;Sunday&amp;#39;,&amp;#39;Monday&amp;#39;,&amp;#39;Tuesday&amp;#39;,&amp;#39;Wednesday&amp;#39;,&amp;#39;Thursday&amp;#39;,&amp;#39;Friday&amp;#39;,&amp;#39;Saturday&amp;#39;); var months = new Array(&amp;#39;January&amp;#39;,&amp;#39;February&amp;#39;,&amp;#39;March&amp;#39;,&amp;#39;April&amp;#39;,&amp;#39;May&amp;#39;,&amp;#39;June&amp;#39;,&amp;#39;July&amp;#39;,&amp;#39;August&amp;#39;,&amp;#39;September&amp;#39;,&amp;#39;October&amp;#39;,&amp;#39;November&amp;#39;,&amp;#39;December&amp;#39;); var date = ((now.getDate()&amp;lt;10) ? &amp;#34;0&amp;#34; : &amp;#34;&amp;#34;)+ now.</description>
     </item>
     
   </channel>
