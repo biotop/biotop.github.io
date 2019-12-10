@@ -344,21 +344,6 @@
   </url>
   
   <url>
-    <loc>http://biotop.co/categories/archaeology/</loc>
-    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://biotop.co/de/categories/archaeology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://biotop.co/categories/archaeology/"
-                />
-  </url>
-  
-  <url>
     <loc>http://biotop.co/tags/archaeology/</loc>
     <lastmod>2019-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -370,6 +355,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://biotop.co/tags/archaeology/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/categories/archaeology/</loc>
+    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/categories/archaeology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/categories/archaeology/"
                 />
   </url>
   
