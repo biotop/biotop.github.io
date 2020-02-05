@@ -133,6 +133,20 @@
   </url>
   
   <url>
+    <loc>http://biotop.co/de/people/andreas-koerner/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/andreas-koerner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/andreas-koerner/"
+                />
+  </url>
+  
+  <url>
     <loc>http://biotop.co/de/people/martin-fera/</loc>
     <xhtml:link
                 rel="alternate"
@@ -185,6 +199,160 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://biotop.co/de/people/roberto-maffulli/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/people/kilian-rieder/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/kilian-rieder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/kilian-rieder/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/people/thi-hoang/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/thi-hoang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/thi-hoang/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/people/michael-moser/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/michael-moser/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/michael-moser/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/people/martin-schnabl/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/martin-schnabl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/martin-schnabl/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/people/herwig-scherabon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/herwig-scherabon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/herwig-scherabon/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/people/alexander-erlich/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/alexander-erlich/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/alexander-erlich/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/people/ursula-smole/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/ursula-smole/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/ursula-smole/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/people/christine-marizzi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/christine-marizzi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/christine-marizzi/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/people/danai-dimitropoulou/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/danai-dimitropoulou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/danai-dimitropoulou/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/people/jacob-almagro/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/jacob-almagro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/jacob-almagro/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/people/josef-ehgarter/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/josef-ehgarter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/josef-ehgarter/"
                 />
   </url>
   
@@ -339,21 +507,6 @@
   </url>
   
   <url>
-    <loc>http://biotop.co/de/tags/archaeology/</loc>
-    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://biotop.co/tags/archaeology/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://biotop.co/de/tags/archaeology/"
-                />
-  </url>
-  
-  <url>
     <loc>http://biotop.co/de/categories/archaeology/</loc>
     <lastmod>2019-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -365,6 +518,21 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://biotop.co/de/categories/archaeology/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://biotop.co/de/tags/archaeology/</loc>
+    <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/tags/archaeology/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/tags/archaeology/"
                 />
   </url>
   
@@ -1175,20 +1343,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://biotop.co/de/projects/sciencecomic/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://biotop.co/de/people/andreas-koerner/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://biotop.co/people/andreas-koerner/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://biotop.co/de/people/andreas-koerner/"
                 />
   </url>
   
