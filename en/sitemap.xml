@@ -175,6 +175,20 @@
   </url>
   
   <url>
+    <loc>http://biotop.co/people/dieter-gutschi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://biotop.co/de/people/dieter-gutschi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://biotop.co/people/dieter-gutschi/"
+                />
+  </url>
+  
+  <url>
     <loc>http://biotop.co/people/mariangela-panniello/</loc>
     <xhtml:link
                 rel="alternate"
