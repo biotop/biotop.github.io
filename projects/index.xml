@@ -1,78 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects on Biotop Science Collective</title>
-    <link>http://biotop.co/projects/</link>
-    <description>Recent content in Projects on Biotop Science Collective</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 13 Aug 2019 09:22:55 +0200</lastBuildDate>
-    
-	<atom:link href="http://biotop.co/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Exhibitions</title>
-      <link>http://biotop.co/projects/exhibitions/</link>
-      <pubDate>Tue, 13 Aug 2019 09:23:31 +0200</pubDate>
-      
-      <guid>http://biotop.co/projects/exhibitions/</guid>
-      <description>We are passionate about making science accessible. Exhibitions on scientific topics that would allow people to just &amp;ldquo;drop by&amp;rdquo; or accidentally stroll in, have been a key part of our activities.
- Thus far, we&amp;rsquo;ve organised exhibitions in Villach and London and have put together a christmas calendar that bridged the virtual and the real. We design and build our exhibits ourselves and love the creative and transdisciplinary process involved in every aspect of putting an exhibition together</description>
-    </item>
-    
-    <item>
-      <title>Workshops</title>
-      <link>http://biotop.co/projects/workshops/</link>
-      <pubDate>Tue, 13 Aug 2019 09:23:10 +0200</pubDate>
-      
-      <guid>http://biotop.co/projects/workshops/</guid>
-      <description>At Biotop*, we develop a variety of workshop concepts for everyone who would like to gain a hands-on experience of science.
-Microscopes  If you are interested in building your own microscope and want to learn how to use it, join us for one of our Foldscope workshops.
- Dates upon arrangement
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Biotop Science Collective</title><link>http://biotop.co/projects/</link><description>Recent content in Projects on Biotop Science Collective</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 13 Aug 2019 09:22:55 +0200</lastBuildDate><atom:link href="http://biotop.co/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>Exhibitions</title><link>http://biotop.co/projects/exhibitions/</link><pubDate>Tue, 13 Aug 2019 09:23:31 +0200</pubDate><guid>http://biotop.co/projects/exhibitions/</guid><description>We are passionate about making science accessible. Exhibitions on scientific topics that would allow people to just &amp;ldquo;drop by&amp;rdquo; or accidentally stroll in, have been a key part of our activities.
+Thus far, we&amp;rsquo;ve organised exhibitions in Villach and London and have put together a christmas calendar that bridged the virtual and the real. We design and build our exhibits ourselves and love the creative and transdisciplinary process involved in every aspect of putting an exhibition together</description></item><item><title>Workshops</title><link>http://biotop.co/projects/workshops/</link><pubDate>Tue, 13 Aug 2019 09:23:10 +0200</pubDate><guid>http://biotop.co/projects/workshops/</guid><description>At Biotop*, we develop a variety of workshop concepts for everyone who would like to gain a hands-on experience of science.
+Microscopes If you are interested in building your own microscope and want to learn how to use it, join us for one of our Foldscope workshops.
+Dates upon arrangement
 Cost: 15€ incl. your own paper microscope
- Spectroscopes  If you&amp;rsquo;re curious about how light can be separated into its spectral colors, join us for a workshop aimed at building paper-based spectroscopes.</description>
-    </item>
-    
-    <item>
-      <title>Our Services</title>
-      <link>http://biotop.co/projects/our-services/</link>
-      <pubDate>Tue, 13 Aug 2019 09:22:55 +0200</pubDate>
-      
-      <guid>http://biotop.co/projects/our-services/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Containerlab</title>
-      <link>http://biotop.co/projects/containerlab/</link>
-      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/projects/containerlab/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6  Paragraph text Inline Code text Mistaken text. Italics Bold
- Tasks
- a task list item list syntax required normal formatting incomplete completed   Code Blocks
-4 space indention makes full-width standard code blocks  var now = new Date(); var days = new Array(&amp;#39;Sunday&amp;#39;,&amp;#39;Monday&amp;#39;,&amp;#39;Tuesday&amp;#39;,&amp;#39;Wednesday&amp;#39;,&amp;#39;Thursday&amp;#39;,&amp;#39;Friday&amp;#39;,&amp;#39;Saturday&amp;#39;); var months = new Array(&amp;#39;January&amp;#39;,&amp;#39;February&amp;#39;,&amp;#39;March&amp;#39;,&amp;#39;April&amp;#39;,&amp;#39;May&amp;#39;,&amp;#39;June&amp;#39;,&amp;#39;July&amp;#39;,&amp;#39;August&amp;#39;,&amp;#39;September&amp;#39;,&amp;#39;October&amp;#39;,&amp;#39;November&amp;#39;,&amp;#39;December&amp;#39;); var date = ((now.getDate()&amp;lt;10) ? &amp;#34;0&amp;#34; : &amp;#34;&amp;#34;)+ now.</description>
-    </item>
-    
-    <item>
-      <title>DNA Barcoding</title>
-      <link>http://biotop.co/projects/barcoding/</link>
-      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/projects/barcoding/</guid>
-      <description>What is DNA-barcoding?  DNA-barcoding is a method that is uses a small section of the DNA to specify an organism. The chosen section has to be unique for every species. It is called barcode because it can be assigned distinctively like a supermarket barcode to a product.
-DNA stores genetic information like computercode only instead of the numbers 0 and 1 DNA uses four bases as &amp;lsquo;letters&amp;rsquo;: adenine, thymine, cytosine and guanine.</description>
-    </item>
-    
-    <item>
-      <title>Science Comic</title>
-      <link>http://biotop.co/projects/sciencecomic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://biotop.co/projects/sciencecomic/</guid>
-      <description>Comics and graphic novels are an amazing way of communicating science, and have become increasingly popular over the years. Comics tell stories in a way that&amp;rsquo;s neither just picture, nor pure text and thereby engage our brains in wonderful ways.</description>
-    </item>
-    
-  </channel>
-</rss>
+Spectroscopes If you&amp;rsquo;re curious about how light can be separated into its spectral colors, join us for a workshop aimed at building paper-based spectroscopes.</description></item><item><title>Our Services</title><link>http://biotop.co/projects/our-services/</link><pubDate>Tue, 13 Aug 2019 09:22:55 +0200</pubDate><guid>http://biotop.co/projects/our-services/</guid><description/></item><item><title>Containerlab</title><link>http://biotop.co/projects/containerlab/</link><pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate><guid>http://biotop.co/projects/containerlab/</guid><description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Paragraph text Inline Code text Mistaken text. Italics Bold
+Tasks
+a task list item list syntax required normal formatting incomplete completed Code Blocks
+4 space indention makes full-width standard code blocks var now = new Date(); var days = new Array(&amp;#39;Sunday&amp;#39;,&amp;#39;Monday&amp;#39;,&amp;#39;Tuesday&amp;#39;,&amp;#39;Wednesday&amp;#39;,&amp;#39;Thursday&amp;#39;,&amp;#39;Friday&amp;#39;,&amp;#39;Saturday&amp;#39;); var months = new Array(&amp;#39;January&amp;#39;,&amp;#39;February&amp;#39;,&amp;#39;March&amp;#39;,&amp;#39;April&amp;#39;,&amp;#39;May&amp;#39;,&amp;#39;June&amp;#39;,&amp;#39;July&amp;#39;,&amp;#39;August&amp;#39;,&amp;#39;September&amp;#39;,&amp;#39;October&amp;#39;,&amp;#39;November&amp;#39;,&amp;#39;December&amp;#39;); var date = ((now.getDate()&amp;lt;10) ? &amp;#34;0&amp;#34; : &amp;#34;&amp;#34;)+ now.</description></item><item><title>DNA Barcoding</title><link>http://biotop.co/projects/barcoding/</link><pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate><guid>http://biotop.co/projects/barcoding/</guid><description>What is DNA-barcoding? DNA-barcoding is a method that is uses a small section of the DNA to specify an organism. The chosen section has to be unique for every species. It is called barcode because it can be assigned distinctively like a supermarket barcode to a product.
+DNA stores genetic information like computercode only instead of the numbers 0 and 1 DNA uses four bases as &amp;lsquo;letters&amp;rsquo;: adenine, thymine, cytosine and guanine.</description></item><item><title>Science Comic</title><link>http://biotop.co/projects/sciencecomic/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>http://biotop.co/projects/sciencecomic/</guid><description>Comics and graphic novels are an amazing way of communicating science, and have become increasingly popular over the years. Comics tell stories in a way that&amp;rsquo;s neither just picture, nor pure text and thereby engage our brains in wonderful ways.</description></item></channel></rss>
